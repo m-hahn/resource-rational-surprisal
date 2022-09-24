@@ -1,0 +1,39 @@
+ Family: bernoulli 
+  Links: mu = logit 
+Formula: MissingVerb ~ True_Minus_False.C + (1 + True_Minus_False.C | workerid) + (1 | noun) + (1 + True_Minus_False.C | remainder) + (1 + True_Minus_False.C | matrices) 
+   Data: data (Number of observations: 666) 
+Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+         total post-warmup samples = 4000
+
+Group-Level Effects: 
+~matrices (Number of levels: 12) 
+                                  Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                         0.62      0.28     0.12     1.25 1.00     1297     1156
+sd(True_Minus_False.C)                0.10      0.08     0.00     0.30 1.00     2585     1976
+cor(Intercept,True_Minus_False.C)     0.16      0.56    -0.91     0.97 1.00     4762     2864
+
+~noun (Number of levels: 20) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.39      0.23     0.02     0.88 1.00     1345     1559
+
+~remainder (Number of levels: 28) 
+                                  Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                         0.35      0.23     0.02     0.85 1.00     1264     1976
+sd(True_Minus_False.C)                0.19      0.13     0.01     0.47 1.00     1012     1449
+cor(Intercept,True_Minus_False.C)    -0.03      0.56    -0.96     0.95 1.00     2046     2368
+
+~workerid (Number of levels: 60) 
+                                  Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                         3.65      0.58     2.68     4.93 1.00     1165     1830
+sd(True_Minus_False.C)                0.36      0.16     0.04     0.68 1.01      755      791
+cor(Intercept,True_Minus_False.C)     0.14      0.42    -0.69     0.84 1.00     2680     1894
+
+Population-Level Effects: 
+                   Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept             -1.63      0.57    -2.83    -0.55 1.00      860     1613
+True_Minus_False.C    -0.28      0.14    -0.57    -0.04 1.00     2471     2290
+
+Samples were drawn using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+[1] 0.01325

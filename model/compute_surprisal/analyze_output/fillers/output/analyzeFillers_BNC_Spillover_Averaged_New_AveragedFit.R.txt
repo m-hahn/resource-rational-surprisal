@@ -1,0 +1,15 @@
+Data: data
+Models:
+lmermodel_Surprisal: LogRT.x ~ SurprisalReweighted.x + wordInItem + LogWordFreq.x + 
+lmermodel_Surprisal:     LogWordFreq_COCA.R.x + WordLength.x + SurprisalReweighted.y + 
+lmermodel_Surprisal:     LogWordFreq.y + LogWordFreq_COCA.R.y + WordLength.y + LogRT.y + 
+lmermodel_Surprisal:     (1 | itemID.x) + (1 | workerid)
+lmermodel_Model: LogRT.x ~ SurprisalReweighted.x + wordInItem + LogWordFreq.x + 
+lmermodel_Model:     LogWordFreq_COCA.R.x + WordLength.x + SurprisalReweighted.y + 
+lmermodel_Model:     LogWordFreq.y + LogWordFreq_COCA.R.y + WordLength.y + LogRT.y + 
+lmermodel_Model:     (1 | itemID.x) + (1 | workerid)
+                    npar   AIC   BIC logLik deviance  Chisq Df Pr(>Chisq)    
+lmermodel_Surprisal   14 74306 74452 -37139    74278                         
+lmermodel_Model       14 74278 74424 -37125    74250 28.435  0  < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

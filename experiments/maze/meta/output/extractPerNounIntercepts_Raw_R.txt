@@ -1,0 +1,12 @@
+
+	Pearson's product-moment correlation
+
+data:  perNounEffects$embBias and perNounEffects$estimate
+t = -6.4149, df = 38, p-value = 1.538e-07
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.8431669 -0.5281653
+sample estimates:
+       cor 
+-0.7210426 
+

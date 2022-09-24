@@ -1,0 +1,12 @@
+b_HasRC.C  0 
+b_EmbeddingBias.C:HasSC.C  0.004 
+EmbeddingBiasAcrossTwoThree  0.002 
+Effect Depth 221.4698   148.7888   295.6375 
+Fact/Report Difference across Two/Three -159.094   -312.7775   -1.704239 
+Fact/Report Difference in Two -107.3384   -285.4635   78.84051 
+Fact/Report Difference in Three -361.3396   -624.0462   -107.2415 
+Fact/Report Difference within One 349.7369   14.7227   721.8979 
+Fact/Report-Like Difference across Two/Three -165.2371   -285.434   -44.92298 
+Fact/Report-Like Difference in Two -116.3072   -265.6589   32.2168 
+Fact/Report-Like Difference in Three -223.5859   -418.2205   -25.57089 
+Fact/Report-Like Difference within One 273.3153   7.011105   539.5416 

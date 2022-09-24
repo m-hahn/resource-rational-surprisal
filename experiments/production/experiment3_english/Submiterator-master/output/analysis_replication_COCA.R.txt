@@ -1,0 +1,33 @@
+ Family: bernoulli 
+  Links: mu = logit 
+Formula: MissingVerb ~ Conditional_COCA.C + (1 + Conditional_COCA.C | workerid) + (1 | noun) + (1 + Conditional_COCA.C | remainder) 
+   Data: data (Number of observations: 782) 
+Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+         total post-warmup samples = 4000
+
+Group-Level Effects: 
+~noun (Number of levels: 12) 
+              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)     0.45      0.23     0.05     0.96 1.00      945      957
+
+~remainder (Number of levels: 28) 
+                                  Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                         0.30      0.19     0.01     0.69 1.01     1021     1449
+sd(Conditional_COCA.C)                0.18      0.12     0.01     0.45 1.00     1547     2054
+cor(Intercept,Conditional_COCA.C)     0.23      0.54    -0.88     0.97 1.00     1956     2340
+
+~workerid (Number of levels: 79) 
+                                  Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                         3.03      0.40     2.32     3.91 1.00     1128     1736
+sd(Conditional_COCA.C)                0.26      0.16     0.01     0.62 1.00     1011     2031
+cor(Intercept,Conditional_COCA.C)     0.16      0.50    -0.84     0.93 1.00     4029     2586
+
+Population-Level Effects: 
+                   Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept              0.61      0.41    -0.18     1.45 1.00     1087     2046
+Conditional_COCA.C    -0.46      0.15    -0.77    -0.16 1.00     3243     2547
+
+Samples were drawn using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
+[1] 0.00375

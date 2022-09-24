@@ -1,0 +1,149 @@
+<html>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<head>
+    <title>Language Study</title>
+
+    <!--JS-->
+
+    <!-- external general utilities -->
+    <script src="../_shared/js/jquery-1.11.1.min.js "></script>
+    <script src="../_shared/full-projects/jquery-ui/jquery-ui.min.js"></script>
+    <script src="../_shared/js/underscore-min.js"></script>
+    <!-- if you want to draw stuff: -->
+    <script src="../_shared/js/raphael-min.js"></script>
+
+    <!-- cocolab experiment logic -->
+    <script src="../_shared/js/exp-V2.js"></script>
+    <script src="../_shared/js/stream-V2.js"></script>
+
+    <!-- cocolab general utilities -->
+    <script src="../_shared/js/mmturkey.js "></script>
+    <script src="../_shared/js/browserCheck.js"></script>
+    <script src="../_shared/js/utils.js"></script>
+
+    <!-- experiment specific helper functions -->
+    <script src="../_shared/preload.js"></script>     
+    
+
+
+
+    <!--CSS-->
+    <link href="../_shared/full-projects/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../_shared/css/cocolab-style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/local-style.css" rel="stylesheet" type="text/css"/>
+
+    <!-- experiment file -->
+    <script src="js/order-preference.js"></script>
+    <script src="expt-files/corpus.js"></script>
+
+
+
+   
+</head>
+
+<body onload="init();">
+  <noscript>This task requires JavaScript.</noscript>
+
+  <div class="slide" id="i0" >
+    <p id="cocolab">Stanford University, Department of Linguistics</p>
+    <p id="instruct-text">Este HIT implica completar las oraciones en español. La tarea debe tardar unos 20-30 minutos. Por favor, preste atención. ¡Gracias! <br/>  </p>
+    
+    <button id="start_button" type="button">Iniciar experimento</button>
+    <p id="legal">Legal information: LEGAL INFORMATION</p>
+  </div>
+
+  <div class="slide" id="instructions1">
+    <h3>Instructions</h3>
+    <p>
+En este experimento, estará  <b>completando oraciones</b>.
+    </p><p>Puede completar estas
+oraciones de la manera que desee, siempre y cuando usted haga una oración completa en español.
+<br>
+Escriba solo su finalización, no hay necesidad de escribir la parte que ya se le ha dado.
+<br>
+    </p><p>
+Asegúrese de formar oraciones completas. <!--Si no forma frases completas en Español  en     sus respuestas, no se le pagará.    </p>--> // everyone gets paid.
+    <button onclick="_s.button()">Continuar</button>
+  </div>
+
+<div class="slide" id="consent">
+<span id="consent-form" class="consent">
+CONSENT FORM
+	<p>Si acepta participar, por favor proceda al estudio.</p>
+    <button onclick="_s.button()">Weiter</button>
+</div>
+</span>
+</div>
+
+
+
+
+
+
+<!-- ############################################# -->
+  <div class="slide" id="multi_slider_context">
+  <p class="name_said"></p>
+  <br><br>
+Por favor complete la siguiente frase en el cuadro de texto:
+<br><br><br>
+<span class="first-sentence">100 %</span>...
+
+    <br><br>
+
+ <textarea rows="4" cols="80" id="completion">
+</textarea> 
+
+    <br><br>
+
+Puede completarlo de la forma que quiera, siempre y cuando haga una frase completa en español.
+<br><br>
+Escriba solo su finalización, no hay necesidad de escribir la parte que ya se le ha dado.
+<br>
+    <br><br>
+
+    <button onclick="_s.button()">Continuar</button>
+    <div class="err">Por favor complete la frase antes de continuar.</div>
+  </div>
+
+
+
+
+
+  <div class="slide"  id="subj_info">
+    <div class="long_form">
+      <div class="subj_info_title">Información adicional</div>
+      <p class="info">Responder a estas preguntas es opcional, pero nos ayudará a entender sus respuestas.</p>
+      <p>Idioma nativo: <input type="text" id="language"/></p>
+<label>(el(los) idioma(s) que se habla en casa cuando era niño)</label>
+
+
+      <p>¿Cuánto pago crees que es apropiado para este HIT? Por favor, indique la moneda (&#8364;, &#163;, $, ...). </p>
+      <input type="text" id="suggested_pay"/></p>
+
+      <p>Nos interesaría cualquier comentario que tenga sobre este experimento. Por favor, escríbalos aquí:</p>
+      <textarea id="comments" rows="3" cols="50"></textarea>
+      <br/>
+      <button onclick="_s.submit()">Continuar</button>
+    </div>
+  </div>
+
+  <div id="thanks" class="slide js" >
+    <p  class="big">Gracias por su tiempo</p>
+    <br><br>
+    <div class="redirect_prolific">Uploading your responses to the server...</div>
+  </div>
+
+  <div class="progress">
+    <span>Progress:</span>
+    <div class="bar-wrapper">
+      <div class="bar" width="0%">
+      </div>
+    </div>
+  </div>
+
+</body>
+
+
+</html>

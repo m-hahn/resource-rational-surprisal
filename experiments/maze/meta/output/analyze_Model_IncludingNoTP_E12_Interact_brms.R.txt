@@ -1,0 +1,61 @@
+ Family: gaussian 
+  Links: mu = identity; sigma = identity 
+Formula: LogRT ~ SurprisalReweighted.C * Experiment.C + (1 + Experiment.C + SurprisalReweighted.C + SurprisalReweighted.C * Experiment.C | noun) + (1 + Experiment.C + SurprisalReweighted.C + SurprisalReweighted.C * Experiment.C | item) + (1 + Experiment.C + SurprisalReweighted.C + SurprisalReweighted.C * Experiment.C | workerid) 
+   Data: data_ (Number of observations: 2733) 
+Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+         total post-warmup samples = 4000
+
+Group-Level Effects: 
+~item (Number of levels: 74) 
+                                                              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                                                     0.07      0.03     0.01     0.11 1.04      109      424
+sd(Experiment.C)                                                  0.11      0.07     0.00     0.23 1.05       65      827
+sd(SurprisalReweighted.C)                                         0.01      0.01     0.00     0.02 1.01      691     1019
+sd(Experiment.C:SurprisalReweighted.C)                            0.01      0.01     0.00     0.04 1.01      831     1466
+cor(Intercept,Experiment.C)                                       0.05      0.38    -0.71     0.74 1.01      444      774
+cor(Intercept,SurprisalReweighted.C)                              0.40      0.37    -0.46     0.91 1.01     1101     1380
+cor(Experiment.C,SurprisalReweighted.C)                           0.20      0.44    -0.73     0.88 1.02      492     1735
+cor(Intercept,Experiment.C:SurprisalReweighted.C)                 0.23      0.42    -0.67     0.88 1.00     1919     1662
+cor(Experiment.C,Experiment.C:SurprisalReweighted.C)              0.12      0.45    -0.75     0.85 1.01     1203     2426
+cor(SurprisalReweighted.C,Experiment.C:SurprisalReweighted.C)     0.18      0.43    -0.71     0.86 1.00     1992     2595
+
+~noun (Number of levels: 30) 
+                                                              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                                                     0.02      0.01     0.00     0.05 1.01     1041     1379
+sd(Experiment.C)                                                  0.05      0.03     0.00     0.10 1.00      667      569
+sd(SurprisalReweighted.C)                                         0.00      0.00     0.00     0.01 1.00     1434     1676
+sd(Experiment.C:SurprisalReweighted.C)                            0.01      0.01     0.00     0.02 1.00     1445     1746
+cor(Intercept,Experiment.C)                                      -0.00      0.40    -0.75     0.77 1.00     1860     1843
+cor(Intercept,SurprisalReweighted.C)                              0.15      0.42    -0.70     0.84 1.00     2257     2056
+cor(Experiment.C,SurprisalReweighted.C)                          -0.02      0.43    -0.81     0.78 1.00     1931     1654
+cor(Intercept,Experiment.C:SurprisalReweighted.C)                -0.05      0.43    -0.81     0.77 1.00     3458     1990
+cor(Experiment.C,Experiment.C:SurprisalReweighted.C)              0.19      0.45    -0.74     0.87 1.00     2436     1661
+cor(SurprisalReweighted.C,Experiment.C:SurprisalReweighted.C)    -0.04      0.44    -0.82     0.78 1.00     2357     2084
+
+~workerid (Number of levels: 301) 
+                                                              Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                                                     0.12      0.03     0.05     0.16 1.15       19       84
+sd(Experiment.C)                                                  0.15      0.10     0.00     0.31 1.19       15      145
+sd(SurprisalReweighted.C)                                         0.01      0.00     0.00     0.01 1.01      651     1134
+sd(Experiment.C:SurprisalReweighted.C)                            0.01      0.01     0.00     0.03 1.01      619     1412
+cor(Intercept,Experiment.C)                                       0.26      0.37    -0.60     0.86 1.09       30      101
+cor(Intercept,SurprisalReweighted.C)                              0.04      0.41    -0.75     0.78 1.01     1062     1215
+cor(Experiment.C,SurprisalReweighted.C)                          -0.05      0.44    -0.84     0.79 1.00     1770     1783
+cor(Intercept,Experiment.C:SurprisalReweighted.C)                -0.09      0.40    -0.79     0.73 1.01      562      609
+cor(Experiment.C,Experiment.C:SurprisalReweighted.C)              0.06      0.42    -0.74     0.82 1.00     1314     1692
+cor(SurprisalReweighted.C,Experiment.C:SurprisalReweighted.C)    -0.02      0.43    -0.80     0.79 1.00     1688     1886
+
+Population-Level Effects: 
+                                   Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept                              7.05      0.02     7.01     7.08 1.00     1872     2054
+SurprisalReweighted.C                  0.07      0.00     0.06     0.07 1.00     1304     1499
+Experiment.C                           0.02      0.04    -0.05     0.10 1.00     1632     1800
+SurprisalReweighted.C:Experiment.C     0.01      0.01    -0.01     0.03 1.00     2458     2591
+
+Family Specific Parameters: 
+      Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sigma     0.35      0.01     0.34     0.36 1.00     2056     1945
+
+Samples were drawn using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).

@@ -1,0 +1,5 @@
+b_compatible.C  0.04075 
+EmbeddingBiasAcrossTwoThree  NaN 
+Effect Compatibility within Two 73.76017   -9.606653   165.686 
+Fact/Report Difference in Two -10.72028   -193.8111   172.3068 
+Fact/Report Difference within One -10.72028   -193.8111   172.3068 

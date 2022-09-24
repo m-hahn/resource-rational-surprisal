@@ -1,0 +1,641 @@
+Count	Phrase	HasThat	Noun	Capital	HasVerb
+0	The inkling that	True	inkling	True	True
+0	The retort that	True	retort	True	False
+0	The skepticism that	True	skepticism	True	False
+0	The rise that	True	rise	True	False
+0	The disbelief that	True	disbelief	True	False
+0	The bet that	True	bet	True	False
+0	the annnouncement that	True	annnouncement	False	False
+0	the annnouncement	False	annnouncement	False	False
+0	The annnouncement	False	annnouncement	True	False
+0	The annnouncement that	True	annnouncement	True	False
+0	The self-confidence that	True	self-confidence	True	False
+0	the rumbling that	True	rumbling	False	True
+0	The rumbling that	True	rumbling	True	True
+0	The showing that	True	showing	True	True
+0	The delusion that	True	delusion	True	False
+0	the nervousness that	True	nervousness	False	False
+0	The nervousness that	True	nervousness	True	False
+0	The forecast that	True	forecast	True	False
+0	The beginning that	True	beginning	True	True
+0	The reassurance that	True	reassurance	True	False
+0	The reminder that	True	reminder	True	False
+0	The duck that	True	duck	True	False
+0	The prospects that	True	prospects	True	False
+0	the disqualification that	True	disqualification	False	False
+0	The disqualification that	True	disqualification	True	False
+0	The defensive that	True	defensive	True	False
+1	The reflection that	True	reflection	True	False
+1	The estimate that	True	estimate	True	False
+1	The bid that	True	bid	True	False
+1	The stand that	True	stand	True	False
+1	The disbelief	False	disbelief	True	False
+1	the amazement that	True	amazement	False	False
+1	The amazement that	True	amazement	True	False
+1	The remark that	True	remark	True	False
+1	The projection that	True	projection	True	False
+1	The responsibility that	True	responsibility	True	False
+1	The notice that	True	notice	True	False
+1	The indicator that	True	indicator	True	False
+1	The anticipation that	True	anticipation	True	False
+1	The certainty that	True	certainty	True	False
+1	the duck that	True	duck	False	False
+1	The disappointment that	True	disappointment	True	False
+1	The pretext that	True	pretext	True	False
+1	The talk that	True	talk	True	False
+1	The gamble that	True	gamble	True	False
+1	The relief that	True	relief	True	False
+1	The insurance that	True	insurance	True	False
+2	The inkling	False	inkling	True	False
+2	The self-confidence	False	self-confidence	True	False
+2	The lie that	True	lie	True	False
+2	The worry that	True	worry	True	False
+2	the showing that	True	showing	False	True
+2	The coincidence that	True	coincidence	True	False
+2	The dream that	True	dream	True	False
+3	the inkling that	True	inkling	False	True
+3	the retort that	True	retort	False	False
+3	The guarantee that	True	guarantee	True	False
+3	The proviso that	True	proviso	True	False
+3	The insistence that	True	insistence	True	False
+3	the disbelief that	True	disbelief	False	False
+3	The meaning that	True	meaning	True	True
+3	The confirmation that	True	confirmation	True	False
+3	The admission that	True	admission	True	False
+3	The assurance that	True	assurance	True	False
+3	The instruction that	True	instruction	True	False
+3	the gamble that	True	gamble	False	False
+3	The intention that	True	intention	True	False
+3	the defensive that	True	defensive	False	False
+4	The correspondence that	True	correspondence	True	False
+4	The indication that	True	indication	True	False
+4	The amazement	False	amazement	True	False
+4	The doubt that	True	doubt	True	False
+4	The assessment that	True	assessment	True	False
+4	The note that	True	note	True	False
+4	The precedent that	True	precedent	True	False
+4	The protest that	True	protest	True	False
+4	The reassurance	False	reassurance	True	False
+4	the insurance that	True	insurance	False	False
+5	The optimism that	True	optimism	True	False
+5	the forecast that	True	forecast	False	False
+5	the indicator that	True	indicator	False	False
+5	The justification that	True	justification	True	False
+6	The ruling that	True	ruling	True	True
+6	the inkling	False	inkling	False	False
+6	The figure that	True	figure	True	False
+6	the rise that	True	rise	False	False
+6	The grounds that	True	grounds	True	False
+6	The promise that	True	promise	True	False
+7	the skepticism that	True	skepticism	False	False
+7	The complaint that	True	complaint	True	False
+7	The ground that	True	ground	True	False
+7	the self-confidence that	True	self-confidence	False	False
+7	The joy that	True	joy	True	False
+7	The nervousness	False	nervousness	True	False
+7	The defense that	True	defense	True	False
+7	The request that	True	request	True	False
+7	The odds that	True	odds	True	False
+8	The demand that	True	demand	True	False
+8	the bid that	True	bid	False	False
+8	The truth that	True	truth	True	False
+8	The declaration that	True	declaration	True	False
+8	The care that	True	care	True	False
+9	The prediction that	True	prediction	True	False
+9	the prospects that	True	prospects	False	False
+9	the talk that	True	talk	False	False
+10	The speculation that	True	speculation	True	False
+10	The signal that	True	signal	True	False
+10	The confidence that	True	confidence	True	False
+10	The prospect that	True	prospect	True	False
+11	The bond that	True	bond	True	False
+11	The presumption that	True	presumption	True	False
+12	The hand that	True	hand	True	False
+12	The point that	True	point	True	False
+12	The reminder	False	reminder	True	False
+12	The objection that	True	objection	True	False
+13	The sign that	True	sign	True	False
+13	The provision that	True	provision	True	False
+13	the projection that	True	projection	False	False
+13	The stress that	True	stress	True	False
+13	the optimism that	True	optimism	False	False
+13	The accident that	True	accident	True	False
+14	The concern that	True	concern	True	False
+14	the bet that	True	bet	False	False
+14	The suspicion that	True	suspicion	True	False
+14	The threat that	True	threat	True	False
+16	The rumbling	False	rumbling	True	False
+16	The criticism that	True	criticism	True	False
+17	The skepticism	False	skepticism	True	False
+17	The function that	True	function	True	False
+17	The word that	True	word	True	False
+17	The certainty	False	certainty	True	False
+17	The conviction that	True	conviction	True	False
+18	The result that	True	result	True	False
+18	The extent that	True	extent	True	False
+18	the disappointment that	True	disappointment	False	False
+19	The understanding that	True	understanding	True	True
+19	The feeling that	True	feeling	True	True
+20	the correspondence that	True	correspondence	False	False
+20	The chance that	True	chance	True	False
+20	The assurance	False	assurance	True	False
+20	the reminder that	True	reminder	False	False
+21	The expectation that	True	expectation	True	False
+21	the doubt that	True	doubt	False	False
+21	The contention that	True	contention	True	False
+22	the notice that	True	notice	False	False
+22	the reassurance that	True	reassurance	False	False
+23	the estimate that	True	estimate	False	False
+23	The recognition that	True	recognition	True	False
+24	The risk that	True	risk	True	False
+25	The charge that	True	charge	True	False
+25	The hope that	True	hope	True	False
+25	The accusation that	True	accusation	True	False
+27	The sense that	True	sense	True	False
+27	The retort	False	retort	True	False
+27	The rumor that	True	rumor	True	False
+27	The decision that	True	decision	True	False
+28	the protest that	True	protest	False	False
+29	The impression that	True	impression	True	False
+29	the reflection that	True	reflection	False	False
+30	The proviso	False	proviso	True	False
+30	The allegation that	True	allegation	True	False
+32	The opinion that	True	opinion	True	False
+32	the anticipation that	True	anticipation	False	False
+33	The message that	True	message	True	False
+33	The position that	True	position	True	False
+33	the relief that	True	relief	False	False
+34	The myth that	True	myth	True	False
+34	the nervousness	False	nervousness	False	False
+35	The delusion	False	delusion	True	False
+35	the admission that	True	admission	False	False
+36	The fear that	True	fear	True	False
+37	The implication that	True	implication	True	False
+37	The proposal that	True	proposal	True	False
+38	The likelihood that	True	likelihood	True	False
+38	the worry that	True	worry	False	False
+40	the indication that	True	indication	False	False
+41	The report that	True	report	True	False
+41	The worry	False	worry	True	False
+41	the coincidence that	True	coincidence	False	False
+44	the joy that	True	joy	False	False
+45	The optimism	False	optimism	True	False
+45	The anticipation	False	anticipation	True	False
+47	the insistence that	True	insistence	False	False
+48	The insistence	False	insistence	True	False
+49	The rule that	True	rule	True	False
+49	The principle that	True	principle	True	False
+51	The perception that	True	perception	True	False
+53	The knowledge that	True	knowledge	True	False
+54	the confirmation that	True	confirmation	False	False
+55	the bond that	True	bond	False	False
+56	The effect that	True	effect	True	False
+57	The research that	True	research	True	False
+58	The finding that	True	finding	True	True
+62	The conclusion that	True	conclusion	True	False
+62	The showing	False	showing	True	False
+63	the assessment that	True	assessment	False	False
+65	The realization that	True	realization	True	False
+65	the figure that	True	figure	False	False
+65	the responsibility that	True	responsibility	False	False
+68	the disbelief	False	disbelief	False	False
+68	the stress that	True	stress	False	False
+68	The disqualification	False	disqualification	True	False
+69	the lie that	True	lie	False	False
+69	the dream that	True	dream	False	False
+70	The proof that	True	proof	True	False
+70	The doubt	False	doubt	True	False
+72	the complaint that	True	complaint	False	False
+73	the stand that	True	stand	False	False
+74	the reassurance	False	reassurance	False	False
+75	The condition that	True	condition	True	False
+76	The announcement that	True	announcement	True	False
+76	The coincidence	False	coincidence	True	False
+76	The revelation that	True	revelation	True	False
+77	the guarantee that	True	guarantee	False	False
+77	the care that	True	care	False	False
+78	the objection that	True	objection	False	False
+83	the instruction that	True	instruction	False	False
+84	The question that	True	question	True	False
+84	The assertion that	True	assertion	True	False
+84	the rumbling	False	rumbling	False	False
+84	the odds that	True	odds	False	False
+85	the certainty that	True	certainty	False	False
+87	The evidence that	True	evidence	True	False
+89	The contention	False	contention	True	False
+89	the defense that	True	defense	False	False
+90	The prospects	False	prospects	True	False
+91	the self-confidence	False	self-confidence	False	False
+93	The disappointment	False	disappointment	True	False
+94	The indication	False	indication	True	False
+97	the sign that	True	sign	False	False
+97	The guarantee	False	guarantee	True	False
+97	The pretext	False	pretext	True	False
+101	the delusion that	True	delusion	False	False
+101	the justification that	True	justification	False	False
+102	the ruling that	True	ruling	False	True
+104	The event that	True	event	True	False
+104	The time that	True	time	True	False
+105	The statement that	True	statement	True	False
+111	The information that	True	information	True	False
+111	The day that	True	day	True	False
+111	The concept that	True	concept	True	False
+116	The presumption	False	presumption	True	False
+118	The confidence	False	confidence	True	False
+121	the prediction that	True	prediction	False	False
+121	The precedent	False	precedent	True	False
+125	the remark that	True	remark	False	False
+126	The work that	True	work	True	False
+126	the precedent that	True	precedent	False	False
+128	The news that	True	news	True	False
+128	the meaning that	True	meaning	False	True
+134	the skepticism	False	skepticism	False	False
+135	The gamble	False	gamble	True	False
+137	the declaration that	True	declaration	False	False
+139	the speculation that	True	speculation	False	False
+139	the confidence that	True	confidence	False	False
+140	The speculation	False	speculation	True	False
+144	The suspicion	False	suspicion	True	False
+145	the signal that	True	signal	False	False
+146	the note that	True	note	False	False
+152	The argument that	True	argument	True	False
+152	the request that	True	request	False	False
+160	The suggestion that	True	suggestion	True	False
+162	the amazement	False	amazement	False	False
+164	the prospect that	True	prospect	False	False
+174	The story that	True	story	True	False
+176	the retort	False	retort	False	False
+182	the hand that	True	hand	False	False
+183	the demand that	True	demand	False	False
+185	The assumption that	True	assumption	True	False
+188	The objection	False	objection	True	False
+190	the question that	True	question	False	False
+193	the proof that	True	proof	False	False
+198	The indicator	False	indicator	True	False
+199	the function that	True	function	False	False
+206	The confirmation	False	confirmation	True	False
+208	The reflection	False	reflection	True	False
+208	the worry	False	worry	False	False
+212	the research that	True	research	False	False
+216	The requirement that	True	requirement	True	False
+220	The possibility that	True	possibility	True	False
+223	The way that	True	way	True	False
+225	The assertion	False	assertion	True	False
+226	the rumor that	True	rumor	False	False
+226	the beginning that	True	beginning	False	True
+231	The theory that	True	theory	True	False
+232	the assurance that	True	assurance	False	False
+236	The view that	True	view	True	False
+236	the criticism that	True	criticism	False	False
+239	The joy	False	joy	True	False
+241	The forecast	False	forecast	True	False
+242	The realization	False	realization	True	False
+242	the accident that	True	accident	False	False
+248	the reminder	False	reminder	False	False
+254	The duck	False	duck	True	False
+261	the optimism	False	optimism	False	False
+266	The understanding	False	understanding	True	False
+274	The odds	False	odds	True	False
+288	The belief that	True	belief	True	False
+289	The justification	False	justification	True	False
+294	The prediction	False	prediction	True	False
+300	the report that	True	report	False	False
+300	the word that	True	word	False	False
+311	the contention that	True	contention	False	False
+312	the presumption that	True	presumption	False	False
+317	The impression	False	impression	True	False
+323	The claim that	True	claim	True	False
+326	the accusation that	True	accusation	False	False
+331	the proposal that	True	proposal	False	False
+335	the threat that	True	threat	False	False
+351	The likelihood	False	likelihood	True	False
+355	The insurance	False	insurance	True	False
+364	the suspicion that	True	suspicion	False	False
+367	The notion that	True	notion	True	False
+372	the delusion	False	delusion	False	False
+379	The perception	False	perception	True	False
+381	the concern that	True	concern	False	False
+382	the coincidence	False	coincidence	False	False
+392	The notice	False	notice	True	False
+404	The reason that	True	reason	True	False
+406	The lie	False	lie	True	False
+406	the anticipation	False	anticipation	False	False
+410	the recognition that	True	recognition	False	False
+417	the allegation that	True	allegation	False	False
+417	the myth that	True	myth	False	False
+418	The promise	False	promise	True	False
+419	The correspondence	False	correspondence	True	False
+420	the charge that	True	charge	False	False
+431	the finding that	True	finding	False	True
+432	The rumor	False	rumor	True	False
+440	The expectation	False	expectation	True	False
+440	The projection	False	projection	True	False
+444	The feeling	False	feeling	True	False
+450	the gamble	False	gamble	False	False
+460	the certainty	False	certainty	False	False
+461	the provision that	True	provision	False	False
+471	the truth that	True	truth	False	False
+471	the pretext that	True	pretext	False	False
+480	the chance that	True	chance	False	False
+488	The conviction	False	conviction	True	False
+504	the implication that	True	implication	False	False
+513	The criticism	False	criticism	True	False
+527	The defensive	False	defensive	True	False
+542	The sense	False	sense	True	False
+545	the indication	False	indication	False	False
+547	The recognition	False	recognition	True	False
+547	the conviction that	True	conviction	False	False
+551	The concern	False	concern	True	False
+560	the decision that	True	decision	False	False
+560	The remark	False	remark	True	False
+567	the proviso that	True	proviso	False	False
+570	the intention that	True	intention	False	False
+585	the showing	False	showing	False	False
+596	the promise that	True	promise	False	False
+597	the contention	False	contention	False	False
+615	The assessment	False	assessment	True	False
+623	The dream	False	dream	True	False
+626	The responsibility	False	responsibility	True	False
+633	the rule that	True	rule	False	False
+638	The knowledge	False	knowledge	True	False
+648	The revelation	False	revelation	True	False
+649	The accusation	False	accusation	True	False
+655	The fear	False	fear	True	False
+659	The suggestion	False	suggestion	True	False
+665	The admission	False	admission	True	False
+673	The hope	False	hope	True	False
+685	the assurance	False	assurance	False	False
+689	The stress	False	stress	True	False
+705	the speculation	False	speculation	False	False
+725	the fear that	True	fear	False	False
+754	The instruction	False	instruction	True	False
+756	the proviso	False	proviso	False	False
+767	the disqualification	False	disqualification	False	False
+774	the risk that	True	risk	False	False
+788	The assumption	False	assumption	True	False
+793	The opinion	False	opinion	True	False
+810	the evidence that	True	evidence	False	False
+827	the assertion that	True	assertion	False	False
+846	The bond	False	bond	True	False
+857	the feeling that	True	feeling	False	True
+861	The prospect	False	prospect	True	False
+888	The allegation	False	allegation	True	False
+901	the doubt	False	doubt	False	False
+907	the indicator	False	indicator	False	False
+925	The bid	False	bid	True	False
+932	the perception that	True	perception	False	False
+936	The talk	False	talk	True	False
+940	the revelation that	True	revelation	False	False
+947	the presumption	False	presumption	False	False
+954	the message that	True	message	False	False
+956	The belief	False	belief	True	False
+1002	The implication	False	implication	True	False
+1045	the justification	False	justification	False	False
+1049	The care	False	care	True	False
+1058	the disappointment	False	disappointment	False	False
+1081	The complaint	False	complaint	True	False
+1097	the statement that	True	statement	False	False
+1116	the expectation that	True	expectation	False	False
+1169	the guarantee	False	guarantee	False	False
+1180	the likelihood that	True	likelihood	False	False
+1204	the announcement that	True	announcement	False	False
+1213	The declaration	False	declaration	True	False
+1224	The relief	False	relief	True	False
+1227	the information that	True	information	False	False
+1247	The proof	False	proof	True	False
+1257	The myth	False	myth	True	False
+1265	the realization that	True	realization	False	False
+1265	The bet	False	bet	True	False
+1267	the concept that	True	concept	False	False
+1319	the work that	True	work	False	False
+1342	The request	False	request	True	False
+1361	the story that	True	story	False	False
+1382	the suggestion that	True	suggestion	False	False
+1392	The idea that	True	idea	True	False
+1405	the duck	False	duck	False	False
+1454	The threat	False	threat	True	False
+1460	The truth	False	truth	True	False
+1460	the prospects	False	prospects	False	False
+1463	the position that	True	position	False	False
+1482	the knowledge that	True	knowledge	False	False
+1524	the precedent	False	precedent	False	False
+1545	the confirmation	False	confirmation	False	False
+1550	the suspicion	False	suspicion	False	False
+1554	The conclusion	False	conclusion	True	False
+1561	the requirement that	True	requirement	False	False
+1614	The possibility	False	possibility	True	False
+1631	the reflection	False	reflection	False	False
+1633	the reason that	True	reason	False	False
+1688	the understanding that	True	understanding	False	True
+1714	The demand	False	demand	True	False
+1725	the forecast	False	forecast	False	False
+1741	the principle that	True	principle	False	False
+1763	the correspondence	False	correspondence	False	False
+1771	the ground that	True	ground	False	False
+1786	the assertion	False	assertion	False	False
+1846	The risk	False	risk	True	False
+1867	The requirement	False	requirement	True	False
+1879	the day that	True	day	False	False
+1967	the argument that	True	argument	False	False
+1968	The note	False	note	True	False
+1971	The message	False	message	True	False
+2018	the prediction	False	prediction	False	False
+2032	The argument	False	argument	True	False
+2072	The defense	False	defense	True	False
+2085	The provision	False	provision	True	False
+2158	The finding	False	finding	True	False
+2174	the objection	False	objection	False	False
+2197	the pretext	False	pretext	False	False
+2218	the insistence	False	insistence	False	False
+2281	the notice	False	notice	False	False
+2315	The signal	False	signal	True	False
+2320	The evidence	False	evidence	True	False
+2394	the projection	False	projection	False	False
+2394	The intention	False	intention	True	False
+2398	The grounds	False	grounds	True	False
+2422	the effect that	True	effect	False	False
+2441	The extent	False	extent	True	False
+2457	The notion	False	notion	True	False
+2476	The statement	False	statement	True	False
+2489	The claim	False	claim	True	False
+2494	The accident	False	accident	True	False
+2519	the rumor	False	rumor	False	False
+2647	The chance	False	chance	True	False
+2647	The meaning	False	meaning	True	False
+2690	The ruling	False	ruling	True	False
+2706	The rise	False	rise	True	False
+2732	the news that	True	news	False	False
+2920	the assessment	False	assessment	False	False
+2948	the result that	True	result	False	False
+3002	the theory that	True	theory	False	False
+3020	The announcement	False	announcement	True	False
+3117	The estimate	False	estimate	True	False
+3118	the odds	False	odds	False	False
+3125	The hand	False	hand	True	False
+3127	the joy	False	joy	False	False
+3135	The beginning	False	beginning	True	False
+3140	The view	False	view	True	False
+3156	the admission	False	admission	False	False
+3164	the opinion that	True	opinion	False	False
+3199	The way	False	way	True	False
+3262	The information	False	information	True	False
+3335	the event that	True	event	False	False
+3342	the remark	False	remark	False	False
+3355	the proof	False	proof	False	False
+3355	The principle	False	principle	True	False
+3361	the lie	False	lie	False	False
+3363	the realization	False	realization	False	False
+3397	The charge	False	charge	True	False
+3413	the claim that	True	claim	False	False
+3415	The protest	False	protest	True	False
+3557	the confidence	False	confidence	False	False
+3716	the impression that	True	impression	False	False
+3798	the revelation	False	revelation	False	False
+3820	the complaint	False	complaint	False	False
+3944	the implication	False	implication	False	False
+4007	The condition	False	condition	True	False
+4104	the insurance	False	insurance	False	False
+4118	the hope that	True	hope	False	False
+4379	the assumption that	True	assumption	False	False
+4479	the perception	False	perception	False	False
+4492	the notion that	True	notion	False	False
+4501	the conviction	False	conviction	False	False
+4580	the criticism	False	criticism	False	False
+4622	The theory	False	theory	True	False
+4625	The function	False	function	True	False
+4639	the way that	True	way	False	False
+4679	The point	False	point	True	False
+4805	the expectation	False	expectation	False	False
+4900	the dream	False	dream	False	False
+4950	the concern	False	concern	False	False
+4981	the sense that	True	sense	False	False
+5000	the extent that	True	extent	False	False
+5024	The figure	False	figure	True	False
+5035	the accusation	False	accusation	False	False
+5061	the talk	False	talk	False	False
+5069	the bid	False	bid	False	False
+5347	the point that	True	point	False	False
+5368	the conclusion that	True	conclusion	False	False
+5378	The proposal	False	proposal	True	False
+5417	The question	False	question	True	False
+5763	the bond	False	bond	False	False
+5801	the stress	False	stress	False	False
+5802	the recognition	False	recognition	False	False
+5855	the relief	False	relief	False	False
+6043	the possibility that	True	possibility	False	False
+6093	the fear	False	fear	False	False
+6181	the declaration	False	declaration	False	False
+6197	the instruction	False	instruction	False	False
+6213	the likelihood	False	likelihood	False	False
+6283	the feeling	False	feeling	False	False
+6487	the finding	False	finding	False	False
+6558	the view that	True	view	False	False
+6558	the condition that	True	condition	False	False
+6696	The research	False	research	True	False
+6726	The time	False	time	True	False
+7029	the estimate	False	estimate	False	False
+7117	the understanding	False	understanding	False	False
+7180	The position	False	position	True	False
+7267	The rule	False	rule	True	False
+7272	the defensive	False	defensive	False	False
+7441	The fact that	True	fact	True	False
+7467	the promise	False	promise	False	False
+7524	the suggestion	False	suggestion	False	False
+7795	the assumption	False	assumption	False	False
+7801	the belief that	True	belief	False	False
+8165	the impression	False	impression	False	False
+8302	The sign	False	sign	True	False
+8385	the allegation	False	allegation	False	False
+8443	the time that	True	time	False	False
+9053	The day	False	day	True	False
+9247	the argument	False	argument	False	False
+9284	the statement	False	statement	False	False
+9363	the prospect	False	prospect	False	False
+10196	the grounds that	True	grounds	False	False
+10378	the opinion	False	opinion	False	False
+10709	the knowledge	False	knowledge	False	False
+10936	the myth	False	myth	False	False
+11158	The stand	False	stand	True	False
+11322	The decision	False	decision	True	False
+11539	the note	False	note	False	False
+11540	The effect	False	effect	True	False
+11940	the announcement	False	announcement	False	False
+12248	The news	False	news	True	False
+12308	the belief	False	belief	False	False
+13358	the message	False	message	False	False
+13473	the protest	False	protest	False	False
+13540	The ground	False	ground	True	False
+13592	The fact	False	fact	True	False
+14053	The reason	False	reason	True	False
+14119	the signal	False	signal	False	False
+14300	the evidence	False	evidence	False	False
+14938	the accident	False	accident	False	False
+15252	the proposal	False	proposal	False	False
+15304	the notion	False	notion	False	False
+15343	the responsibility	False	responsibility	False	False
+15423	The report	False	report	True	False
+15429	the idea that	True	idea	False	False
+15951	the meaning	False	meaning	False	False
+16150	the hope	False	hope	False	False
+16251	the sense	False	sense	False	False
+16493	the demand	False	demand	False	False
+16698	The concept	False	concept	True	False
+17032	the defense	False	defense	False	False
+17547	the figure	False	figure	False	False
+17884	the intention	False	intention	False	False
+17976	the requirement	False	requirement	False	False
+18249	the threat	False	threat	False	False
+19112	the ruling	False	ruling	False	False
+19758	the claim	False	claim	False	False
+19867	the extent	False	extent	False	False
+20387	the research	False	research	False	False
+20548	the provision	False	provision	False	False
+21183	the charge	False	charge	False	False
+21405	the bet	False	bet	False	False
+22062	the theory	False	theory	False	False
+22205	The idea	False	idea	True	False
+22602	the request	False	request	False	False
+22731	the care	False	care	False	False
+23203	the information	False	information	False	False
+24702	The word	False	word	True	False
+24845	the function	False	function	False	False
+25142	the principle	False	principle	False	False
+25303	the rise	False	rise	False	False
+26440	the truth	False	truth	False	False
+26990	the risk	False	risk	False	False
+27873	the report	False	report	False	False
+30062	the chance	False	chance	False	False
+30320	the conclusion	False	conclusion	False	False
+31705	the question	False	question	False	False
+33205	the grounds	False	grounds	False	False
+33469	the condition	False	condition	False	False
+33615	The work	False	work	True	False
+33871	The event	False	event	True	False
+35044	the reason	False	reason	False	False
+36175	the view	False	view	False	False
+38037	the possibility	False	possibility	False	False
+44136	The story	False	story	True	False
+49425	the decision	False	decision	False	False
+51095	The result	False	result	True	False
+52944	the rule	False	rule	False	False
+53463	the sign	False	sign	False	False
+53667	the concept	False	concept	False	False
+54482	the point	False	point	False	False
+58678	the news	False	news	False	False
+60162	the hand	False	hand	False	False
+67055	the effect	False	effect	False	False
+71687	the stand	False	stand	False	False
+79976	the position	False	position	False	False
+89260	the fact that	True	fact	False	False
+89810	the word	False	word	False	False
+100614	the idea	False	idea	False	False
+116044	the result	False	result	False	False
+121691	the story	False	story	False	False
+129306	the way	False	way	False	False
+129523	the fact	False	fact	False	False
+130168	the day	False	day	False	False
+135567	the ground	False	ground	False	False
+142735	the beginning	False	beginning	False	False
+148861	the event	False	event	False	False
+189204	the work	False	work	False	False
+508571	the time	False	time	False	False

@@ -1,0 +1,179 @@
+<html>
+
+<head>
+    <title>Language Study</title>
+
+    <!--JS-->
+
+    <!-- external general utilities -->
+    <script src="../_shared/js/jquery-1.11.1.min.js "></script>
+    <script src="../_shared/full-projects/jquery-ui/jquery-ui.min.js"></script>
+    <script src="../_shared/js/underscore-min.js"></script>
+    <!-- if you want to draw stuff: -->
+    <script src="../_shared/js/raphael-min.js"></script>
+
+    <!-- cocolab experiment logic -->
+    <script src="../_shared/js/exp-V2.js"></script>
+    <script src="../_shared/js/stream-V2.js"></script>
+
+    <!-- cocolab general utilities -->
+    <script src="../_shared/js/mmturkey.js "></script>
+    <script src="../_shared/js/browserCheck.js"></script>
+    <script src="../_shared/js/utils.js"></script>
+    <!-- if you want to draw cute creatures (depends on raphael): -->
+    <!-- <script src="../_shared/js/ecosystem.js"></script> -->
+
+    <!-- experiment specific helper functions -->
+    <!-- <script src="js/local-utils.js"></script> -->
+    <script src="../_shared/preload.js"></script>     
+    
+
+
+
+    <!--CSS-->
+    <link href="../_shared/full-projects/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../_shared/css/cocolab-style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/local-style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/Maze.css" rel="stylesheet" type="text/css"/>
+
+    <!-- experiment file -->
+    <script src="js/order-preference.js"></script>
+    <script src="expt-files/corpus.js"></script>
+
+    <!-- check unique turkers -->
+    <!--    <script src="../_shared/js/uniqueturker.js"></script>-->
+
+
+   
+</head>
+
+<body onload="init();">
+  <noscript>This task requires JavaScript.</noscript>
+
+  <div class="slide" id="i0" >
+    <!--<img src="../_shared/images/cocologo.png" alt="Stanford Linguistics" id="cocologo"></img>-->
+    <p id="cocolab">Stanford Linguistics</p>
+    <p id="instruct-text">This task involves reading English sentences. The task should take about 15 minutes. Please pay attention. Thanks! <br/>  <br/> 
+    <!--We'll be posting a series of similar hits. Please accept only one of these.--> </p>
+    
+    <button id="start_button" type="button">Start Experiment</button>
+    <p id="legal">Legal information: LEGAL INFORMATION</p>
+  </div>
+
+  <div class="slide" id="instructions1">
+    <h3>Instructions</h3>
+   You will read a series of English sentences.
+   <br>
+   <br>
+   For this experiment, please place your left index finger on the 'e' key and your right index finger on the 'i' key.
+   </p>
+   <p> You will read sentences word by word. On each screen you will see two options: one will be the next word in the sentence, and one will not. Select the word that continues the sentence by pressing 'e' (left-hand) for the word on the left or pressing 'i' (right-hand) for the word on the right.</p>
+   <p>Select the best word as quickly as you can, but without making too many errors.</p>
+   <p>Don't worry if you make errors occasionally. Participants typically make an error once every 30 words. The first four sentences will serve as practice and not contain attention checks.</p>
+    </p>
+    <button onclick="_s.button()">Continue</button>
+  </div>
+
+  <div class="slide" id="rest">
+    <h3>Break</h3>
+Thank you for your work so far. You may take a short break in order to rest, if you want.
+<br>
+Press `Continue' once you are ready to continue.
+<br>
+</p>
+    </p>
+    <button onclick="_s.button()">Continue</button>
+  </div>
+
+
+
+
+
+
+
+<div class="slide" id="consent">
+ <span id="consent-form" class="consent">
+CONSENT FORM
+<p>If you agree to participate, please proceed to the study tasks.</p>
+   <button onclick="_s.button()">Continue</button>
+ </div>
+ </span>
+</div>
+
+
+
+<!-- ############################################# -->
+
+
+  <div class="slide" id="maze">
+      <div style="text-align: center;">
+          <div class="Maze-counter">Words so far: 0</div>
+          <table>
+              <tr class="Maze-words">
+                  <td style="width : 30px;"></td>
+                  <td class="Maze-lword">environmentalist</td>
+                  <td style="width : 0px;"></td>
+                  <td class="Maze-rword">angering</td>
+                  <td style="width : 30px;"></td>
+              </tr>
+              <tr class="Maze-arrow">
+                  <td class="Maze-larrow">e</td>
+                  <td class="Maze-rarrow">i</td>
+              </tr>
+          </table>
+          <div class="Maze-error"></div></div>
+
+  </div>
+
+
+
+
+
+
+  <div class="slide"  id="subj_info">
+    <div class="long_form">
+      <div class="subj_info_title">Additional information</div>
+      <p class="info">Answering these questions is optional, but will help us understand your answers.</p>
+      <p>Did you read the instructions and do you think you did the task correctly?</p>
+      <label><input type="radio"  name="assess" value="No"/>No</label>
+      <label><input type="radio"  name="assess" value="Yes"/>Yes</label>
+      <label><input type="radio"  name="assess" value="Confused"/>I was confused</label>
+
+      <p>Native Language: <input type="text" id="language"/></p>
+      <label>(the language(s) spoken at home when you were a child)</label>
+
+      <p>Did you enjoy the task?</p>
+      <select id="enjoyment">
+        <label><option value="-1"></option></label>
+        <label><option value="0">Worse than the Average task</option></label>
+        <label><option value="1" >An Average task</option></label>
+        <label><option value="2">Better than average task</option></label>
+      </select>
+
+      <p>How much pay do you think is appropriate for this task? Please indicate currency (&#163;, $, ...). </p>
+      <input type="text" id="suggested_pay"/></p>
+
+      <p>We would be interested in any comments you have about this experiment. Please type them here:</p>
+      <textarea id="comments" rows="3" cols="50"></textarea>
+      <br/>
+      <button onclick="_s.submit()">Submit</button>
+    </div>
+  </div>
+
+  <div id="thanks" class="slide js" >
+    <p  class="big">Thanks for your time!</p>
+    <br><br>
+    <div class="redirect_prolific">Uploading your responses to the server...</div>
+  </div>
+
+  <div class="progress">
+    <span>Progress:</span>
+    <div class="bar-wrapper">
+      <div class="bar" width="0%">
+      </div>
+    </div>
+  </div>
+</body>
+
+
+</html>

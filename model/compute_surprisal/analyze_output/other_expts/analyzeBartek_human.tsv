@@ -1,0 +1,37 @@
+Stimuli	Measure	Embedding	Intervening	ReadingTime	Error
+Grodner & Gibson	Self-Paced Reading	Matrix	none	550	20
+Grodner & Gibson	Self-Paced Reading	Matrix	pp	570	20
+Grodner & Gibson	Self-Paced Reading	Matrix	rc	630	50
+Grodner & Gibson	Self-Paced Reading	Embedded	none	720	100
+Grodner & Gibson	Self-Paced Reading	Embedded	pp	830	100
+Grodner & Gibson	Self-Paced Reading	Embedded	rc	950	100
+Grodner & Gibson	ET: Total Fixation Times	Matrix	none	550	70
+Grodner & Gibson	ET: Total Fixation Times	Matrix	pp	600	70
+Grodner & Gibson	ET: Total Fixation Times	Matrix	rc	540	70
+Grodner & Gibson	ET: Total Fixation Times	Embedded	none	780	80
+Grodner & Gibson	ET: Total Fixation Times	Embedded	pp	810	90
+Grodner & Gibson	ET: Total Fixation Times	Embedded	rc	1050	100
+Grodner & Gibson	ET: First Pass Times	Matrix	none	270	90
+Grodner & Gibson	ET: First Pass Times	Matrix	pp	290	90
+Grodner & Gibson	ET: First Pass Times	Matrix	rc	305	100
+Grodner & Gibson	ET: First Pass Times	Embedded	none	330	100
+Grodner & Gibson	ET: First Pass Times	Embedded	pp	335	100
+Grodner & Gibson	ET: First Pass Times	Embedded	rc	350	120
+Bartek et al.	Self-Paced Reading	Matrix	none	370	10
+Bartek et al.	Self-Paced Reading	Matrix	pp	400	10
+Bartek et al.	Self-Paced Reading	Matrix	rc	397	10
+Bartek et al.	Self-Paced Reading	Embedded	none	400	20
+Bartek et al.	Self-Paced Reading	Embedded	pp	410	20
+Bartek et al.	Self-Paced Reading	Embedded	rc	430	20
+Bartek et al.	ET: Total Fixation Times	Matrix	none	390	20
+Bartek et al.	ET: Total Fixation Times	Matrix	pp	380	20
+Bartek et al.	ET: Total Fixation Times	Matrix	rc	390	20
+Bartek et al.	ET: Total Fixation Times	Embedded	none	310	20
+Bartek et al.	ET: Total Fixation Times	Embedded	pp	390	20
+Bartek et al.	ET: Total Fixation Times	Embedded	rc	400	20
+Bartek et al.	ET: First Pass Times	Matrix	none	250	50
+Bartek et al.	ET: First Pass Times	Matrix	pp	260	50
+Bartek et al.	ET: First Pass Times	Matrix	rc	270	50
+Bartek et al.	ET: First Pass Times	Embedded	none	235	50
+Bartek et al.	ET: First Pass Times	Embedded	pp	245	60
+Bartek et al.	ET: First Pass Times	Embedded	rc	250	70

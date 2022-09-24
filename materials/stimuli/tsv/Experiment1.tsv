@@ -1,0 +1,45 @@
+ID	Type	Noun1	Noun2	Verb1	Verb2_Incompatible	Verb2_Compatible	Verb3	Nouns	Experiment	CriticalVerb
+Mixed_0	adj	lifeguard	children	admired	was brave	was curious	excited everyone          	CLAIM FACT	-	excited
+Mixed_1	adj	commander	president	appointed	was fired	was ignored	annoyed people	CLAIM FACT	E1	annoyed
+Mixed_2	adj	criminal	officer	arrested	was innocent	was reliable	turned out to be entirely bogus	CLAIM	E1	turned
+Mixed_3	adj	victim	criminal	assaulted	remained crippled	remained hidden	was unnerving	CLAIM FACT	-	was
+Mixed_4	vn	surgeon	nurse	assisted	read the news	made the news	was not a secret	CLAIM FACT	E1	was
+Mixed_5	adj	worker	thug	attacked	was rescued	was questioned	surprised people  	CLAIM FACT	E1	surprised
+Mixed_6	free	pianist	sponsors	backed	played sonatas	sounded hopeful	pleased everyone	CLAIM FACT	E1	pleased
+Mixed_7	free	actor	producer	blamed	got very sick	made everyone cry	was sad to hear	FACT CLAIM	E1	was
+Mixed_8	free	politician	banker	bribed	laundered money	disappointed people	came as a shock to his supporters	FACT CLAIM ACCUSATION	E1	came
+Mixed_9	vn	paramedic	swimmer	called	saved the children	pleased the children	was good news	CLAIM FACT	E1	was
+Mixed_10	free	extremist	agent	caught	received awards	received attention	was unfortunate	FACT CLAIM	-	was
+Mixed_11	vn	trader	businessman	consulted	tricked Kim	hurt Kim	did not bother Mary	CLAIM FACT ACCUSATION	E1	did
+Mixed_12	adj	mayor	farmer	disliked	was elected	was refuted	did not bother the farmer       	CLAIM FACT	E1	did
+Mixed_13	free	neighbor	woman	distrusted	poisoned the dog	startled the child	seemed to be a malicious smear      	CLAIM ACCUSATION	E1	seemed
+Mixed_14	vn	senator	diplomat	encountered	opposed Josh	bothered Josh	was absolutely true	CLAIM	E1	was
+Mixed_15	adj	preacher	parishioners	fired	was lying	was annoying	startled Anne         	CLAIM FACT ACCUSATION	E1	startled
+Mixed_16	adj	student	professor	hated	was lazy	was foolish	gained traction in the university	CLAIM ACCUSATION	-	gained
+Mixed_17	vn	counselor	writer	hired	hated the janitor	surprised the janitor	was dismissed as untrue	CLAIM	E1	was
+Mixed_18	free	singer	fans	idolized	won a prize	made people happy	was exciting	CLAIM FACT	E1	was
+Mixed_19	vn	CEO	employee	impressed	teased everyone	annoyed everyone	drove Bill crazy	CLAIM FACT ACCUSATION	E1	drove
+Mixed_20	adj	assistant	philanthropist	instructed	proved inept	proved wrong	was no surprise	CLAIM FACT	-	was
+Mixed_21	adj	tycoon	journalist	interviewed	was evil	was idiotic	could not be disproven	CLAIM ACCUSATION	-	could
+Mixed_22	free	boy	bully	intimidated	plagiarized his homework	drove everyone crazy	dismayed his parents	CLAIM FACT ACCUSATION	-	dismayed
+Mixed_23	free	sculptor	painter	invited	made sculptures	made headlines	did not surprise anyone	CLAIM FACT	E1	did
+Mixed_24	free	principal	teacher	liked	turned everyone down	calmed everyone down	surprised the parents	CLAIM FACT	E1	surprised
+Mixed_25	free	dancer	audience	loved	was interviewed on TV	was featured on TV	seemed exciting	CLAIM FACT	E1	seemed
+Mixed_26	adj	entrepreneur 	trickster	misled	was admired everywhere	was appreciated everywhere	gave Mary fits	CLAIM FACT	E1	gave
+Mixed_27	vn	musician	father	missed	injured the artist	displeased the artist	came as a surprise	CLAIM FACT	-	came
+Mixed_28	adj	babysitter	parent	paid	seemed competent	seemed trustworthy	turned out to be unfounded	CLAIM	-	turned
+Mixed_29	free	engineer	tenant	phoned	repaired the TV	appeared on TV	was very believable	CLAIM	E1	was
+Mixed_30	adj	mobster	media	portrayed	seemed corrupt	seemed unreliable	gave Josh the chills	CLAIM FACT	-	gave
+Mixed_31	adj	trickster	witness	recognized	was arrested	was acknowledged	calmed people down	CLAIM FACT	E1	calmed
+Mixed_32	vn	vendor	storeowner	recruited	welcomed the client	satisfied the client	had excited the boss	CLAIM FACT	-	satisfied
+Mixed_33	free	scientist	mayor	relied on	had faked data	couldn't be trusted	made Sue angry	CLAIM ACCUSATION	E1	made
+Mixed_34	vn	bureaucrat	guard	shouted at	instructed the newscaster	disturbed the newscaster	was bogus	CLAIM	E1	was
+Mixed_35	adj	employee	manager	supervised	was reprimanded	was dismissed	devastated his family	CLAIM FACT	E1	devastated
+Mixed_36	adj	president	commander	supported	was impeached	was confirmed	shocked the people	CLAIM FACT	E1	shocked
+Mixed_37	adj	clerk	customer	talked to	was heroic	was sad	appeared to be a lie	CLAIM	-	was
+Mixed_38	adj	driver	tourist	thanked	was ill	was crazy	bothered Bill	CLAIM FACT	E1	bothered
+Mixed_39	vn	thief	detective	tracked	robbed everyone	frightened everyone	was disconcerting 	CLAIM FACT ACCUSATION	E1	was
+Mixed_40	vn	athlete	coach	trained	expressed anger	provoked anger	came as a disappointment	FACT CLAIM ACCUSATION	E1	came
+Mixed_41	free	runner	psychiatrist	treated	won the marathon	was widely known	seemed very interesting	CLAIM FACT	E1	seemed
+Mixed_42	adj	doctor	patient	visited	was talented	was credible	impressed the whole city	CLAIM FACT	E1	impressed
+Mixed_43	vn	pediatrician	receptionist	worked for	mistrusted the parent	disturbed the parent	had troubled people 	CLAIM FACT	E1	had

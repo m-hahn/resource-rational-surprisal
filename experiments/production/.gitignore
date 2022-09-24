@@ -1,0 +1,6 @@
+SERVER_PATH.py
+*.swj
+*.swk
+*.swl
+*.swm
+.~lock*#

@@ -1,0 +1,691 @@
+completion	workerid	condition	item	sentence1	slide_number	verbs	whichVerb
+1	a nadie le gusta hizo era muy difícil.	23	SC_RC	MEDIUM_3	La prueba de que el director que 	14	3	NA
+2	abusó sexualmente de una empleada puede haberlo estado haciendo durante años está muy extendida entre todos sus subordinados. (CEO as in Chief Executive Officer)	51	SC_RC	MEDIUM_6	La creencia de que el CEO que 	28	3	NA
+3	acababa de fallecer robo varias de sus canciones, fue un choque para varios 	16	SC_RC	MEDIUM_11	La impresión de que el violinista que 	35	3	NA
+4	acaban de terminar era mas lindo que el otro no era verdad.	23	SC_RC	MEDIUM_11	La impresión de que el corredor que 	22	3	NA
+5	accidentalmente eliminó los reportes era su visible incomodidad en la reunión.	29	SC_RC	MEDIUM_0	La señal de que el empleado que 	12	NA	NA
+6	acepta el recorte de sueldo para mantener a su equipo es honrado no se puede discutir.	31	SC_RC	MEDIUM_8	La hipótesis de que el senador que 	37	3	NA
+7	actuo en defensa.	10	SC_RC	MEDIUM_0	El reconocimiento de que la víctima que 	28	1	NA
+8	al viaja por el espacio le acompaña un husky de Marte es, obviamente, mentira.	33	SC_RC	MEDIUM_2	La ficción de que el estudiante que 	40	2	2
+9	algún día podría ir a marte nació de un libro que su padre le leyó de pequeño. 	37	SC_RC	MEDIUM_5	La ficción de que el estudiante que 	23	3	NA
+10	amaba su vocación era incierta. 	3	SC_RC	MEDIUM_6	La certeza de que el violinista que 	24	2	NA
+11	antepone sus necesidades ante las de sus inferiores no tiene por qué suceder siempre	35	SC_RC	MEDIUM_10	El convencimiento de que el comandante que 	31	2	NA
+12	aparece en el libro es el hecho de que en secreto es un hombre lobo.	29	SC_RC	MEDIUM_5	La ficción de que el taxista que 	40	NA	NA
+13	aparecia en las peliculas era similar a los de la vida real era falsa	46	SC_RC	MEDIUM_6	La creencia de que el mafioso que 	10	3	NA
+14	apoyó a Trump fue sobornado acabó saliendo a la luz y sorprendiendo a la mayoría de los estadounidenses.	72	SC_RC	MEDIUM_5	La historia de que el senador que 	7	3	NA
+15	aprendio el instrumento muy joven tenia talento era obvio.	10	SC_RC	MEDIUM_3	La realidad de que el violinista que 	34	3	NA
+16	aprobó la nueva ley.	30	SC_RC	MEDIUM_6	El convencimiento de que el senador que 	30	1	NA
+17	Aprobó todo ha copiado es incierta	19	SC_RC	MEDIUM_10	La sospecha de que el estudiante que 	36	3	NA
+18	asaltó la tienda era conocido de los dueños fue confirmada más tarde	12	SC_RC	MEDIUM_8	La hipótesis de que el criminal que 	38	3	NA
+19	aseguraba sanar a la gente, en realidad era un estafador, quedó revelada.	36	SC_RC	MEDIUM_5	La realidad de que el predicador que 	41	3	NA
+20	asesinó a su esposa y a sus hijos, es totalmente falsa. 	3	SC_RC	MEDIUM_2	La información de que el actor que 	27	2	NA
+21	asesinó al hombre de 42 años sigue siendo una preocupación para los habitantes del pueblo.	62	SC_RC	MEDIUM_10	El hecho de que el criminal que 	22	2	NA
+22	atenta contra los demás, es un verdadero peligro.	64	SC_RC	MEDIUM_5	El reconocimiento de que el extremista que 	21	2	NA
+23	atracó un estanco el pasado lunes ha sido detenido es falsa.	51	SC_RC	MEDIUM_0	La historia de que el criminal que 	37	3	NA
+24	atraparon no era el culpable	12	SC_RC	MEDIUM_2	La señal de que el mafioso que 	26	2	NA
+25	atrapó al ladrón sospechaba del mismo fue su contínua vigilancia desde el mimso momento que entró en la tienda.	1	SC_RC	MEDIUM_7	La impresión de que el vendedor que 	34	NA	NA
+26	Ayudaba a sus vecinos ha muerto, es real	19	SC_RC	MEDIUM_5	El reporte de que el mafioso que 	38	3	NA
+27	ayudaba a todos nadie nunca la creyó.	26	SC_RC	MEDIUM_0	La ficción de que el político que 	7	2	NA
+28	ayudó a esos pobres niños es bastante completo.	38	SC_RC	MEDIUM_3	El reporte de que el salvavidas que 	35	NA	NA
+29	becaron pasó todas sus materias.	30	SC_RC	MEDIUM_8	La conclusión de que el estudiante que 	24	NA	NA
+30	Busca crecer es falsa	60	SC_RC	MEDIUM_3	La realidad de que el empresario que 	14	2	2
+31	buscábamos estuviera escondido en el bar resultó cierto.	50	SC_RC	MEDIUM_8	El rumor de que el mafioso que 	35	3	NA
+32	cobra caro es mejor no es del todo cierto.	17	SC_RC	MEDIUM_7	El hecho de que el taxista que 	20	3	NA
+33	cobra muy caro sueñe con tener un negocio no es muy factible 	24	SC_RC	MEDIUM_10	La impresión de que el taxista que 	17	3	NA
+34	coma sano gana fácilmente no siempre se cumple	35	SC_RC	MEDIUM_3	La realidad de que el corredor que 	8	NA	NA
+35	comenzó esta reunión quería irse, era evidente ya que se apresuró en hablar y miraba el reloj repetidamente.	29	SC_RC	MEDIUM_10	La impresión de que el director que 	14	NA	NA
+36	cometía crímenes fue descubierto	35	SC_RC	MEDIUM_1	El reporte de que el predicador que 	35	2	NA
+37	cometió actos de corrupción durante todo el sexenio junto con sus amigos es verdadera. 	73	SC_RC	MEDIUM_0	La prueba de que el político que 	36	2	NA
+38	cometió el delito, se encuentra en la estación de policías, muy bien resguardada.	67	SC_RC	MEDIUM_3	La prueba de que el taxista que 	30	3	NA
+39	cometió esos crímenes es él, se basa en su comparación con la grabación de seguridad.	29	SC_RC	MEDIUM_2	El reconocimiento de que el mafioso que 	37	NA	NA
+40	cometió fraude no fuera castigado, provocó una revuelta entre los accionistas.	50	SC_RC	MEDIUM_11	El hecho de que el empresario que 	18	3	NA
+41	comía 7 veces al día, es obeso es innegable 	16	SC_RC	MEDIUM_8	La certeza de que el director que 	16	3	NA
+42	Compré se haya roto es porque lo tiré por la ventana	60	SC_RC	MEDIUM_11	El hecho de que el librero que 	8	3	NA
+43	compro la edicion primera era increible.	10	SC_RC	MEDIUM_6	El hecho de que el librero que 	42	2	NA
+44	compró su compañía la mantuviera intacta, se desvaneció casi instantáneamente.	36	SC_RC	MEDIUM_1	El sueño de que el empresario que 	28	3	NA
+45	compro un Stradivarius y luego lo perdio en el metro, es falsa.	41	SC_RC	MEDIUM_0	La historia de que el violinista que 	40	NA	NA
+46	conoci el Viernes me vino a ver me asusto. 	21	SC_RC	MEDIUM_4	El sueño de que el extremista que 	26	3	NA
+47	conocían todos, era parte de una banda, era muy fuerte	43	SC_RC	MEDIUM_7	El convencimiento de que el vecino que 	41	3	NA
+48	conocimos fuma la tengo aquí. 	20	SC_RC	MEDIUM_4	La prueba de que el director que 	23	3	NA
+49	consiguió meter la empresa en bolsa fue hecho por el jefe	55	SC_RC	MEDIUM_1	El reconocimiento de que el empresario que 	22	2	NA
+50	contenía los mejores libros es mentira. 	3	SC_RC	MEDIUM_7	La convicción de que el librero que 	11	2	NA
+51	contrataba menores era muy turbia.	57	SC_RC	MEDIUM_3	La realidad de que el empresario que 	38	2	NA
+52	contrataron para la pelicula fue condenado por abuso podría provocar que el proyecto fuera cancelado.	53	SC_RC	MEDIUM_2	El reporte de que el director que 	34	3	NA
+53	contrató a un sicario para matar al líder de la mafia enemiga la dio un testigo que escuchó la conversación por teléfono.	72	SC_RC	MEDIUM_1	La información de que el mafioso que 	15	NA	NA
+54	contrato era triste era muy evidente.	8	SC_RC	MEDIUM_8	La impresión de que el violinista que 	8	3	NA
+55	controlaba la ciudad era alguien increíblemente malvado estaba equivocada, en realidad el era un hombre muy piadoso, pero nació en este entorno y debía estar a cargo de sus subordinados.	37	SC_RC	MEDIUM_7	La creencia de que el mafioso que 	35	NA	NA
+56	corrieron fue el culpable era erróneo. 	20	SC_RC	MEDIUM_7	El convencimiento de que el empleado que 	11	3	NA
+57	cree en su religion a morir es fanatismo.	25	SC_RC	MEDIUM_6	La hipótesis de que el extremista que 	30	2	NA
+58	creía en la igualdad de genero, era importante 	43	SC_RC	MEDIUM_5	La señal de que el político que 	18	2	NA
+59	creo la estatua de David era un mentiroso es falso.	10	SC_RC	MEDIUM_8	El rumor de que el escultor que 	40	3	NA
+60	creo la vacuna del covid ya la tenia lista emociono al mundo entero. 	39	SC_RC	MEDIUM_5	La información de que el científico que 	31	2	NA
+61	creó obras de arte maravillosas es un artista, es real. 	3	SC_RC	MEDIUM_8	El convencimiento de que el escultor que 	16	3	NA
+62	cuida de las plantas envenenó a un animal es falso.	4	SC_RC	MEDIUM_6	El rumor de que el vecino que 	31	3	NA
+63	daba la misa estaba en lo correcto.	30	SC_RC	MEDIUM_5	La ficción de que el predicador que 	42	2	NA
+64	deambula por las tres de la mañana es un acosador tiene merito	16	SC_RC	MEDIUM_9	La hipótesis de que el taxista que 	42	3	NA
+65	decía ser inocente fue finalmente encontrada.	14	SC_RC	MEDIUM_3	La prueba de que el criminal que 	7	2	NA
+66	decidio pasar leyes contra las drogas era drogadicto, fue probado por un informante anonimo.	40	SC_RC	MEDIUM_6	El rumor de que el senador que 	20	3	NA
+67	declinó la oferta estaba ampliamente comprometido con otros trabajos para los próximos meses da muestra de su notable celebridad.	1	SC_RC	MEDIUM_11	La conclusión de que el escultor que 	42	3	NA
+68	dejó olvidada ayer ha sido regresada a su dueño	9	SC_RC	MEDIUM_8	La creencia de que el CEO que 	16	2	NA
+69	denuncio el caso haya sobrevivido es increible.	25	SC_RC	MEDIUM_7	El hecho de que la víctima que 	28	3	NA
+70	desaparecía de noche era un criminal fue aceptada por los demás miembros del hospital.	0	SC_RC	MEDIUM_6	La certeza de que el cirujano que 	33	3	NA
+71	desapareció estaba muerta sonaba muy fuerte.	57	SC_RC	MEDIUM_8	El rumor de que el víctima que 	42	3	NA
+72	Desapareció, finalmente es que fue secuestrado y asesinado.	69	SC_RC	MEDIUM_0	La realidad de que el corredor que 	12	2	NA
+73	desarrolló la vacuna es un genio debe ser cierta. 	20	SC_RC	MEDIUM_8	La convicción de que el científico que 	36	3	NA
+74	descubrió la cura del cáncer, era falsa.	62	SC_RC	MEDIUM_1	La historia de que el científico que 	9	2	NA
+75	descubrió la vacuna fue secuestrado nos sorprendió a todos.	31	SC_RC	MEDIUM_11	La certeza de que el científico que 	27	3	NA
+76	descubrió la vacuna, no ha sido reconocido, es inexplicable	69	SC_RC	MEDIUM_1	La señal de que el científico que 	28	3	NA
+77	deseaba abandonar la empresa lo tenía decidido desde hacía tiempo fue haber vendido todo su paquete de acciones en los meses anteriores.	1	SC_RC	MEDIUM_5	La prueba de que el CEO que 	13	3	NA
+78	deseaba atacar el Palacio Presidencial tenía planos del interior resultó ser falsa.	1	SC_RC	MEDIUM_1	La información de que el extremista que 	11	3	NA
+79	despidió a 5 empleados es en realidad un infiltrado, me pone los pelos de punta.	62	SC_RC	MEDIUM_8	El rumor de que el CEO que 	34	3	NA
+80	despidió a esos maestros injustificadamente, fue muy mala.	38	SC_RC	MEDIUM_11	La impresión de que el director que 	37	NA	NA
+81	detuvo la tercera guerra mundial es que fue un espía alemán. 	16	SC_RC	MEDIUM_2	La realidad de que el comandante que 	12	2	NA
+82	dice el cliente siempre tiene la razón, enseña a sus trabajadores que su opinion no tiene valor. 	7	SC_RC	MEDIUM_10	La creencia de que el vendedor que 	14	2	NA
+83	difundía las noticias más recientes de la iglesia posiblemente tenía una enfermedad terminal resultó ser real.	48	SC_RC	MEDIUM_2	El reporte de que el predicador que 	32	3	NA
+84	digire la escuela es falso.	17	SC_RC	MEDIUM_0	El reconocimiento de que el director que 	37	2	NA
+85	dijo esas cosas de mi madre, es que es un hombre muy malo.	23	SC_RC	MEDIUM_0	La realidad de que el predicador que 	19	2	NA
+86	dio el sermon no sabía lo que hacía fue claro cuando despidió a la ciudad equivocada al final	12	SC_RC	MEDIUM_4	El reconocimiento de que el predicador que 	30	3	NA
+87	dirige esta compañía hablaba, era muy complicada de entender.	36	SC_RC	MEDIUM_2	La ficción de que el CEO que 	12	2	NA
+88	dirige la compañía puede ser el propietario de la misma. 	3	SC_RC	MEDIUM_11	La hipótesis de que el CEO que 	35	2	NA
+89	dirigió aquella película tan famosa de vaqueros, era racista, fue demostrado y se le puso una sanción.	74	SC_RC	MEDIUM_8	El convencimiento de que el director que 	21	3	NA
+90	dirigió las operaciones no sabía de la existencia de las bombas atómicas.	63	SC_RC	MEDIUM_1	El reporte de que el comandante que 	37	2	NA
+91	diseñó la bomba atómica fue asesinado está respaldada por sus compañeros y familiares más cercanos.	53	SC_RC	MEDIUM_10	La hipótesis de que el científico que 	24	3	NA
+92	dominaba la ciudad tiene de que le han traicionado es cada vez mayor.	4	SC_RC	MEDIUM_11	El convencimiento de que el mafioso que 	41	3	NA
+93	donaba la mitad de su salario a la caridad ha salido en todos los periódicos. 	26	SC_RC	MEDIUM_3	La información de que el empresario que 	12	2	NA
+94	donaba millones a la caridad, era en realidad un estafador, decepciono a miles. 	16	SC_RC	MEDIUM_5	La información de que el empresario que 	21	3	NA
+95	dormía alegremente había subido a aquel arbol resultaba inverosímil desde el principio.	14	SC_RC	MEDIUM_0	La ficción de que el niño que 	21	3	NA
+96	editaba genéticamente seres humanos.	64	SC_RC	MEDIUM_3	La ficción de que el científico que 	31	2	NA
+97	ejecutó esa orden estaba cegado por sus emociones no abandonó al jurado en toda la sesión sin importar quien pudiera hablar en su favor.	53	SC_RC	MEDIUM_11	El convencimiento de que el comandante que 	21	3	NA
+98	el director esperaba había llegado, fue errónea. 	49	SC_RC	MEDIUM_1	La señal de que el empresario que 	29	2	NA
+99	el había perdido la batalla fue muy rápida, en el fondo el sabía que esta era una batalla perdida desde el inicio.	37	SC_RC	MEDIUM_10	La conclusión de que el comandante que 	13	NA	NA
+100	él no había cometido el crimen era tanto que la policía llego a pensar que tal vez tenía una doble personalidad.	37	SC_RC	MEDIUM_6	El convencimiento de que el criminal que 	32	2	NA
+101	elegimos resuelva los problemas del pueblo, seguirá siendo un sueño.	50	SC_RC	MEDIUM_1	El sueño de que el político que 	16	2	NA
+102	empezó a tocar desde niño es muy impresionante	9	SC_RC	MEDIUM_4	La historia de que el violinista que 	13	2	NA
+103	empieza una carrera de ingenieria sale con trabajo es mentira	2	SC_RC	MEDIUM_2	La realidad de que el estudiante que 	33	3	NA
+104	en aquel tiempo dirigía nuestra empresa nos llevaría al éxito fue derrumbándose con el pasar de los años.	48	SC_RC	MEDIUM_10	La convicción de que el director que 	19	3	NA
+105	encontramos le perteneciera a un famoso, no parece ir por buen camino.	54	SC_RC	MEDIUM_7	La hipótesis de que el librero que 	14	3	NA
+106	encontró el cuerpo de la anciana parece ser falso.	45	SC_RC	MEDIUM_1	El reporte de que el vecino que 	19	2	NA
+107	encontró la cura a la enfermedad consistía solo en un diploma.	45	SC_RC	MEDIUM_3	El reconocimiento de que el científico que 	14	2	NA
+108	encontro la cura para el cancer ha dado la vuelta al mundo.	25	SC_RC	MEDIUM_3	La información de que el científico que 	33	2	NA
+109	engaña a los creyentes, es algo realmente interesante para todos. 	64	SC_RC	MEDIUM_11	El hecho de que el predicador que 	19	2	NA
+110	engañó al hombre, era real 	43	SC_RC	MEDIUM_8	La convicción de que el embaucador que 	15	2	NA
+111	era muy violento con los demás.	64	SC_RC	MEDIUM_9	La impresión de que el comandante que 	29	2	NA
+112	era tan grande, musculoso y valiente, sólo quedó en eso: ficción.	67	SC_RC	MEDIUM_1	La ficción de que el salvavidas que 	13	2	NA
+113	es amigo del jefe sube más rápido no es tan ficción como parece.	27	SC_RC	MEDIUM_0	La ficción de que el empleado que 	12	3	NA
+114	es callado, sufre depresión.	28	SC_RC	MEDIUM_5	La señal de que el niño que 	22	2	NA
+115	es corrupto, puede llegar a ser verdadera.	28	SC_RC	MEDIUM_10	La convicción de que el senador que 	38	2	NA
+116	es malo es correcta. 	21	SC_RC	MEDIUM_6	La convicción de que el político que 	32	2	NA
+117	es malvado y mata a sus pacientes puede ser real	35	SC_RC	MEDIUM_2	La ficción de que el cirujano que 	12	2	NA
+118	es muy platicador, me tiene sin cuidado.	3	SC_RC	MEDIUM_0	La realidad de que el taxista que 	13	2	NA
+119	es vegetariano corre mucho mas, es cuestionada.	41	SC_RC	MEDIUM_1	La realidad de que el corredor que 	12	NA	NA
+120	escapó de la ley tendría que ser actualizado una vez más.	0	SC_RC	MEDIUM_2	El reporte de que el librero que 	30	2	NA
+121	escogieron cumplió sus expectativas es necesario para mantener la motivación que necesita para continuar la campaña.	53	SC_RC	MEDIUM_0	El reconocimiento de que el senador que 	17	3	NA
+122	escribe muchos libros es un embustero es muy importante de ver.	27	SC_RC	MEDIUM_3	La señal de que el predicador que 	28	3	NA
+123	escribio la cancion esta en el website.	13	SC_RC	MEDIUM_0	La información de que el violinista que 	38	2	NA
+124	Esculpió el David de Miguel Angel es un referente es completamente aceptado por toda la sociedad artística 	19	SC_RC	MEDIUM_11	El convencimiento de que el escultor que 	12	3	NA
+125	está corriendo fuma no es muy buena.	22	SC_RC	MEDIUM_11	La impresión de que el corredor que 	15	3	NA
+126	está en el salón esté lleno de libros que me he leído se cumplirá algún día.	72	SC_RC	MEDIUM_4	El sueño de que el librero que 	19	3	NA
+127	está en la biblioteca esté a la venta sorprendió a todos 	24	SC_RC	MEDIUM_4	La información de que el librero que 	37	3	NA
+128	Está en libros supera a realidad	60	SC_RC	MEDIUM_2	La ficción de que el embaucador que 	34	2	NA
+129	Está en su oficina aun no está listo	60	SC_RC	MEDIUM_1	El reporte de que el director que 	26	2	NA
+130	está en una clase se está quedando dormido es que empiece a parpadear cada vez más lento y más repetidamente.	72	SC_RC	MEDIUM_2	La señal de que el estudiante que 	24	3	NA
+131	está haciendo las pruebas, esté falsificando los resultados, tiene mucho sentido.	54	SC_RC	MEDIUM_1	La información de que el científico que 	38	3	NA
+132	esta propiedad estaba fuera de sus manos, no lo podia creer casi había obtenido millones.	37	SC_RC	MEDIUM_2	El reconocimiento de que el embaucador que 	40	3	NA
+133	está supervisando a los alumnos, puede con el cargo, cada vez queda más clara.	54	SC_RC	MEDIUM_11	La certeza de que el director que 	25	3	NA
+134	esta tocando es el hijo de tu amiga	18	SC_RC	MEDIUM_9	La certeza de que el violinista que 	32	2	NA
+135	Está vinculado con otras cosas	60	SC_RC	MEDIUM_8	El rumor de que el CEO que 	12	1	NA
+136	estaba a cargo no sancionó a los rebeldes es prueba de que no estaba calificado para este trabajo	12	SC_RC	MEDIUM_10	El hecho de que el comandante que 	28	3	NA
+137	estaba al frente había mostrado en tal situación logró sorprender a todos los presentes.	0	SC_RC	MEDIUM_9	La convicción de que el empresario que 	13	3	NA
+138	estaba aqui hoy erea dificil	13	SC_RC	MEDIUM_7	La sospecha de que el mafioso que 	36	2	NA
+139	estaba con nosotros de creer que eramos gallinas, a veces nos hacía reir	55	SC_RC	MEDIUM_4	La ficción de que el comandante que 	31	2	NA
+140	estaba de servicio los domingos nunca decía la verdad, le pareció a todos los presentes aterradora.	6	SC_RC	MEDIUM_7	La hipótesis de que el predicador que 	16	3	NA
+141	estaba de turno fuera competente se disolvió al verlo caminar por la puerta.	50	SC_RC	MEDIUM_10	La convicción de que el cirujano que 	30	3	NA
+142	estaba ebrio no había realizado bien el procedimiento, fue presentada ante los jurados.	6	SC_RC	MEDIUM_5	La prueba de que el cirujano que 	30	3	NA
+143	estaba en aquella esquina había estafado a dos ancianas llegó a la policía.	14	SC_RC	MEDIUM_4	El reporte de que el embaucador que 	27	3	NA
+144	estaba en el agua golpeo a su amigo era falsa	55	SC_RC	MEDIUM_11	La hipótesis de que el niño que 	13	3	NA
+145	estaba en el piso fuera la mujer que buscábamos resultó ser correcta.	50	SC_RC	MEDIUM_6	La impresión de que la víctima que 	38	2	NA
+146	estaba en la calle era Juan Lopez, es mentira ya que el sigue en la carcel.	7	SC_RC	MEDIUM_11	El convencimiento de que el criminal que 	30	2	NA
+147	estaba en la calle, estaba enfermo, era alta	46	SC_RC	MEDIUM_9	La sospecha de que el niño que 	15	3	NA
+148	estaba en la entrada, ha sido muy buena ya que parecia una persona muy amable.	7	SC_RC	MEDIUM_8	La impresión de que el embaucador que 	23	2	NA
+149	estaba en la escena del crimen era cierta	55	SC_RC	MEDIUM_5	La prueba de que la víctima que 	7	NA	NA
+150	Estaba en la plaza, ya lo habíamos visto antes, era muy fuerte.	69	SC_RC	MEDIUM_11	La convicción de que el vendedor que 	26	3	NA
+151	estaba en pie era corrupto era clara.	14	SC_RC	MEDIUM_10	La certeza de que el político que 	15	3	NA
+152	estaba en su puesto no habría llegado a tiempo para salvarle la vida fue afortunadamente errónea.	14	SC_RC	MEDIUM_7	La impresión de que el salvavidas que 	23	3	NA
+153	estaba engañando a alguien.	30	SC_RC	MEDIUM_1	La señal de que el embaucador que 	26	1	NA
+154	estaba escribiendo no esta listo.	13	SC_RC	MEDIUM_3	La ficción de que el comandante que 	41	2	NA
+155	Estaba junto a mi me vio	60	SC_RC	MEDIUM_5	El señal de que el vecino que 	39	2	1
+156	estaba participando podía ganar era baja, según el juez	46	SC_RC	MEDIUM_8	La convicción de que el violinista que 	13	3	NA
+157	estaba siendo acusado era culpable, yacía en su computadora	46	SC_RC	MEDIUM_0	La prueba de que el empresario que 	20	3	NA
+158	estaba siendo entrevistado era el hijo ilegitimo del presidente del país era un tema un tema contingente en redes sociales	46	SC_RC	MEDIUM_7	El hecho de que el CEO que 	37	3	NA
+159	estaba siendo robado fue raro.	25	SC_RC	MEDIUM_4	El sueño de que el vecino que 	9	2	NA
+160	estaba tras bastidores era para terminar la obra antes de lo establecido.	7	SC_RC	MEDIUM_1	La señal de que el director que 	40	2	NA
+161	estaba vendiendo demasiado caro las cosas.	30	SC_RC	MEDIUM_10	La impresión de que el vendedor que 	7	NA	NA
+162	estafaba a sus fieles era culpable está comenzando a extenderse.	14	SC_RC	MEDIUM_5	El reconocimiento de que el predicador que 	13	3	NA
+163	estafó a los turistas era el culpable de que acabasen en la calle era la más acertada.	72	SC_RC	MEDIUM_7	La convicción de que el embaucador que 	13	3	NA
+164	Estafó a más de mil personas era un genio, es algo que muy a nuestro pesar no podemos negar	69	SC_RC	MEDIUM_2	El reconocimiento de que el embaucador que 	16	3	NA
+165	estafó a mis padres esté libre me parece un insulto a toda mi familia.	45	SC_RC	MEDIUM_10	El hecho de que el embaucador que 	23	3	NA
+166	estafó a todos, es en realidad un fantasma.	3	SC_RC	MEDIUM_9	El rumor de que el embaucador que 	8	2	NA
+167	estamos leyendo se pondrá triste la estamos sintiendo todos. 	20	SC_RC	MEDIUM_9	La impresión de que el librero que 	18	3	NA
+168	este era un mal negocio no dejaba de atacarlo, las condiciones no podían ser tan a su favor.	37	SC_RC	MEDIUM_8	La impresión de que el empresario que 	27	NA	NA
+169	estudia musica es mas inteligente, no esta basada en estudios cientificos.	41	SC_RC	MEDIUM_7	La hipótesis de que el niño que 	25	3	NA
+170	estudie esudio es evidente durante el examen.	17	SC_RC	MEDIUM_8	La certeza de que el estudiante que 	22	NA	NA
+171	estudió toda la noche es inspirador  	9	SC_RC	MEDIUM_1	La realidad de que el científico que 	23	2	NA
+172	estuvo a punto de ganar la medalla fue que practicó mucho para llegar al mundial	55	SC_RC	MEDIUM_0	El reporte de que el corredor que 	34	2	NA
+173	estuvo enfermo llegó a que era una tapadera para encubrir que realmente se dopaba.	5	SC_RC	MEDIUM_11	La conclusión de que el corredor que 	22	2	NA
+174	estuvo implicado en el accidente fueron ciertas.	5	SC_RC	MEDIUM_9	La sospecha de que el niño que 	8	2	NA
+175	exporta droga y vende armas, es buena persona, es falsa.	54	SC_RC	MEDIUM_10	La creencia de que el mafioso que 	22	3	NA
+176	falleció ahogada era nula, una simple artimaña del asesino para hacer pensar de que era un suicidio.	5	SC_RC	MEDIUM_4	La prueba de que la víctima que 	17	2	NA
+177	Falló en el naufragio estaba defectuoso, ha salido a la luz.	69	SC_RC	MEDIUM_4	El reporte de que el salvavidas que 	18	3	NA
+178	fallo gravemente la operacion, es que se graduo con un diploma falso y ejercio medicina ilegalmente.	40	SC_RC	MEDIUM_3	La realidad de que el cirujano que 	41	2	NA
+179	faltaba a la ópera era incompleta para realizar una acusación formal.	50	SC_RC	MEDIUM_5	La información de que el violinista que 	8	2	NA
+180	fingía ser bueno para despistar a la policía la empezó a tener el comandante Pérez.	26	SC_RC	MEDIUM_7	La sospecha de que el mafioso que 	25	2	NA
+181	firmo el contracto era impresionante.	10	SC_RC	MEDIUM_10	La certeza de que el empresario que 	23	2	NA
+182	formó Apple, siguiera estando en vida, y que los iPhone no fueran una basura, esta descartado.	38	SC_RC	MEDIUM_1	El sueño de que el CEO que 	16	3	NA
+183	forzó dichas reglas no se disculpara causó que los padres de familia cuestionaran sus habilidades en manejar una escuela.	0	SC_RC	MEDIUM_10	El hecho de que el director que 	24	3	NA
+184	Fue acusado de pederastia, fue tomada con demasiada precipitación.	69	SC_RC	MEDIUM_8	La conclusión de que el predicador que 	37	2	NA
+185	fue arrestado estaba lavando dinero	18	SC_RC	MEDIUM_0	El reporte de que el político que 	28	2	NA
+186	fue arrestado por rescatar al niño, me sorprende.	54	SC_RC	MEDIUM_6	La convicción de que el salvavidas que 	42	2	NA
+187	fue asesina era completamente inocente, se rompio tras evidencia que estaba involucrada en crimenes.	40	SC_RC	MEDIUM_8	La impresión de que la víctima que 	13	3	NA
+188	fue asesinada era menor, asombro a todos	39	SC_RC	MEDIUM_11	La impresión de que la víctima que 	21	3	NA
+189	fue asesinada sufrió mucho daño antes de morir	18	SC_RC	MEDIUM_5	La información de que la víctima que 	34	2	NA
+190	fue atacada por el ladron fue la que disparo primero, debe ser esclarecida.	41	SC_RC	MEDIUM_9	La sospecha de que la víctima que 	28	3	NA
+191	fue atracado ya ha sido entregado a mi superior.	4	SC_RC	MEDIUM_4	El reporte de que el vendedor que 	29	2	NA
+192	fue contratado la semana pasada era flojo fue destruida esa mañana.	0	SC_RC	MEDIUM_7	La sospecha de que el empleado que 	35	3	NA
+193	fue demandado por negligencia medica, no estaba capacitado, resultó acertada.	49	SC_RC	MEDIUM_6	La conclusión de que el cirujano que 	20	3	NA
+194	fue despedido de la compañia por irrespetar a los clientes, no era mas que un rumor laboral.	40	SC_RC	MEDIUM_4	La ficción de que el vendedor que 	23	2	NA
+195	fue despedido la semana pasada robó dinero ha sido comprobada	11	SC_RC	MEDIUM_10	La sospecha de que el empleado que 	25	3	NA
+196	fue despedido por desacato se ha extendido por toda la empresa.	69	SC_RC	MEDIUM_10	El rumor de que el empleado que 	21	2	NA
+197	fue despedido por robar era incorrecta	12	SC_RC	MEDIUM_5	La información de que el empleado que 	14	2	NA
+198	fue elegido para la campaña, nunca asistió a una sola junta, resulto falso.	49	SC_RC	MEDIUM_2	El reporte de que el director que 	17	3	NA
+199	fue elegido para la operación, no se presentaría, resultó acertada.	49	SC_RC	MEDIUM_0	La información de que el comandante que 	33	3	NA
+200	fue eligido estubo muy mal.	15	SC_RC	MEDIUM_9	El hecho de que el senador que 	34	2	NA
+201	fue encontrada en la escena del crimen era culpable fue obvia luego de la interrogaci ón.	31	SC_RC	MEDIUM_4	La prueba de que la víctima que 	25	3	NA
+202	fue encontrada en las líneas del tren era su hija estaba basada en una historia que escuchó de pequeño.	45	SC_RC	MEDIUM_4	La ficción de que la víctima que 	39	3	NA
+203	fue encontrada estubo alarmante.	15	SC_RC	MEDIUM_0	La ficción de que la víctima que 	11	2	NA
+204	fue encontrado herido fue triste.	15	SC_RC	MEDIUM_5	La historia de que el empleado que 	21	2	NA
+205	fue enterrado en las afueras de Las Vegas, era el más poderoso de la ciudad, fue inconclusa.	67	SC_RC	MEDIUM_9	La hipótesis de que el mafioso que 	42	3	NA
+206	fue escogido estaba mal.	15	SC_RC	MEDIUM_7	La conclusión de que el político que 	13	2	NA
+207	fue readmitido había agredido al alumno no era cierta.	14	SC_RC	MEDIUM_2	La información de que el director que 	18	3	NA
+208	fundó la empresa es hoy su principal problema es algo que todos sus trabajadores sienten. 	45	SC_RC	MEDIUM_8	La certeza de que el CEO que 	29	3	NA
+209	fundó su partido había causado el revuelto se extendió rápidamente.	14	SC_RC	MEDIUM_6	El rumor de que el extremista que 	33	3	NA
+210	gana mucho dinero es una mala persona, aveces es falso ya que muchos de ellos donan su dinero a organizaciones de ayuda.	7	SC_RC	MEDIUM_6	La convicción de que el empresario que 	35	3	NA
+211	ganara era cierta. 	21	SC_RC	MEDIUM_0	La señal de que el científico que 	39	2	NA
+212	ganó 1 millón de euros es el mejor empleado del año lo puso muy contento	11	SC_RC	MEDIUM_0	El reconocimiento de que el empresario que 	39	3	NA
+213	ganó el premio la semana pasada, ha si reveladora, ya que el robo todas las obras que se presentaron en la competencia.	7	SC_RC	MEDIUM_5	La información de que el escultor que 	21	2	NA
+214	ganó el premio nacional de artes plasticas en realidad es mujer no era más que una estrategia publicitaria.	53	SC_RC	MEDIUM_4	La historia de que el escultor que 	8	3	NA
+215	ganó la carrera estaba tomando drogas fue desmentida días después.	31	SC_RC	MEDIUM_3	La información de que el corredor que 	18	3	NA
+216	ganó la loteria, haya hecho trampa está siendo investigado.	54	SC_RC	MEDIUM_3	El reporte de que el vendedor que 	31	3	NA
+217	ganó la maratón estaba resfriado causó que su hazaña sea aún más impresionante.	29	SC_RC	MEDIUM_4	La información de que el corredor que 	31	3	NA
+218	Ganó las olimpiadas haya hecho trampa es polémica 	24	SC_RC	MEDIUM_6	La creencia de que el corredor que 	40	3	NA
+219	Ganó las olimpiadas tiene una pierna prostatica es verdad 	19	SC_RC	MEDIUM_8	La creencia de que el corredor que 	25	3	NA
+220	ganó medalla de oro.	30	SC_RC	MEDIUM_2	El reporte de que el corredor que 	32	1	NA
+221	gano tomaba drogas impresiono a los jueces. 	39	SC_RC	MEDIUM_10	La sospecha de que el corredor que 	24	3	NA
+222	gano, no fue el que esperabamos. 	21	SC_RC	MEDIUM_7	La impresión de que el corredor que 	9	2	NA
+223	golpeó a su vecino por opinar diferente que el fue confirmada por la hija de la victima	12	SC_RC	MEDIUM_9	La creencia de que el extremista que 	42	1	NA
+224	grita está loco debe ser cierta. 	20	SC_RC	MEDIUM_10	La hipótesis de que el vecino que 	20	3	NA
+225	ha estado al mando merece ir a la carcel	18	SC_RC	MEDIUM_8	El convencimiento de que el CEO que 	25	3	NA
+226	ha estafado a decenas de personas sea de su misma ciudad va aumentando.	4	SC_RC	MEDIUM_10	La creencia de que el embaucador que 	9	3	NA
+227	ha salvado varios cachorros es impresionante 	9	SC_RC	MEDIUM_3	El reconocimiento de que el comandante que 	18	2	NA
+228	ha sufrido abusos suele intentar quitarse la vida es muy dura pero para ayudar hay que aceptarla.	4	SC_RC	MEDIUM_0	La realidad de que la víctima que 	36	3	NA
+229	había aceptado fondos de forma ilegal era muy fuerte.	6	SC_RC	MEDIUM_1	La señal de que el político que 	24	2	NA
+230	había cometido crimen, resultó siendo real 	43	SC_RC	MEDIUM_0	La ficción de que el criminal que 	11	2	NA
+231	había comprado 451 rosquillas de chocolate era cierta y todos sus fans empezaron a comprarlas como locos.	74	SC_RC	MEDIUM_10	El rumor de que el actor que 	19	2	NA
+232	había encontrado la cura contra el envejecimiento estaba borracho es cierta.	33	SC_RC	MEDIUM_0	La historia de que el científico que 	24	2	NA
+233	había estado con la estudiante, era innegable 	43	SC_RC	MEDIUM_10	La conclusión de que el director que 	32	2	NA
+234	había ganado la guerra.	30	SC_RC	MEDIUM_3	El sueño de que el comandante que 	36	1	NA
+235	habia hecho la escultura de esa mujer se hubiese enamorado de ella, era totalmente falsa	2	SC_RC	MEDIUM_4	La ficción de que el escultor que 	29	3	NA
+236	había hecho tal denuncia seguía ahí después de tanto, me parecía respetable. 	45	SC_RC	MEDIUM_7	La convicción de que el senador que 	21	NA	NA
+237	había hecho una travesura.	30	SC_RC	MEDIUM_11	La sospecha de que el niño que 	12	1	NA
+238	había imnotizado a cientos de niños con el sonido de una flauta, no era más que una leyenda inventada por un famoso escritor.	74	SC_RC	MEDIUM_11	La impresión de que el embaucador que 	35	2	NA
+239	había muerto aún no había llegado.	57	SC_RC	MEDIUM_1	El reporte de que el empleado que 	19	2	NA
+240	había muerto enfrente de él, había sido tan real que en todo el día no dejó de pensar en eso.	67	SC_RC	MEDIUM_0	El sueño de que la víctima que 	11	NA	NA
+241	habia muerto,era fortificado	46	SC_RC	MEDIUM_5	El reporte de que el salvavidas que 	22	2	NA
+242	había muerto.	30	SC_RC	MEDIUM_9	La convicción de que la víctima que 	15	1	NA
+243	había perpetrado el hecho había sido encontrado era falsa.	45	SC_RC	MEDIUM_0	La información de que el criminal que 	9	NA	NA
+244	había protagonizado la película fuera sincero fue puesto en duda por muchos periodistas.	50	SC_RC	MEDIUM_2	El reconocimiento de que el actor que 	21	2	NA
+245	había realizado este trabajo era un genio como los del renacimiento, era un poco exagerado creía el escultor.	37	SC_RC	MEDIUM_1	El reporte de que el escultor que 	30	3	NA
+246	habia robado dos gallinas era culpable	2	SC_RC	MEDIUM_10	La conclusión de que el criminal que 	14	2	NA
+247	había robado las ganancias la otra noche, era alta. 	73	SC_RC	MEDIUM_9	La sospecha de que el empleado que 	26	2	NA
+248	había robado, era sumamente desgarradora	43	SC_RC	MEDIUM_4	La realidad de que el empleado que 	36	2	NA
+249	había sido asesinada en ese día no era verdad.	0	SC_RC	MEDIUM_8	El rumor de que la víctima que 	27	2	NA
+250	había sido despedido demandó a la empresa, era falsa.	62	SC_RC	MEDIUM_3	La información de que el empresario que 	7	NA	NA
+251	había sido despedido por irresponsable cumplió el objetivo de mantener el orden en la oficina.	50	SC_RC	MEDIUM_0	La ficción de que el empleado que 	13	2	NA
+252	había sido despedido, no era tan interesante como los rumores                  	46	SC_RC	MEDIUM_4	La realidad de que el director que 	29	2	NA
+253	había sido encontrado muerto la otra noche, eran solo rumores. 	73	SC_RC	MEDIUM_5	La historia de que el embaucador que 	15	2	NA
+254	había sobornado al profesor, sería expulsado, resultó cierto	49	SC_RC	MEDIUM_11	El rumor de que el estudiante que 	38	3	NA
+255	había venido de Alemania era cierta	55	SC_RC	MEDIUM_10	La impresión de que el violinista que 	11	2	NA
+256	había venido le había mentido era alta.	73	SC_RC	MEDIUM_10	La certeza de que el vendedor que 	8	3	NA
+257	había venido, sería encarcelado, era falsa. 	73	SC_RC	MEDIUM_2	La señal de que el extremista que 	17	3	NA
+258	había vuelto de la muerte fue inventada por los niños del pueblo.	0	SC_RC	MEDIUM_0	La historia de que el predicador que 	19	2	NA
+259	habían contratado fuera probada estaba a pocos pasos de ser una realidad. 	50	SC_RC	MEDIUM_7	La hipótesis de que el científico que 	24	3	NA
+260	hablaba sobre la venida de cristo, era bastante preocupante 	43	SC_RC	MEDIUM_11	El hecho de que el predicador que 	21	2	NA
+261	hablaba tan bien frente a todos, había sido asesinado por sus adversarios, era claro. 	73	SC_RC	MEDIUM_11	El hecho de que el senador que 	28	3	NA
+262	hace buenos productos, lo hace con amor por sus clientes. 	64	SC_RC	MEDIUM_10	La certeza de que el empresario que 	41	2	NA
+263	hace de JB en Outer Banks estaba saliendo con su compañera de reparto acabó siendo cierta.	72	SC_RC	MEDIUM_9	La hipótesis de que el actor que 	26	3	NA
+264	hace esculturas es dificil de lograr.	39	SC_RC	MEDIUM_8	El convencimiento de que el escultor que 	7	NA	NA
+265	hace la tarea es un buen estudiante. 	64	SC_RC	MEDIUM_0	La señal de que el niño que 	9	2	NA
+266	Hace muchos libretos es dirigir una película	60	SC_RC	MEDIUM_4	El sueño de que el actor que 	20	2	NA
+267	hacemos no es cierto.	13	SC_RC	MEDIUM_11	La hipótesis de que el extremista que 	26	2	NA
+268	hemos visto hoy es corrupto, es falsa.	22	SC_RC	MEDIUM_7	La hipótesis de que el CEO que 	8	3	NA
+269	hizo el papel del villano es en realidad un muy buen tipo, parece ser verdad.	36	SC_RC	MEDIUM_9	La hipótesis de que el actor que 	21	NA	NA
+270	hizo el regalo para mi madre es un fraude me hizo sentir muy mal	11	SC_RC	MEDIUM_5	La información de que el escultor que 	12	3	NA
+271	hizo esa estatua estaba ciego era obvio.	57	SC_RC	MEDIUM_10	El convencimiento de que el escultor que 	14	3	NA
+272	Hizo explotar el reactor nuclear, es falso.	28	SC_RC	MEDIUM_7	El rumor de que el científico que 	20	2	NA
+273	hizo fraude desde el 2015 ha sido desvelado de los archivos más antiguos de la policía.	67	SC_RC	MEDIUM_5	El reporte de que el vendedor que 	26	NA	NA
+274	hizo la cirugia estaba borracho es falsa. 	21	SC_RC	MEDIUM_10	El rumor de que el cirujano que 	19	3	NA
+275	hizo la conquista más grande del siglo, ha sido uno de los festejos más grandes que el país haya visto.	67	SC_RC	MEDIUM_2	El reconocimiento de que el comandante que 	38	NA	NA
+276	hizo la estatua de bronce era muy talentoso quedó demostrada con el resultado.	36	SC_RC	MEDIUM_7	La convicción de que el escultor que 	39	NA	NA
+277	hizo la estatua del campus en honor al rector es totalmente errónea	69	SC_RC	MEDIUM_6	La hipótesis de que el escultor que 	24	NA	NA
+278	hizo la pelicula era mentiroso se comprobo.	39	SC_RC	MEDIUM_2	La realidad de que el director que 	12	NA	NA
+279	hizo la película Lo imposible ganase una Goya, era el que se merecía.	72	SC_RC	MEDIUM_3	El reconocimiento de que el director que 	29	3	NA
+280	hizo más vueltas fue toda una mentira, tomó a los aficionados por sorpresa.	67	SC_RC	MEDIUM_10	La conclusión de que el corredor que 	17	NA	NA
+281	hizo millones de la noche a la mañana con una gran idea.	64	SC_RC	MEDIUM_1	La historia de que el CEO que 	27	1	NA
+282	hizo trampa en la prueba lo van a expulsar, es correcto. 	13	SC_RC	MEDIUM_10	La conclusión de que el estudiante que 	10	3	NA
+283	hizo un gran descubrimiento.	30	SC_RC	MEDIUM_0	La historia de que el científico que 	21	1	NA
+284	hizo una escultura de la mona lisa tuvo mucho reconocimiento y fue aplaudido por el público.	5	SC_RC	MEDIUM_5	El reconocimiento de que el escultor que 	24	2	NA
+285	hoy tendría un día muy fácil era muy alta, no se esperaba que el trabajo seria tan agotador con tanta gente en la playa.	37	SC_RC	MEDIUM_11	La certeza de que el salvavidas que 	8	NA	NA
+286	Huyó del país ha sido encontrado, ha salido en todas las noticias 	19	SC_RC	MEDIUM_1	La historia de que el senador que 	40	3	NA
+287	iba a abandonar era muy emotiva.	57	SC_RC	MEDIUM_2	La ficción de que el director que 	27	2	NA
+288	iba a hacer la operación era excelente fue acertada	12	SC_RC	MEDIUM_6	La impresión de que el cirujano que 	23	3	NA
+289	iba conmigo en primaria resultó ser hijo de un actor famoso era real.	48	SC_RC	MEDIUM_6	El hecho de que el niño que 	38	3	NA
+290	iba de casa en casa, estaba loco, era un poco cierta. 	73	SC_RC	MEDIUM_7	La hipótesis de que el predicador que 	31	3	NA
+291	iba ganando no estaba bien	18	SC_RC	MEDIUM_4	La señal de que el corredor que 	22	2	NA
+292	impulsó la revolución se hiciera demócrata era justamente eso, un sueño.	1	SC_RC	MEDIUM_0	El sueño de que el comandante que 	9	3	NA
+293	inauguro esas escuelas, esta bien merecido.	38	SC_RC	MEDIUM_5	El reconocimiento de que el senador que 	41	2	NA
+294	incumplía las reglas fue imitada por todos los presentes.	45	SC_RC	MEDIUM_2	La señal de que el corredor que 	26	NA	NA
+295	Infringió la ley, que fue presentada, es poco contundente.	69	SC_RC	MEDIUM_5	La prueba de que el extremista que 	42	3	NA
+296	inicio Amazon ha logrado mas que otros se hará llegar a el pronto. 	39	SC_RC	MEDIUM_3	El reconocimiento de que el CEO que 	37	NA	NA
+297	intentó crear energía en base de pensamientos es que no es posible.	29	SC_RC	MEDIUM_11	La conclusión de que el científico que 	33	2	NA
+298	interpreta su papel es incluso mejor que él mismo en fingir su persona lo dejó asombrado.	53	SC_RC	MEDIUM_8	La impresión de que el actor que 	19	NA	NA
+299	interpretaba el papel protagonista ha engañado a sus seguidores es real.	4	SC_RC	MEDIUM_9	La sospecha de que el actor que 	25	3	NA
+300	inventó una cura ante una pandemia no obtuvo ningún tipo de merito ni compensación por salvar a millones de vidas.	5	SC_RC	MEDIUM_2	La realidad de que el científico que 	19	2	NA
+301	jugó en Titanic falleció es falso	11	SC_RC	MEDIUM_4	El reporte de que el actor que 	28	3	NA
+302	la acusación es verdadera yace en una grabación que tomo a escondidas del acusado.	37	SC_RC	MEDIUM_3	La prueba de que la víctima que 	10	NA	NA
+303	la operó estaba borracho.	18	SC_RC	MEDIUM_10	El hecho de que el cirujano que 	17	2	NA
+304	la policía persigue fue detenido se hizo a las 12:00 am.	33	SC_RC	MEDIUM_1	El reporte de que el mafioso que 	22	3	NA
+305	le estaba hablando le sorprendió	46	SC_RC	MEDIUM_10	El convencimiento de que el extremista que 	7	2	NA
+306	le gusto tu propuesta es que te estrechen la mano.	17	SC_RC	MEDIUM_5	La señal de que el empresario que 	8	2	NA
+307	le había hecho la parada no tuviera música ruidosa le pareció una situación insostenible. 	6	SC_RC	MEDIUM_9	El hecho de que el taxista que 	13	3	NA
+308	le había llevado al aeropuerto le había cobrado de más.	63	SC_RC	MEDIUM_9	La convicción de que el taxista que 	9	2	NA
+309	le operó cometió una negligencia es abrumadora.	4	SC_RC	MEDIUM_8	La certeza de que el cirujano que 	11	3	NA
+310	le pegó a esa otra actriz es ahora una bueno persona no es verdad.	23	SC_RC	MEDIUM_5	La ficción de que el actor que 	39	3	NA
+311	le robaba a sus clientes ha sido llevada ante el ministerio público.	26	SC_RC	MEDIUM_2	La prueba de que el taxista que 	18	2	NA
+312	le sonrió como nunca nadie lo había hecho y que no volvería a su vida, le parecía horrible.	45	SC_RC	MEDIUM_5	El sueño de que el taxista que 	17	NA	NA
+313	lee todos los libros en su colección retiene la información es falsa.	31	SC_RC	MEDIUM_9	La creencia de que el librero que 	35	NA	NA
+314	liberaba a toda la tripulación de las celdas se quedó en un simple sueño y nunca apareció ante su tripulación cautiva.	5	SC_RC	MEDIUM_0	El sueño de que el comandante que 	14	2	NA
+315	llamaba a la puerta resultara ser un testigo de jehova resulto ser cierta	2	SC_RC	MEDIUM_6	La creencia de que el predicador que 	25	3	NA
+316	llamó a la policía por el ruido nocturno es un exagerado, me parece desmesurada.	62	SC_RC	MEDIUM_9	La convicción de que el vecino que 	39	3	NA
+317	llega a tarde es porque se ha quedado dormido suele ser real	2	SC_RC	MEDIUM_8	La convicción de que el niño que 	41	3	NA
+318	llegó a urgencias no saldría con vida del hospital, por suerte, fue erróneo.	51	SC_RC	MEDIUM_4	El reconocimiento de que la víctima que 	16	3	NA
+319	llegue antes al lugar es absurda	9	SC_RC	MEDIUM_11	La conclusión de que el taxista que 	41	2	NA
+320	lleva al almacén del hospital es que en realidad es un pasadizo hacia otra dimensión.	48	SC_RC	MEDIUM_7	La creencia de que el corredor que 	16	2	NA
+321	lleva la empresa realizaba las gestiones adecuadas llevó a toda la plantilla a la ruina.	5	SC_RC	MEDIUM_8	El convencimiento de que el CEO que 	10	3	NA
+322	lleva la planta de tratamiento de residuos no le preocupa la contaminación es totalmente acertada tras los ultimos análisis del agua.	53	SC_RC	MEDIUM_9	La conclusión de que el empresario que 	42	3	NA
+323	lleva lentes tiene ocho hijos me ha sorprendido. 	20	SC_RC	MEDIUM_3	La realidad de que el vendedor que 	29	3	NA
+324	llevaba puesto la víctima fue saboteado, fue registrada por el investigador.	4	SC_RC	MEDIUM_5	La señal de que el salvavidas que 	14	3	NA
+325	Llevaba Rose en titanic era innecesario es verdad 	19	SC_RC	MEDIUM_2	La información de que el salvavidas que 	10	3	NA
+326	llevas debe ser activado, será el pitido de este silbato.	53	SC_RC	MEDIUM_3	La señal de que el salvavidas que 	12	2	NA
+327	llevó a la empresa a la ruina no resultó ser cierta, puesto que no había constancia de que hubiera realizado malas gestiones durante su cargo.	74	SC_RC	MEDIUM_9	La hipótesis de que el CEO que 	25	2	NA
+328	llora como lobo es verdad.	13	SC_RC	MEDIUM_4	La historia de que el niño que 	22	2	NA
+329	lo desperto era una pesadilla.	10	SC_RC	MEDIUM_2	El sueño de que el cirujano que 	8	2	NA
+330	lo estaba atendiendo era un traficante de drogas, era una de sus muchas alucinaciones	46	SC_RC	MEDIUM_1	La ficción de que el vendedor que 	27	3	NA
+331	logro despojarse de su pasado, y termino con una vida completamente nueva.	40	SC_RC	MEDIUM_11	La convicción de que el embaucador que 	11	NA	NA
+332	malversó fondos públicos había estado delante de nuestras narices todo este tiempo.	51	SC_RC	MEDIUM_1	La prueba de que el empresario que 	41	2	NA
+333	mamá me regalo es muy útil 	9	SC_RC	MEDIUM_6	La impresión de que el librero que 	36	2	NA
+334	mando esas fotos explícitas debería ser expulsado es una buen idea.	23	SC_RC	MEDIUM_9	La conclusión de que el senador que 	27	3	NA
+335	mandó matar a Juancho lo hizo porque le debía dinero, será muy valiosa en la investigación	36	SC_RC	MEDIUM_3	La información de que el mafioso que 	37	3	NA
+336	Maneja una gran empresa es inmoral, es falsa.	28	SC_RC	MEDIUM_4	La historia de que el CEO que 	18	3	NA
+337	marcó el nuevo record mundial hizo trampa puede ser cierta.	51	SC_RC	MEDIUM_9	La hipótesis de que el corredor que 	22	2	NA
+338	más delitos sin violencia comete lo hace por necesidad debería tenerse en cuenta en los juicios.	27	SC_RC	MEDIUM_1	La realidad de que el criminal que 	37	3	NA
+339	mas dinero gana es Leonardo DiCaprio, la tienes en la revista Forbes.	41	SC_RC	MEDIUM_2	La prueba de que el actor que 	34	3	NA
+340	más discute es el que menos sabe es totalmente verídica.	27	SC_RC	MEDIUM_8	La hipótesis de que el político que 	31	3	NA
+341	mas entramiento tenia, fue completamente ignorada tras el nuevo contrincante logro ganarle la carrera.	40	SC_RC	MEDIUM_1	El reconocimiento de que el corredor que 	37	NA	NA
+342	más labia tiene es al que mejor le salen las cosas es real.	27	SC_RC	MEDIUM_2	El reconocimiento de que el embaucador que 	24	3	NA
+343	mas libros tenga es incorrecta.	17	SC_RC	MEDIUM_2	La ficción de que el librero que 	11	NA	NA
+344	más quema coches es el más peligroso es mentira.	27	SC_RC	MEDIUM_5	La historia de que el extremista que 	17	3	NA
+345	más tarde llega a la meta no se ha esforzado es horrible.	27	SC_RC	MEDIUM_7	El convencimiento de que el corredor que 	42	3	NA
+346	más trabaja recibe más dinero, es cierto.	62	SC_RC	MEDIUM_4	El reconocimiento de que el empleado que 	15	3	NA
+347	mataba disfrazado de payaso fue real.	5	SC_RC	MEDIUM_3	La ficción de que el criminal que 	40	2	NA
+348	mató a Ernesto era en realidad un policía encubierto salió en la prensa hoy.	45	SC_RC	MEDIUM_11	La hipótesis de que el mafioso que 	37	3	NA
+349	mató a esas personas, no es buena.	38	SC_RC	MEDIUM_9	La convicción de que el criminal que 	33	2	NA
+350	mató a la maestra es justificada porque encontraron un cuchillo en su automóvil el siguiente día.	23	SC_RC	MEDIUM_7	La sospecha de que el mafioso que 	16	2	NA
+351	mató a mi madre sale de la cárcel lo tengo cada noche. 	20	SC_RC	MEDIUM_5	El sueño de que el criminal que 	34	3	NA
+352	mató a mis hijas será encarcelado.	63	SC_RC	MEDIUM_4	El sueño de que el criminal que 	20	2	NA
+353	mató al paciente era inocente, era alto. 	73	SC_RC	MEDIUM_6	El convencimiento de que el cirujano que 	24	3	NA
+354	mató semanas antes a otra chica de la misma forma era también el culpable del caso que estaban llevando los policías era casi imposible de desmentir.	72	SC_RC	MEDIUM_11	La certeza de que el criminal que 	41	3	NA
+355	Me dieron es que es muy cansado	60	SC_RC	MEDIUM_7	La conclusión de que el empleado que 	23	2	NA
+356	me estafó estaba conectado a su red social.	63	SC_RC	MEDIUM_5	El señal de que el embaucador que 	28	2	NA
+357	me gusta se vaya a mudar me pone triste.	57	SC_RC	MEDIUM_11	El hecho de que el vecino que 	31	3	NA
+358	me habló fue alzar el pulgar  	9	SC_RC	MEDIUM_2	La señal de que el niño que 	8	2	NA
+359	me hiso mi decoracion fue estupenda.	15	SC_RC	MEDIUM_11	La hipótesis de que el escultor que 	8	2	NA
+360	me llevaba al trabajo, lograría llegar en 10 minutos, resultó infundada 	49	SC_RC	MEDIUM_7	La certeza de que el taxista que 	31	3	NA
+361	me llevaba me era familiar	12	SC_RC	MEDIUM_7	El convencimiento de que el taxista que 	8	2	NA
+362	me llevó al hotel me estafó es horrible.	33	SC_RC	MEDIUM_7	La conclusión de que el taxista que 	26	3	NA
+363	me llevó era drogadicto resultó ser falsa.	57	SC_RC	MEDIUM_0	La historia de que el taxista que 	40	3	NA
+364	me mintió no probara el producto ante mis ojos me hizo comprar otro producto diferente	55	SC_RC	MEDIUM_8	El hecho de que el vendedor que 	36	3	NA
+365	me operó era muy bueno era clara.	57	SC_RC	MEDIUM_9	La convicción de que el cirujano que 	34	3	NA
+366	me operó haya estado embriagado, no me importa.	54	SC_RC	MEDIUM_5	La realidad de que el cirujano que 	27	3	NA
+367	me operó luchó en la guerra de Vietnam.	63	SC_RC	MEDIUM_0	La historia de que el cirujano que 	25	2	NA
+368	me quería, se había muerto, no era sueño, era realidad.	73	SC_RC	MEDIUM_1	El sueño de que el vecino que 	13	3	NA
+369	me rescató es inepto es un reporte falso. 	20	SC_RC	MEDIUM_1	El reporte de que el salvavidas que 	26	3	NA
+370	me rescató ni siquiera estaba de turno	12	SC_RC	MEDIUM_3	La prueba de que el salvavidas que 	12	3	NA
+371	me salvo ayer era mi novio, no es verdad.	23	SC_RC	MEDIUM_10	El rumor de que el salvavidas que 	29	3	NA
+372	me salvó la vida se haya ahogado me hace sentir muy culpable	11	SC_RC	MEDIUM_11	El hecho de que el salvavidas que 	23	3	NA
+373	me sermonea me invite a un cubata es imposible.	33	SC_RC	MEDIUM_11	El hecho de que el director que 	8	3	NA
+374	me siguió anoche es vergonzoso.	22	SC_RC	MEDIUM_4	El sueño de que el criminal que 	42	2	NA
+375	me trajo acá es ciego, no tiene nada que ver con sus habilidades para conducir.	36	SC_RC	MEDIUM_6	El hecho de que el taxista que 	18	3	NA
+376	mejoró la toma de decisiones en la cámara se le fue entregado la semana pasada.	0	SC_RC	MEDIUM_1	El reconocimiento de que el senador que 	8	2	NA
+377	menos trabaja es el que más cobra me parece tristísimo.	27	SC_RC	MEDIUM_10	El hecho de que el empresario que 	15	3	NA
+378	miente, es ver que hace durante su campaña.	17	SC_RC	MEDIUM_1	La prueba de que el político que 	13	2	NA
+379	miras ahí, es que tiene los libros mas importantes de toda la biblioteca.	38	SC_RC	MEDIUM_4	La realidad de que el librero que 	21	2	NA
+380	murio ayer era que no estaba solo.	8	SC_RC	MEDIUM_7	La hipótesis de que el extremista que 	10	2	NA
+381	murió el año pasado fue atropellado intencionadamente.	63	SC_RC	MEDIUM_3	La realidad de que el niño que 	33	2	NA
+382	murió era cómplice del robo	12	SC_RC	MEDIUM_0	La ficción de que la víctima que 	19	2	NA
+383	murió sigue vivo fue hecha por un loco. 	20	SC_RC	MEDIUM_0	La señal de que el político que 	42	3	NA
+384	nació en Argentina haya cumplido con todo lo que prometió es de mucho beneficio para su país 	24	SC_RC	MEDIUM_3	La prueba de que el político que 	23	3	NA
+385	nació en Irlanda se mude a Egipto no es muy realista	24	SC_RC	MEDIUM_7	La certeza de que el embaucador que 	20	3	NA
+386	nació en México participe en una orquesta internacional no es imposible 	24	SC_RC	MEDIUM_2	El sueño de que el violinista que 	15	3	NA
+387	no aseguraba todas las horas de sus empleados llevó una sanción económica.	5	SC_RC	MEDIUM_1	El reporte de que el empresario que 	36	2	NA
+388	no espere a sus clientes a entrar en sus viviendas pasa pocas veces	35	SC_RC	MEDIUM_6	La certeza de que el taxista que 	21	2	NA
+389	no estudio no sirve es correcta.	21	SC_RC	MEDIUM_1	La realidad de que el empresario que 	30	3	NA
+390	no había dicho nada era un mentiroso, les causo a los miembros de la junta un pánico tremendo.	6	SC_RC	MEDIUM_11	La certeza de que el director que 	28	3	NA
+391	no hablaba con nadie era un hombre lobo parecía de lo más absurdo.	6	SC_RC	MEDIUM_3	La historia de que el vecino que 	7	3	NA
+392	no hacia ruido habia muerto. 	39	SC_RC	MEDIUM_9	La hipótesis de que el vecino que 	10	2	NA
+393	no hacía su tarea, es muy interesante.	64	SC_RC	MEDIUM_2	El reporte de que el estudiante que 	24	2	NA
+394	no hiciera sus labores sería despedido, fue una invención del jefe de una empresa muy famosa para ahorrarse pagar indemnizaciones al despedir a alguien.	74	SC_RC	MEDIUM_1	La señal de que el empresario que 	31	3	NA
+395	no invirtió en criptomonedas era bastante fuerte	55	SC_RC	MEDIUM_9	La convicción de que el CEO que 	28	2	NA
+396	no juega esta triste puede ser cierta.	6	SC_RC	MEDIUM_8	La creencia de que el niño que 	32	3	NA
+397	no limpiaba la sisterna es verdad.	25	SC_RC	MEDIUM_5	La ficción de que el empleado que 	23	2	NA
+398	no mata a sus victimas, tiene aun moral fuera del crimen.	40	SC_RC	MEDIUM_7	La creencia de que el mafioso que 	9	2	NA
+399	no miente no es político me da asco 	9	SC_RC	MEDIUM_7	La convicción de que el político que 	26	3	NA
+400	no piense en sus propios derechos debe ser despedido es inhumana	35	SC_RC	MEDIUM_7	La conclusión de que el empleado que 	15	2	NA
+401	no practique sera el mejor es falsa. 	21	SC_RC	MEDIUM_2	La ficción de que el escultor que 	17	3	NA
+402	no sabía fingir, no era correcta del todo.	38	SC_RC	MEDIUM_2	La ficción de que el actor que 	23	2	NA
+403	no sabía tocar guitarra tenia que hacerlo en el concierto le dio al director un ataque de pánico.	6	SC_RC	MEDIUM_6	La impresión de que el violinista que 	39	3	NA
+404	no se acuerda de lo sucedido, complicó aún más el caso a los policías.	72	SC_RC	MEDIUM_0	La realidad de que la víctima que 	11	2	NA
+405	no tiene una rutina antes de comenzar a grabar, no hace bien su trabajo, es falso.	28	SC_RC	MEDIUM_11	El hecho de que el actor que 	27	3	NA
+406	nos casó se fue de la iglesia.	18	SC_RC	MEDIUM_1	La historia de que el predicador que 	9	2	NA
+407	nos despidió era corrupto fue confirmada meses más tarde en el juicio.	31	SC_RC	MEDIUM_10	La convicción de que el CEO que 	20	3	NA
+408	nos dieron estaba facil.	15	SC_RC	MEDIUM_2	La prueba de que el salvavidas que 	19	2	NA
+409	nos encontramos en el mercado no era un mendigo me costó interiorizarlo.	72	SC_RC	MEDIUM_10	El convencimiento de que el vendedor que 	39	3	NA
+410	nos encontramos fue raro.	15	SC_RC	MEDIUM_4	El reconocimiento de que el predicador que 	27	2	NA
+411	nos está entrenando, está cansado, significa que hay que estar atentos.	54	SC_RC	MEDIUM_0	La señal de que el comandante que 	12	3	NA
+412	nos estafó se salió con la suya es una reflexión de la terrible situación de nuestro sistema judicial.	31	SC_RC	MEDIUM_7	La conclusión de que el embaucador que 	23	3	NA
+413	nos evaluó estaba enojado con nosotros es dudosa.	62	SC_RC	MEDIUM_7	La conclusión de que el director que 	32	3	NA
+414	nos gritó volvía a matarnos	18	SC_RC	MEDIUM_2	El sueño de que el extremista que 	41	2	NA
+415	nos gusta no es una buena persona	18	SC_RC	MEDIUM_11	La impresión de que el actor que 	36	2	NA
+416	nos lidera es un buen hombre	18	SC_RC	MEDIUM_6	La creencia de que el comandante que 	19	2	NA
+417	nos llevó a casa el otro día era un espía, es bastante improbable.	62	SC_RC	MEDIUM_0	La ficción de que el taxista que 	36	3	NA
+418	nos llevó, nos cobró menos de lo que costaba el viaje. 	18	SC_RC	MEDIUM_3	La prueba de que el taxista que 	11	2	NA
+419	nos llevo, nos haya estafado, es correcta.	38	SC_RC	MEDIUM_8	La certeza de que el taxista que 	28	3	NA
+420	nos quería fuera de la escuela, falló. 	3	SC_RC	MEDIUM_1	La prueba de que el director que 	22	2	NA
+421	nos recibió con los brazos abiertos el primer día se esfumó cuando vimos su expresión de desdén.	31	SC_RC	MEDIUM_0	El sueño de que el director que 	29	2	NA
+422	nos regaño ayer es muy estricto es cierto.	17	SC_RC	MEDIUM_9	El rumor de que el comandante que 	34	3	NA
+423	nos ve los martes quiere ayudarnos a ganar, es su dedicación y amabilidad.	29	SC_RC	MEDIUM_3	La prueba de que el comandante que 	16	3	NA
+424	nos vendió esta chatarra, me hace desconfiar en la gente.	54	SC_RC	MEDIUM_8	El hecho de que el embaucador que 	9	2	NA
+425	nos vendio la casa es bastante buena.	17	SC_RC	MEDIUM_6	La impresión de que el vendedor que 	24	2	NA
+426	nos vio por la iglesia el día de ayer a sido confirmada	9	SC_RC	MEDIUM_9	La sospecha de que el predicador que 	10	3	NA
+427	nunca cierra la puerta del portal por las noches es el del segundo piso es obvia si tenemos en cuenta sus habituales horarios nocturnos, que solo le aplican a él.	1	SC_RC	MEDIUM_9	La sospecha de que el vecino que 	27	3	NA
+428	nunca cumple sus promesas va a cambiar, normalmente es falso.	62	SC_RC	MEDIUM_11	El convencimiento de que el político que 	11	3	NA
+429	nunca falta es un ejemplo a seguir, no resulta inspirador.	49	SC_RC	MEDIUM_4	El reconocimiento de que el empleado que 	42	3	NA
+430	nunca lucró con sus obras, fue muy interesante.	49	SC_RC	MEDIUM_5	La historia de que el escultor que 	9	2	NA
+431	nunca paga la comunidad es el que más se queja es totalmente cierta y coherente.	27	SC_RC	MEDIUM_11	La conclusión de que el vecino que 	22	3	NA
+432	obtuvo el mayor número de ventas merece un ascenso parece ser acertada.	36	SC_RC	MEDIUM_11	La conclusión de que el empleado que 	32	3	NA
+433	obtuvo la matrícula de honor era un inmigrante.	63	SC_RC	MEDIUM_8	El rumor de que el estudiante que 	31	2	NA
+434	odia las ciencias es tonto es una estupidez.	27	SC_RC	MEDIUM_6	La creencia de que el niño que 	26	3	NA
+435	Operó a mi abuelo es un psicopático es falsa. 	22	SC_RC	MEDIUM_0	La ficción de que el cirujano que 	17	3	NA
+436	operó a mi papá, cumple con todas las cualidades de un buen especialista.	64	SC_RC	MEDIUM_6	El convencimiento de que el cirujano que 	35	2	NA
+437	operó la mandíbula y no hizo buen trabajo, se vio claramente días después cuando el paciente empezó a sufrir grandes dolores.	67	SC_RC	MEDIUM_8	La sospecha de que el cirujano que 	34	2	NA
+438	organizaba las juntas estaba enfermo, por lo que la junta de vecinos seria postergada por dos semanas.	37	SC_RC	MEDIUM_4	La información de que el vecino que 	19	2	NA
+439	participó en aquel debate, nunca escucha opiniones contrarias, no era del todo cierta.	49	SC_RC	MEDIUM_3	La realidad de que el extremista que 	12	3	NA
+440	participó en la contienda electoral, está involucrado en escándalos de corrupción.	64	SC_RC	MEDIUM_4	La prueba de que el político que 	11	2	NA
+441	pasa por las noches y viola muchachas, está muy extendida. 	73	SC_RC	MEDIUM_3	La ficción de que el taxista que 	21	2	NA
+442	pasa todos los días por mi trabajo a la misma hora	9	SC_RC	MEDIUM_5	La prueba de que el vendedor que 	21	1	NA
+443	paso en la television es correcto.	15	SC_RC	MEDIUM_6	El rumor de que el extremista que 	25	2	NA
+444	paso por nuestra casa es alarmante.	15	SC_RC	MEDIUM_1	La realidad de que el vendedor que 	23	2	NA
+445	paso por nuestra casa nos dio estaba incorrecta.	15	SC_RC	MEDIUM_3	La información de que el corredor que 	15	3	NA
+446	pasó todas las pruebas de matemáticas haya copiado en un examen es increíble 	24	SC_RC	MEDIUM_8	El hecho de que el estudiante que 	12	3	NA
+447	patrocinaba el equipo de fútbol regional lo hacía por apoyo a la comunidad sí era legítimo.	48	SC_RC	MEDIUM_5	El reconocimiento de que el empresario que 	36	3	NA
+448	Perdió en los Oscar salió llorando de la ceremonia es verdad 	19	SC_RC	MEDIUM_6	La impresión de que el actor que 	28	3	NA
+449	perdio la eleccion.	10	SC_RC	MEDIUM_5	La señal de que el senador que 	12	1	NA
+450	perdió las elecciones fue por culpa de su vida privada extravagante está bastante extendida.	51	SC_RC	MEDIUM_11	La conclusión de que el político que 	30	3	NA
+451	personifica a Brad Pitt se droga llego a los medios. 	39	SC_RC	MEDIUM_7	El rumor de que el actor que 	28	NA	NA
+452	pertenece a la oposición, cometió fraude, se pudo comprobar fácilmente.	49	SC_RC	MEDIUM_10	La sospecha de que el político que 	27	3	NA
+453	pidió dinero a familias pobres porque Dios se lo iba a devolver, es un estafador.	51	SC_RC	MEDIUM_3	El reporte de que el predicador que 	13	2	NA
+454	planea todos los detalles siempre se sale con la suya es falsa	31	SC_RC	MEDIUM_6	La impresión de que el criminal que 	41	3	NA
+455	por fin, había terminado su obra, no iría a ver la exposición, entristeció a todos en la sala.	6	SC_RC	MEDIUM_2	La realidad de que el escultor que 	35	3	NA
+456	practica día y noche, siendo perseverante y constante en sus acciones, no se deja escapar por sus vecinos.	67	SC_RC	MEDIUM_6	El hecho de que el violinista que 	32	3	NA
+457	presenció el accidente estaba bajo los efectos del alcohol podria imposibilitar su actuación como testigo.	53	SC_RC	MEDIUM_1	La realidad de que el taxista que 	30	3	NA
+458	presentaría la prueba, la pasaría sin mayor problema.	49	SC_RC	MEDIUM_8	La convicción de que el niño que 	36	2	NA
+459	presumía de haber desarrollado una nueva técnica no confiaba mucho en ella fue el hecho de que nunca la había utilizado.	1	SC_RC	MEDIUM_8	La hipótesis de que el cirujano que 	18	3	NA
+460	pretendía ser un enviado divino resultase ser un vulgar fugitivo no sorprendió a nadie.	1	SC_RC	MEDIUM_10	El hecho de que el predicador que 	16	3	NA
+461	promete muchas cosas es más sincero que el que promete pocas es also que vemos todos los años.	31	SC_RC	MEDIUM_2	La ficción de que el político que 	8	NA	NA
+462	prometía volver su empresa más consiente del medio ambiente realmente estaba mintiendo cada vez era más grande.	26	SC_RC	MEDIUM_9	La certeza de que el CEO que 	28	3	NA
+463	protagoniza Ironman es Robert Downey jr. es bastante alta.	51	SC_RC	MEDIUM_10	La certeza de que el actor que 	7	3	NA
+464	protagoniza la película es: un traje negro con corbata azul.	67	SC_RC	MEDIUM_4	La señal de que el actor que 	7	2	NA
+465	protagonizó la película fue arrestado se basó en un comentario de redes sociales.	29	SC_RC	MEDIUM_1	El reporte de que el actor que 	28	3	NA
+466	proviene de Durango haya participado en actos ilícitos es sorprendente 	24	SC_RC	MEDIUM_5	La realidad de que el senador que 	10	3	NA
+467	provocó aquel ataque disfruta, no debería permitirse.	4	SC_RC	MEDIUM_3	El reconocimiento de que el extremista que 	23	3	NA
+468	pudo extirpar cientos de tumores cerebrales sin una sola muerte, fue otorgado el pasado jueves durante un evento organizado por el consejo mundial de cirujanos.	74	SC_RC	MEDIUM_0	El reconocimiento de que el cirujano que 	41	2	NA
+469	que estaba en la escena del crimen era real	55	SC_RC	MEDIUM_7	La creencia de que el criminal que 	19	2	NA
+470	que hizo la escultura tiene los esbozos originales es real.	22	SC_RC	MEDIUM_1	La prueba de que el escultor que 	26	3	NA
+471	Que mato a mil soldados, se hizo realidad.	28	SC_RC	MEDIUM_0	El sueño de que el comandante que 	31	2	NA
+472	que tocaba tu piano lo hacía mejor que tu, es el hecho de que nunca había sonado tan impresionante.	1	SC_RC	MEDIUM_6	El convencimiento de que el niño que 	29	3	NA
+473	quemó su oficina ahora puede ser maestro de una escuela, es falsa.	23	SC_RC	MEDIUM_6	La hipótesis de que el extremista que 	41	3	NA
+474	Queria llevarse dinero del banco lo consiguió es mentira 	19	SC_RC	MEDIUM_9	La hipótesis de que el embaucador que 	23	3	NA
+475	Quería ser un gran empresario	60	SC_RC	MEDIUM_0	La historia de que el estudiante que 	37	1	NA
+476	realizaba la conferencia era un charlatán, fue que sus resultados estaban claramente alterados.	36	SC_RC	MEDIUM_4	La señal de que el científico que 	15	3	NA
+477	realizó el David, Miguel Ángel Buonarroti, fue uno de los mejores escultores romanos de su época nadie la puede negar.	72	SC_RC	MEDIUM_6	La conclusión de que el escultor que 	17	3	NA
+478	realizó el estudio falsificó los resultados terminó siendo cierta.	4	SC_RC	MEDIUM_7	La hipótesis de que el científico que 	33	3	NA
+479	realizó estos acontecimientos, no eran reales.	38	SC_RC	MEDIUM_7	La sospecha de que el embaucador que 	11	2	NA
+480	realizó tantas obras famosas, estaba deprimido, es una representación del mundo actual, donde la gran mayoría de personas sufren ansiedad o depresión.	74	SC_RC	MEDIUM_4	La realidad de que el escultor que 	39	3	NA
+481	rechace un papel que no cumple con sus propias expectativas	35	SC_RC	MEDIUM_5	El señal de que el actor que 	42	1	NA
+482	rechazó el papel no tenía las cualidades fue constatar que había intentado modificar las partes más comprometidas sin conseguirlo.	1	SC_RC	MEDIUM_3	La señal de que el actor que 	39	NA	NA
+483	recita una filosofía engranada en el odio debe ser escuchado es totalmente incorrecta.	16	SC_RC	MEDIUM_10	La convicción de que el extremista que 	8	3	NA
+484	recorría la costa para salvar tortugas, era muy conmovedora	43	SC_RC	MEDIUM_1	La historia de que el salvavidas que 	23	2	NA
+485	regaba las plantas habia hecho al bloque lucir mas hermoso	2	SC_RC	MEDIUM_5	El reconocimiento de que el vecino que 	11	2	NA
+486	regalaba helados era demasiado bonito para ser cierto.	57	SC_RC	MEDIUM_4	El sueño de que el vendedor que 	12	2	NA
+487	reincide no tiene remedio es infundada.	50	SC_RC	MEDIUM_9	La creencia de que el criminal que 	27	3	NA
+488	reporta el abuso es culpable es ridícula. 	20	SC_RC	MEDIUM_11	La creencia de que la víctima que 	16	3	NA
+489	reprobó la materia, haya dañado el carro de la maestra parece ser falsa.	54	SC_RC	MEDIUM_2	La historia de que el estudiante que 	34	3	NA
+490	reprobó todos los exámenes haya acabado la universidad es increíble 	24	SC_RC	MEDIUM_1	El reconocimiento de que el niño que 	25	3	NA
+491	rescató a una niña de 3 años acaba de recibir un ascenso 	24	SC_RC	MEDIUM_9	El rumor de que el salvavidas que 	8	2	NA
+492	rescato al Niño de ahogarse fue grave. 	25	SC_RC	MEDIUM_11	La convicción de que el salvavidas que 	41	2	NA
+493	ría hacer una estatua de David dos veces mas grande que la orinal, queda confirmado tras descubrir su diario 	16	SC_RC	MEDIUM_7	La sospecha de que el escultor que 	29	2	NA
+494	ria seguir peleando es propaganda del gobierno	16	SC_RC	MEDIUM_1	La historia de que el niño que 	31	2	NA
+495	roba niños en la noche no deja dormir a Luis.	26	SC_RC	MEDIUM_1	El sueño de que el criminal que 	20	2	NA
+496	robaba al final se confirmó	55	SC_RC	MEDIUM_6	La sospecha de que el senador que 	15	2	NA
+497	robaba de la caja registradora eran ciertos.	5	SC_RC	MEDIUM_10	El rumor de que el empleado que 	29	2	NA
+498	robaba utensilios de oficina era cleptómano, era incorrecta	46	SC_RC	MEDIUM_11	La conclusión de que el empleado que 	18	3	NA
+499	robó 10 millones de euros se encuentra en la ciudad es que ha usado su tarjeta de crédito. 	11	SC_RC	MEDIUM_1	La señal de que el CEO que 	32	3	NA
+500	robo a tantas personas no era de fiar, era que siempre pedia dinero y nunca daba nada	2	SC_RC	MEDIUM_0	La señal de que el embaucador que 	37	3	NA
+501	robo cuatro millones estaba de nuevo en el país hizo un alboroto en la comisaria.	6	SC_RC	MEDIUM_4	La información de que el embaucador que 	22	3	NA
+502	robo dinero de la compañía, ya no esta en mi escritorio.	23	SC_RC	MEDIUM_1	El reporte de que el CEO que 	9	2	NA
+503	robo el banco era tambien un menor de edad, demuestra que hubo una influencia de un criminal mas experimentado.	40	SC_RC	MEDIUM_2	La prueba de que el criminal que 	35	3	NA
+504	robó el celular, lo hizo por necesidad económica.	64	SC_RC	MEDIUM_8	La creencia de que el taxista que 	38	2	NA
+505	robó el pan fue que era inocente.	57	SC_RC	MEDIUM_7	La conclusión de que el criminal que 	21	2	NA
+506	robó en su anterior empresa, indica que puede volver a hacerlo.	38	SC_RC	MEDIUM_10	El hecho de que el empleado que 	19	2	NA
+507	robó la famosa estatua ha desaparecido es cierta.	31	SC_RC	MEDIUM_1	La historia de que el escultor que 	13	3	NA
+508	robó millones y escapó era falsa	12	SC_RC	MEDIUM_1	La historia de que el empresario que 	35	2	NA
+509	robó todo el año pasado, es cierto, ya que robó aun mas este año.	38	SC_RC	MEDIUM_6	El rumor de que el político que 	39	2	NA
+510	robó un banco haya donado un millón de pesos a una ONG es irreal	24	SC_RC	MEDIUM_11	La conclusión de que el mafioso que 	30	3	NA
+511	robó una joyería, en realidad robó tres. 	3	SC_RC	MEDIUM_5	El reconocimiento de que el criminal que 	29	2	NA
+512	Saca diez es mas inteligente, no siempre es verdad.	28	SC_RC	MEDIUM_9	La creencia de que el estudiante que 	7	3	NA
+513	sacó 100 en matématicas hizo trampa lo ha hecho sentir muy mal	11	SC_RC	MEDIUM_9	El convencimiento de que el estudiante que 	30	3	NA
+514	saco mejores calificaciónes sera entregado el día de hoy.	7	SC_RC	MEDIUM_4	El reconocimiento de que el estudiante que 	7	2	NA
+515	sacó un diez en el examen se había copiado de su compañero fue solo porque no suele sacar buenas notas.	51	SC_RC	MEDIUM_8	La impresión de que el niño que 	24	3	NA
+516	sacudio la comida no lo hizo bien sigue circulando. 	39	SC_RC	MEDIUM_4	La historia de que el empleado que 	16	3	NA
+517	sale en la película es cocinero es cierta.	22	SC_RC	MEDIUM_3	La realidad de que el actor que 	23	3	NA
+518	salga de la prision ha cambiado es falsa. 	21	SC_RC	MEDIUM_8	La creencia de que el criminal que 	12	3	NA
+519	salía de su casa era el famoso Rudy Stroll era falsa.	14	SC_RC	MEDIUM_9	La conclusión de que el violinista que 	25	3	NA
+520	salió en la tele sufrió un accidente se llama Dr. Strange es increíble.	33	SC_RC	MEDIUM_6	La certeza de que el cirujano que 	29	4	NA
+521	salió en la tele tenía más de una mujer.	18	SC_RC	MEDIUM_7	El rumor de que el mafioso que 	13	2	NA
+522	salió en la televisión es un extraterrestre no está fundamentada con evidencia.	29	SC_RC	MEDIUM_8	La hipótesis de que el político que 	22	3	NA
+523	salió en las noticias se ha escapada es bastante seguro.	22	SC_RC	MEDIUM_6	La certeza de que el extremista que 	29	3	NA
+524	salio en TV es un criminal nos sorprendio. 	21	SC_RC	MEDIUM_3	El reporte de que el predicador que 	36	3	NA
+525	salió por la tele se fue a las Maldivas con su amante es inefable.	33	SC_RC	MEDIUM_3	La realidad de que el senador que 	20	3	NA
+526	salvo a la mujer de ahogarse es un heroe, no toma en consideracion los turistas que lo alertaron al principio.	40	SC_RC	MEDIUM_10	La conclusión de que el salvavidas que 	29	3	NA
+527	salvó a la señora de ahogarse.	30	SC_RC	MEDIUM_4	El reconocimiento de que el salvavidas que 	19	1	NA
+528	salvó al niño era cojo, no lo detuvo.	29	SC_RC	MEDIUM_6	El hecho de que el salvavidas que 	18	3	NA
+529	salvo al perro de ser atropellado es muy honorable.	25	SC_RC	MEDIUM_0	El reconocimiento de que el vendedor que 	17	2	NA
+530	Salvo la vida de 3 personas, es bien merecido.	28	SC_RC	MEDIUM_3	El reconocimiento de que el salvavidas que 	36	2	NA
+531	salvó la vida de mi madre, es en realidad un farsante. 	3	SC_RC	MEDIUM_10	La sospecha de que el cirujano que 	32	2	NA
+532	salvo la vida de muchos niños por parte del gobierno es merecido.	26	SC_RC	MEDIUM_4	El reconocimiento de que el cirujano que 	38	2	NA
+533	se casó con aquella modelo no había acometido muchas operaciones se veía en el sudor de su frente.	14	SC_RC	MEDIUM_1	La señal de que el cirujano que 	36	3	NA
+534	se casó con Josefina tiene un amorío con Violeta no tiene ninguna prueba.	36	SC_RC	MEDIUM_10	La creencia de que el violinista que 	34	3	NA
+535	se encarbada del lugar nos dio, tenía una urgencia que significaba peligro.	50	SC_RC	MEDIUM_4	La señal de que el librero que 	42	NA	NA
+536	se encontraba a cargo del ejército nacional era excepcional.	48	SC_RC	MEDIUM_9	El convencimiento de que el comandante que 	28	2	NA
+537	se encontraba llorando terminó siendo aún más lúgubre de lo esperado.	0	SC_RC	MEDIUM_5	La realidad de que el escultor que 	21	2	NA
+538	se encuentra en el centro de la ciudad suele ser verídica en su totalidad.	48	SC_RC	MEDIUM_3	La información de que el vendedor que 	12	2	NA
+539	se enfrentó al presidente y, como consecuencia, fue ejecutado, resultó ser mentira.	72	SC_RC	MEDIUM_8	El rumor de que el comandante que 	33	2	NA
+540	se estrelló contra un árbol es que había estado bebiendo.	51	SC_RC	MEDIUM_2	La realidad de que el taxista que 	26	2	NA
+541	se fugó antes del juicio ya lo había hecho en ocasiones anteriores fue ignorado de forma inexplicable.	1	SC_RC	MEDIUM_2	El reporte de que el criminal que 	24	3	NA
+542	se habia casado 10 veces en su vida.	25	SC_RC	MEDIUM_10	El rumor de que el actor que 	12	1	NA
+543	se había suicidado era defraudador era abrumadora para su familia.	6	SC_RC	MEDIUM_10	La conclusión de que el corredor que 	41	3	NA
+544	se hizo con el poder de una escuela y poder así educar a los mafiosos del mañana, no es más que una copia de una idea presentada en Shin Chan	74	SC_RC	MEDIUM_2	La ficción de que el mafioso que 	17	2	NA
+545	se llevó las pruebas esta aquí esta correcta.	23	SC_RC	MEDIUM_8	La certeza de que el científico que 	25	3	NA
+546	se merecio ganar el premio era mantenida por los juezez.	10	SC_RC	MEDIUM_7	La creencia de que el niño que 	32	2	NA
+547	se ocupa de la atención al cliente estaba faltando al trabajo es cierta.	51	SC_RC	MEDIUM_5	La información de que el empleado que 	9	3	NA
+548	Se presenta a las elecciones ha ayudado a la comunidad es honorable	19	SC_RC	MEDIUM_3	El reconocimiento de que el político que 	32	3	NA
+549	se presentara esta noche es muy apatico es incierta.	17	SC_RC	MEDIUM_11	La sospecha de que el violinista que 	32	3	NA
+550	se presentó ante el juez, tenía algo de culpa también, era fuerte. 	73	SC_RC	MEDIUM_8	La convicción de que la víctima que 	19	3	NA
+551	se presento en las pasadas elecciones, mintiera en sede parlamentaria, fue suficiente para que dimitiera.	41	SC_RC	MEDIUM_6	El hecho de que el senador que 	42	3	NA
+552	se quita los tenis para correr más rápido se ha vuelto global.	26	SC_RC	MEDIUM_6	El convencimiento de que el corredor que 	14	3	NA
+553	se robo el auto, es verdadero.	28	SC_RC	MEDIUM_2	El reporte de que el taxista que 	15	2	NA
+554	se robo mercancia, ha sido desmentida ya que el empleado no trabajo el dia del robo.	7	SC_RC	MEDIUM_9	La sospecha de que el empleado que 	25	2	NA
+555	se robo un perro era falso.	10	SC_RC	MEDIUM_4	La historia de que el criminal que 	19	2	NA
+556	se rompió un brazo tuvo era muy triste.	23	SC_RC	MEDIUM_2	El sueño de que el niño que 	32	NA	NA
+557	se rompio un musculo era terrible noticia. 	10	SC_RC	MEDIUM_1	La información de que el corredor que 	25	2	NA
+558	se siente culpable, lo perdonan.	13	SC_RC	MEDIUM_8	La creencia de que el criminal que 	24	2	NA
+559	Se usa en los botes funcione es absoluta 	60	SC_RC	MEDIUM_6	La certeza de que el salvavidas que 	10	3	NA
+560	se va a ir es cierto.	13	SC_RC	MEDIUM_9	El rumor de que el corredor que 	29	2	NA
+561	sea buena persona no puede ser exitoso es mentira.	35	SC_RC	MEDIUM_0	La historia de que el empresario que 	10	3	NA
+562	sea puntual sera dado a fin de mes. 	21	SC_RC	MEDIUM_5	El reconocimiento de que el CEO que 	14	2	NA
+563	secuestra niños es mi vecino es cierta.	33	SC_RC	MEDIUM_9	La convicción de que el predicador que 	11	3	NA
+564	secuestraba y asesinaba mujeres tenía un trastorno neuronal, fue dado por cierto y por consecuente se decidió aplicarle la pena de muerte al instante.	74	SC_RC	MEDIUM_6	La creencia de que el criminal que 	11	3	NA
+565	seguía a las mujeres era un abusador, eran reales	43	SC_RC	MEDIUM_9	La hipótesis de que el actor que 	26	3	NA
+566	Si hace muchas malas cosas será mejor conocido	60	SC_RC	MEDIUM_10	El convencimiento de que el mafioso que 	29	2	NA
+567	siempre esta aquí te esta tratando de hacer comprar algo que no necesitas es cuando te baja el precio,	23	SC_RC	MEDIUM_4	La señal de que el vendedor que 	36	3	NA
+568	siempre sonreía era el villano era absoluta.	57	SC_RC	MEDIUM_6	La certeza de que el librero que 	7	3	NA
+569	sobornaba contratos es atremecedor.	25	SC_RC	MEDIUM_1	El reporte de que el político que 	20	2	NA
+570	sobornó a la policía era en realidad otro agente de policía.	63	SC_RC	MEDIUM_11	El hecho de que el mafioso que 	23	2	NA
+571	Sobrevivió al incendio murió más tarde por las quemaduras, es una pena.	69	SC_RC	MEDIUM_3	La historia de que la víctima que 	31	3	NA
+572	sobrevivio uso era differente	13	SC_RC	MEDIUM_1	La señal de que la víctima que 	34	NA	NA
+573	socorrió a mi abuela fue precioso.	62	SC_RC	MEDIUM_2	El sueño de que el salvavidas que 	17	2	NA
+574	solia asistir a la predica era pedofilo, fue refutada tras una investigacion de la policia.	40	SC_RC	MEDIUM_5	La historia de que el predicador que 	17	3	NA
+575	solía manejar aquella cadena de comida rápida fue que estaba por retirarse y dejar a cargo a su primogénito.	48	SC_RC	MEDIUM_4	La señal de que el CEO que 	25	2	NA
+576	solía tocar en el centro de la ciudad es que ahora cuenta con su propio grupo de músicos.	48	SC_RC	MEDIUM_0	La realidad de que el violinista que 	10	2	NA
+577	su actual pasajero era el asesino era un poco descabellada, pero no podia quitarse esta sensación de incertidumbre que le traía el hombre.	37	SC_RC	MEDIUM_9	La hipótesis de que el taxista que 	15	2	NA
+578	su equipo había perdido fue devastadora, había invertido muchísimo en este equipo.	37	SC_RC	MEDIUM_0	La realidad de que el director que 	38	2	NA
+579	sucumbió ante mis encantos se casará conmigo es un hecho.	33	SC_RC	MEDIUM_10	El convencimiento de que el víctima que 	42	3	NA
+580	suda mucho ganó la carrera es real. 	3	SC_RC	MEDIUM_3	El reporte de que el corredor que 	39	3	NA
+581	sufrio de algun delito o agrecion se le ve en los ojos.	17	SC_RC	MEDIUM_10	El convencimiento de que la víctima que 	27	2	NA
+582	sufrio el ataque fuera menor de edad lo hizo todo mucho mas tragico	2	SC_RC	MEDIUM_11	El hecho de que la víctima que 	27	3	NA
+583	sufrió el robo, terminó siendo real	43	SC_RC	MEDIUM_3	El sueño de que la víctima que 	8	2	NA
+584	supuestamente cometió el asesinatono no pudo estar en la escena del crimen no está descartada.	14	SC_RC	MEDIUM_8	La hipótesis de que el actor que 	10	3	NA
+585	Supuestamente cometió fraude, ha sido confirmada.	69	SC_RC	MEDIUM_9	La sospecha de que el senador que 	10	2	NA
+586	supuestamente escapó de su agresor sin ningún daño aparente no concuerda con la historia de los testigos.	48	SC_RC	MEDIUM_8	La hipótesis de que la víctima que 	21	2	NA
+587	supuestamente vandalizó la ciudad, no está clara.	54	SC_RC	MEDIUM_4	La prueba de que el extremista que 	29	2	NA
+588	Suspendió el examen, no había estudiado, era más que una impresión, era un hecho.	69	SC_RC	MEDIUM_7	La impresión de que el estudiante que 	35	3	NA
+589	te di funciona es que todavía tiene el hilo rojo para tirar de él.	27	SC_RC	MEDIUM_4	La prueba de que el salvavidas que 	9	3	NA
+590	te persigue en la tienda tiene miedo de que robes es verdadera.	27	SC_RC	MEDIUM_9	La sospecha de que el vendedor que 	33	3	NA
+591	te presente el otro dia se haria rico, se desvanecio cuando perdio toda su mercancia por las inundaciones.	41	SC_RC	MEDIUM_5	El sueño de que el vendedor que 	30	3	NA
+592	te vendío esa obra no era consciente de que fuera una primera edición de 1843 firmada por el autor podría impedir que exigieras su propiedad.	53	SC_RC	MEDIUM_5	La información de que el librero que 	28	NA	NA
+593	tenía bajo su mando a todo el ejercito, había fallecido de un ataque al corazón mientras le hacía el amor a una mujer bellísima, me dio mucha envidia. 	73	SC_RC	MEDIUM_4	La información de que el comandante que 	33	3	NA
+594	tenía la cara pálida era corrupto no pudo ser más correcto.	14	SC_RC	MEDIUM_11	El convencimiento de que el senador que 	30	3	NA
+595	tenía la mejor calificación era más inteligente era algo generalizado de los profesores.	29	SC_RC	MEDIUM_7	La convicción de que el estudiante que 	9	3	NA
+596	tenia los perros enjaulados los torturaba, fue rapidamente comprabada falsa ya que simplemente eran cachorros escandalosos.	40	SC_RC	MEDIUM_0	La información de que el vecino que 	31	3	NA
+597	tenia que completar.	10	SC_RC	MEDIUM_11	La hipótesis de que el científico que 	15	1	NA
+598	termino el maratón sin zapatos, cuelga ahora en su baño 	16	SC_RC	MEDIUM_4	El reconocimiento de que el corredor que 	25	2	NA
+599	terminó la película no quería que se estrenase tan pronto.	63	SC_RC	MEDIUM_7	La conclusión de que el director que 	18	2	NA
+600	terminó segundo es un gran deportista es la rapidez con la cual felicitó al vencedor.	1	SC_RC	MEDIUM_4	La realidad de que el corredor que 	36	3	NA
+601	termino vendiendo la compañia por dinero, fue probada falsa tras reportes de finanzas que probaban que la compañia estaba cerca de bancarrota.	40	SC_RC	MEDIUM_9	La hipótesis de que el CEO que 	15	2	NA
+602	tiene asma es muy astuto con las golosinas es impresionante.	22	SC_RC	MEDIUM_10	El convencimiento de que el niño que 	36	3	NA
+603	tiene el san bernardo juega al pinball es bastante visible.	33	SC_RC	MEDIUM_5	El señal de que el vecino que 	34	3	NA
+604	tiene en sus brazos no es su hijo está en el color de sus ojos.	4	SC_RC	MEDIUM_1	La prueba de que el niño que 	27	3	NA
+605	Tiene estudios es mas exitoso, necesita ser mas investigada.	28	SC_RC	MEDIUM_1	La información de que el empresario que 	29	3	NA
+606	tiene que trabajar dos trabajos para mantener a su familia es algo que se ve a diario.	31	SC_RC	MEDIUM_5	La realidad de que el empleado que 	31	2	NA
+607	tiene un perro grande lo usa para cuidar su casa, es casi completa.	36	SC_RC	MEDIUM_8	La certeza de que el vecino que 	25	3	NA
+608	Tiene un perro, es soltero.	28	SC_RC	MEDIUM_8	La certeza de que el vecino que 	13	2	NA
+609	tiene una sonrisa agradable y es amigable, forma parte de su acto para que pueda llevar a cabo su rol de embaucador con éxito.	67	SC_RC	MEDIUM_11	La impresión de que el embaucador que 	28	2	NA
+610	tienen muchos problemas mentales puede ser cierta.	5	SC_RC	MEDIUM_7	La creencia de que el extremista que 	32	2	NA
+611	timaba a la gente, había sido engañado. 	64	SC_RC	MEDIUM_7	El rumor de que el embaucador que 	14	2	NA
+612	toca en el metro no tiene talento.	4	SC_RC	MEDIUM_2	La ficción de que el violinista que 	17	2	NA
+613	tocaba como un maestro es verdadero.	25	SC_RC	MEDIUM_9	El convencimiento de que el violinista que 	36	2	NA
+614	tocaba con malas notas estaba mejorando fue la eventual ausencia de estas.	0	SC_RC	MEDIUM_4	La prueba de que el violinista que 	10	3	NA
+615	tocaba era mujer. 	39	SC_RC	MEDIUM_0	La ficción de que el violinista que 	14	2	NA
+616	tocó en el concierto pasado, mató a su a su esposa, parece ser cierto.	54	SC_RC	MEDIUM_9	El rumor de que el violinista que 	20	3	NA
+617	todos amaban trabaja con la mafia le dio problemas a todos.	26	SC_RC	MEDIUM_10	El hecho de que el comandante que 	30	3	NA
+618	todos odiaban que lo mostraba como un patán solo ganó soporte después de esa reunión.	0	SC_RC	MEDIUM_11	La impresión de que el CEO que 	38	2	NA
+619	toma su inspiración de la vida real ha sido estudiada por muchos años.	26	SC_RC	MEDIUM_11	La hipótesis de que el escultor que 	10	2	NA
+620	toma vitaminas supera mejor los examenes, no se basa en datos cientificos. 	41	SC_RC	MEDIUM_4	La información de que el estudiante que 	17	3	NA
+621	tosia estaba enfermo. 	21	SC_RC	MEDIUM_11	La sospecha de que el embaucador que 	42	2	NA
+622	trabaja a un lado de nuestra casa es un secuestrador ha sido confirmado esta mañana	11	SC_RC	MEDIUM_8	El rumor de que el taxista que 	34	3	NA
+623	trabaja ayi me dio felicidad.	15	SC_RC	MEDIUM_10	La certeza de que el CEO que 	37	2	NA
+624	Trabaja doble turno, es ineficiente, puede ser verdadero.	28	SC_RC	MEDIUM_6	El convencimiento de que el empleado que 	41	3	NA
+625	trabaja duro se va se en realidad.	13	SC_RC	MEDIUM_2	El sueño de que el actor que 	16	NA	NA
+626	Trabaja en la construcción esta dando es obligatoria seguirla	19	SC_RC	MEDIUM_0	La señal de que el empleado que 	16	3	NA
+627	trabaja en la tienda de la esquina se jubila es cierto	35	SC_RC	MEDIUM_8	El rumor de que el librero que 	39	3	NA
+628	trabaja horas extra debe ser mejor remunerado, es ampliamente aceptada.	41	SC_RC	MEDIUM_11	La convicción de que el empleado que 	8	3	NA
+629	trabaja todos los días sin tomar un solo descanso es impresionante  	9	SC_RC	MEDIUM_10	La hipótesis de que el empresario que 	38	2	NA
+630	trabajaba ahí no tenía esposa.	30	SC_RC	MEDIUM_7	La creencia de que el librero que 	28	2	NA
+631	trabajaba en el puerto es de otro mundo.	25	SC_RC	MEDIUM_2	La realidad de que el embaucador que 	25	2	NA
+632	trabajaba en la avenida principal, fue dada por un informante anónimo	46	SC_RC	MEDIUM_3	La información de que el embaucador que 	24	2	NA
+633	trabajaba en la biblioteca estaba mucho más que capacitado, me llegó al escuchar sus vastos conocimientos.	36	SC_RC	MEDIUM_0	El reconocimiento de que el librero que 	8	3	NA
+634	trabajaba en la escuela era un asesino pasaba de alumno a alumno	46	SC_RC	MEDIUM_2	La historia de que el librero que 	41	3	NA
+635	trabajaba en la tienda fuera servicial se disolvió cuando dijo su primera palabra.	50	SC_RC	MEDIUM_3	La realidad de que el vendedor que 	33	2	NA
+636	trabajaba en un restaurante italiano fue asesinar al chismoso.	25	SC_RC	MEDIUM_8	La conclusión de que el mafioso que 	14	2	NA
+637	trabajó el año pasado se fue por problemas médicos es falsa.	29	SC_RC	MEDIUM_9	La creencia de que el CEO que 	26	3	NA
+638	trabajó por años en aquella obra era en realidad un farsante parece ser cada vez más cierta. 	45	SC_RC	MEDIUM_9	La creencia de que el escultor que 	35	3	NA
+639	trabajó por diez años seguidos en el mismo puesto era que algún día sería ascendido.	48	SC_RC	MEDIUM_1	El sueño de que el empleado que 	40	2	NA
+640	trajo a su esposa a la base, es que le quiere pedir matrimonio en el primer lugar que se conocieron. 	7	SC_RC	MEDIUM_3	La realidad de que el comandante que 	38	2	NA
+641	trajo la tarta fue el que llamó repetidas veces en medio de la noche no me la quitarán por mucho que aparente ser un buen tipo.	53	SC_RC	MEDIUM_6	La certeza de que el vecino que 	38	NA	NA
+642	transportaba kilos y kilos de drogas fue confirmada en el puerto.	5	SC_RC	MEDIUM_6	La certeza de que el mafioso que 	34	2	NA
+643	transportaba sustancias adictivas en su coche para su posterior venta en un mercado negro era cierta y se le arrestó durante una inspección de su licencia.	74	SC_RC	MEDIUM_5	La información de que el taxista que 	27	2	NA
+644	trató de regatear al rey del reino de Castilla durante sus compras semanales, fue recordada a lo largo de la historia hasta el presente.	74	SC_RC	MEDIUM_3	La historia de que el vendedor que 	9	2	NA
+645	triunfó en Hollywood haya producido en la película es de admirar 	24	SC_RC	MEDIUM_0	La señal de que el actor que 	27	3	NA
+646	tu madre conoce ha sido encarcelado no me sorprende nada	35	SC_RC	MEDIUM_11	El hecho de que el CEO que 	28	3	NA
+647	tuvo el accidente estaba de gravedad, era verdadero, pero se está recuperando mejor de lo previsto.	62	SC_RC	MEDIUM_5	El reporte de que el corredor que 	13	3	NA
+648	tuvo ese pequeño accidente fue a propósito, suena de locos.	62	SC_RC	MEDIUM_6	La hipótesis de que el librero que 	29	3	NA
+649	usa la violencia verbal debe ser apartado de la politica, es amplio en la sociedad.	41	SC_RC	MEDIUM_8	El convencimiento de que el extremista que 	22	3	NA
+650	usa tácticas no éticas suele ser mas productivo, resulto falsa.	49	SC_RC	MEDIUM_9	La hipótesis de que el vendedor que 	14	3	NA
+651	usa uniforme gana mas dinero, es concluyente.	41	SC_RC	MEDIUM_3	El reporte de que el taxista que 	37	3	NA
+652	uso dineró público en su beneficio a la hora de ser elegido, provocó enfados a escala nacional en el pueblo, obligando al gobierno a investigar a todos los presentados a senadores antes de realizar las elecciones.	74	SC_RC	MEDIUM_7	El hecho de que el senador que 	14	2	NA
+653	va a llegar a tiempo la tengo yo. 	21	SC_RC	MEDIUM_9	La certeza de que el taxista que 	28	2	NA
+654	va a sustituir al actual esta en esta carpeta.	17	SC_RC	MEDIUM_4	La información de que el CEO que 	40	2	NA
+655	va en mi clase me fue muy útil 	9	SC_RC	MEDIUM_0	La información de que el estudiante que 	32	2	NA
+656	vende flores, también vende marihuana. 	3	SC_RC	MEDIUM_4	La historia de que el vecino que 	37	2	NA
+657	vende manzanas hara su tienda es lo que lo mantiene	39	SC_RC	MEDIUM_1	El sueño de que el vendedor que 	19	3	NA
+658	vendía drogas, había estado en el crimen, eran claras	43	SC_RC	MEDIUM_2	La prueba de que el mafioso que 	29	3	NA
+659	vendía flores en la calle era un ladrón, le despertó a Martita una indignación terrible. 	6	SC_RC	MEDIUM_0	El reconocimiento de que el vendedor que 	9	3	NA
+660	vendía partes robadas era en realidad parte de la mafia resultó ser cierto.	45	SC_RC	MEDIUM_6	El rumor de que el vendedor que 	42	3	NA
+661	venia de California era impresionante.	10	SC_RC	MEDIUM_9	El convencimiento de que el predicador que 	36	2	NA
+662	venia de otro mundo se pudo descifrar después de 3 días.	26	SC_RC	MEDIUM_5	La señal de que el niño que 	22	2	NA
+663	venía hacia mí era malvado se adentró en mi mente.	0	SC_RC	MEDIUM_3	La señal de que el vecino que 	41	3	NA
+664	vestia de negro, era el culpable de comerse la ultima galleta. 	7	SC_RC	MEDIUM_0	La prueba de que el predicador que 	12	2	NA
+665	vi ayer oliese mal me da ha entender que no se asea normalmente.	22	SC_RC	MEDIUM_9	El hecho de que el vecino que 	20	3	NA
+666	Vi desde mi ventana podía volar era en realidad una pesadilla 	19	SC_RC	MEDIUM_4	El sueño de que el niño que 	19	3	NA
+667	vi en la tarde fue el mismo que dio el concierto vino cuando me dio su nombre	12	SC_RC	MEDIUM_11	La certeza de que el violinista que 	33	3	NA
+668	vi hoy me va hablar is cien percento.	13	SC_RC	MEDIUM_6	La certeza de que el embaucador que 	20	3	NA
+669	viemos ayer esta aqui hoy.	13	SC_RC	MEDIUM_5	La realidad de que el librero que 	31	2	NA
+670	vigilaba la playa por la tarde era argentino resulto ser cierto	2	SC_RC	MEDIUM_9	El rumor de que el salvavidas que 	16	3	NA
+671	vimos ayer está proporcionada por la policía.	22	SC_RC	MEDIUM_5	La información de que la víctima que 	13	2	NA
+672	vimos ayer no seguirá dirigiendo la película es cierta.	22	SC_RC	MEDIUM_8	La conclusión de que el director que 	33	3	NA
+673	vimos el otro día haya sido arrestado puso a mi madre de buen humor	11	SC_RC	MEDIUM_3	La realidad de que el embaucador que 	21	3	NA
+674	vimos en el museo me perseguía con su martillo y cincel hizo que mojara la cama.	33	SC_RC	MEDIUM_4	El sueño de que el escultor que 	18	3	NA
+675	vimos ha sobrevivido un accidente de coche es cierta. 	20	SC_RC	MEDIUM_2	La historia de que el violinista que 	39	3	NA
+676	vino al pueblo tiene un oscuro secreto.	63	SC_RC	MEDIUM_10	El convencimiento de que el predicador que 	39	2	NA
+677	vino con mi primo mordió el mando hasta romperlo no puede ser despejada y estoy en mi derecho.	53	SC_RC	MEDIUM_7	La convicción de que el niño que 	40	3	NA
+678	vino de Italia y llegó a ser jefe de una Mafia me sorprendió	55	SC_RC	MEDIUM_2	La historia de que el mafioso que 	40	NA	NA
+679	visitaba todos los días la casa era ladrón, eran falsos	43	SC_RC	MEDIUM_6	El rumor de que el violinista que 	39	3	NA
+680	vive a dos casas fue el homicida llamado El títere, no tiene duda alguna.	67	SC_RC	MEDIUM_7	El convencimiento de que el vecino que 	23	3	NA
+681	vive ayi nos dio es mal.	15	SC_RC	MEDIUM_8	El convencimiento de que el vecino que 	41	3	NA
+682	vive en la esquina de la calle es ciego parece ser mentira. 	20	SC_RC	MEDIUM_6	El rumor de que el embaucador que 	14	3	NA
+683	vive en nuestra ciudad caminó sobre agua es falsa	11	SC_RC	MEDIUM_6	La creencia de que el predicador que 	18	3	NA
+684	vive frente a mi casa es peligroso, es solo una corazonada.	48	SC_RC	MEDIUM_11	La certeza de que el vecino que 	8	3	NA
+685	vive solo, nos informaba que había una segunda forma de vida en la casa mucho mas pequeña	16	SC_RC	MEDIUM_0	La señal de que el vecino que 	27	2	NA
+686	vivía al otro lado de la calle es un asesino podría ser cierto.	33	SC_RC	MEDIUM_8	El rumor de que el extremista que 	14	3	NA
+687	vivía en frente de nuestra casa estaba loco me dio miedo	11	SC_RC	MEDIUM_7	La impresión de que el niño que 	8	3	NA
+688	vivia en la guarida salia por fin se hacia realidad	2	SC_RC	MEDIUM_1	El sueño de que el científico que 	8	3	NA
+689	vivió en la época romana era un ser superior	35	SC_RC	MEDIUM_4	El sueño de que el senador que 	33	2	NA
+690	votó en contra de la legalización del aborto fue secuestrado es ridícula 	11	SC_RC	MEDIUM_2	La ficción de que el senador que 	15	3	NA

@@ -1,0 +1,19 @@
+b_HasRC.C  0 
+b_compatible.C  0 
+b_EmbeddingBias.C:HasSC.C  6.25e-05 
+b_EmbeddingBias.C:HasRC.C  0.0180625 
+EmbeddingBiasAcrossTwoThree  0 
+EmbeddingBiasWithinTwo  0.004 
+EmbeddingBiasWithinThree  0 
+Effect Depth 335.5198   293.696   376.7865 
+Effect Compatibility 84.15516   47.68793   120.0549   0 
+Effect Compatibility within Two 39.30098   1.429343   76.63895   0.020875 
+Effect Compatibility within Three 141.8329   86.26733   198.3664   0 
+Fact/Report Difference across Two/Three -218.8185   -288.1476   -151.4605 
+Fact/Report Difference in Two -108.5619   -185.3767   -27.4624 
+Fact/Report Difference in Three -596.4269   -746.6406   -460.4419 
+Fact/Report Difference within One 483.1337   325.1664   650.418 
+Fact/Report-Like Difference across Two/Three -156.4451   -212.1207   -99.87691 
+Fact/Report-Like Difference in Two -89.36119   -146.6381   -33.16369 
+Fact/Report-Like Difference in Three -242.2858   -337.4951   -144.8804 
+Fact/Report-Like Difference within One 222.7576   96.82813   347.2455 

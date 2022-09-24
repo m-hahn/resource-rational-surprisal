@@ -1,0 +1,2 @@
+BEST MODEL LogRT ~ trial + HasRC.C * compatible.C + (1|noun) + (1|workerid) + (1|item) + Log_SC_Bias.C
+BIC 4824.641

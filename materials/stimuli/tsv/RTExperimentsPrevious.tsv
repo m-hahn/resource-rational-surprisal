@@ -1,0 +1,70 @@
+ID	Type	Noun1	Noun2	Verb1	Verb2_Incompatible	Verb2_Compatible	Verb3	Nouns	Experiment	CriticalVerb	Sentence
+232_Critical_0	vn	teacher	principal	liked	failed the student	annoyed the student	was only a malicious smear	CLAIM ACCUSATION	E2	was	that the teacher who the principal liked annoyed the student was only a malicious smear.
+232_Critical_1	vn	doctor	colleague	mistrusted	cured ther patients	bothered the patients	seemed hard to believe	CLAIM FACT	E2	seemed	that the doctor who the colleague mistrusted bothered the patients seemed hard to believe.
+232_Critical_10	vn	president	farmer	admired	appointed the commander	impressed the commander	was entirely bogus	CLAIM	E2	was	that the president who the farmer admired impressed the commander was entirely bogus.
+232_Critical_11	vn	victim	swimmer	rescued	sued the criminal	surprised the criminal	appeared on TV	CLAIM FACT	E2	appeared	that the victim who the swimmer rescued surprised the criminal appeared on TV.
+232_Critical_12	vn	guest	cousin	invited	visited the uncle	pleased the uncle	drove Jill crazy	CLAIM FACT	E2	drove	that the guest who the cousin invited pleased the uncle calmed everyone down.
+232_Critical_13	vn	psychiatrist	nurse	assisted	diagnosed the patient	horrified the patient	became widely known	CLAIM FACT	E2	became	that the psychiatrist who the nurse assisted flattered the patient impressed the whole city.
+232_Critical_14	vn	driver	guide	called	phoned the tourist	amazed the tourist	was absolutely true	CLAIM	E2	was	that the driver who the guide called amazed the tourist was absolutely true.
+232_Critical_15	vn	actor	fans	loved	greeted the director	astonished the director	appeared to be true	CLAIM	E2	appeared	that the actor who the fans loved astonished the director appeared to be true.
+232_Critical_16	vn	banker	analyst	defrauded	trusted the customer	excited the customer	proved to be made up	CLAIM	E2	proved	that the banker who the analyst defrauded excited the customer proved to be made up.
+232_Critical_17	vn	judge	attorney	hated	acquitted the defendant	vindicated the defendant	was a lie	CLAIM	E2	was	that the judge who the attorney hated vindicated the defendant was a lie.
+232_Critical_18	vn	captain	crew	trusted	commanded the sailor	motivated the sailor	was nice to hear	CLAIM FACT	E2	was	that the captain who the crew trusted motivated the sailor was nice to hear.
+232_Critical_19	vn	manager	boss	authorized	hired the intern	saddened the intern	seemed absurd	CLAIM FACT	E2	seemed	that the manager who the boss authorized saddened the intern seemed absurd.
+232_Critical_2	vn	bully	children	hated	harassed the boy	shocked the boy	was entirely correct	CLAIM FACT ACCUSATION	E2	was	that the bully who the children hated shocked the boy was entirely correct.
+232_Critical_20	vn	plaintiff	jury	interrogated	interrupted the witness	startled the witness	made it into the news	CLAIM FACT	E2	made	that the plaintiff who the jury interrogated startled the witness made it into the news.
+232_Critical_21	vn	drunkard	thug	hit	outwitted the bartender	stunned the bartender	sounded hilarious	CLAIM FACT	E2	sounded	that the drunkard who the thug hit stunned the bartender sounded hilarious.
+232_Critical_22	vn	pediatrician	receptionist	supported	mistrusted the parent	disturbed the parent	troubled people	CLAIM FACT	Removed	troubled	that the pediatrician who the receptionist supported disturbed the parent troubled people.
+232_Critical_23	vn	medic	survivor	thanked	greeted the surgeon	surprised the surgeon	turned out to be untrue	CLAIM	E2	turned	that the medic who the survivor thanked flummoxed the surgeon turned out to be untrue.
+232_Critical_24	vn	lifesaver	soldier	taught	rescued the swimmer	encouraged the swimmer	took the townspeople by surprise	CLAIM FACT	E2	took	that the lifesaver who the soldier taught encouraged the swimmer pleased the townspeople.
+232_Critical_25	vn	fisherman	gardener	helped	admired the politician	delighted the politician	was interesting	CLAIM FACT	E2	was	that the fisherman who the gardener helped delighted the politician was interesting.
+232_Critical_26	vn	janitor	organizer	criticized	ignored the audience	amused the audience	was funny	CLAIM FACT	E2	was	that the janitor who the organizer criticized amused the audience was funny.
+232_Critical_27	vn	investor	scientist	detested	deceived the entrepreneur	disappointed the entrepreneur	drove everyone crazy	CLAIM FACT	E2	drove	that the investor who the scientist detested disappointed the entrepreneur taught everyone a lesson.
+232_Critical_28	vn	firefighter	neighbor	insulted	rescued the houseowner	discouraged the houseowner	went unnoticed	CLAIM	E2	went	that the firefighter who the neighbor insulted discouraged the houseowner struck John as implausible.
+232_Critical_29	vn	vendor	storeowner	recruited	welcomed the client	satisfied the client	excited the boss	CLAIM FACT	Removed	excited	that the vendor who the storeowner recruited satisfied the client excited the boss.
+232_Critical_3	vn	agent	FI	sent	arrested the criminal	confused the criminal	was acknowledged	FACT CLAIM	E2	was	that the agent who the FBI sent confused the criminal was acknowledged.
+232_Critical_30	vn	plumber	apprentice	consulted	assisted the woman	puzzled the woman	was true	CLAIM	E2	was	that the plumber who the apprentice consulted puzzled the woman was true.
+232_Critical_31	vn	sponsor	musician	entertained	cheered the onlookers	captivated the onlookers	pleased everyone	CLAIM FACT	Removed	pleased	that the sponsor who the musician entertained captivated the onlookers pleased everyone.
+232_Critical_4	vn	senator	diplomat	supported	defeated the opponent	troubled the opponent	deserved attention	FACT CLAIM	E2	deserved	that the senator who the diplomat supported troubled the opponent deserved attention.
+232_Critical_5	vn	 fianc&eacute; 	author	met	married the bride	startled the bride	did not surprise anyone	FACT CLAIM	E2	did	that the fianc&eacute; who the author met startled the bride did not surprise anyone.
+232_Critical_6	vn	businessman	sponsor	backed	fired the employee	surprised the employee	came as a disappointment	FACT CLAIM ACCUSATION	E2	came	that the businessman who the sponsor backed hurt the employee came as a disappointment.
+232_Critical_7	vn	thief	detective	caught	robbed the woman	enraged the woman	broke her family’s heart	FACT CLAIM ACCUSATION	E2	broke	that the thief who the detective caught enraged the woman shocked her family.
+232_Critical_8	vn	criminal	stranger	distracted	abducted the officer	baffled the officer	seemed concerning	FACT CLAIM ACCUSATION	E2	seemed	that the criminal who the stranger distracted baffled the officer seemed concerning.
+232_Critical_9	vn	customer	vendor	welcomed	contacted the clerk	terrified the clerk	was very believable	CLAIM	E2	was	that the customer who the vendor welcomed terrified the clerk was very believable.
+Critical_0	free	analyst	banker	trusted	repaired the TV	appeared on TV	was very believable	CLAIM	Removed	was	that the analyst who the banker trusted appeared on TV was very believable.
+Critical_1	vn	consultant	artist	hired	detested the janitor	surprised the janitor	shocked everyone	FACT CLAIM ACCUSATION	Removed	shocked	that the consultant who the artist hired surprised the janitor shocked everyone.
+Critical_10	free	actor	starlet	loved	got very sick	made her cry	was sad to hear	FACT CLAIM ACCUSATION	Removed	was	that the actor who the starlet loved made her cry was sad to hear.
+Critical_11	free	senator	diplomat	opposed	supported him	annoyed him	was absolutely true	CLAIM FACT ACCUSATION	Removed	was	that the senator who the diplomat opposed annoyed him was absolutely true.
+Critical_12	adj	extremist	agent	caught	was arrested	was dangerous	was widely acknowledged	CLAIM FACT ACCUSATION	Removed	was	that the extremist who the agent caught was dangerous was widely acknowledged.
+Critical_13	adj	victim	criminal	assaulted	remained crippled	remained hidden	was unnerving	CLAIM FACT	Removed	was	that the victim who the criminal assaulted remained hidden was unnerving.
+Critical_14	free	sculptor	painter	admired	made sculptures	was popular	was no surprise	FACT CLAIM	Removed	was	that the sculptor who the painter admired was popular was no surprise.
+Critical_15	free	runner	psychiatrist	treated	won the marathon	was widely known	was incorrect	CLAIM	Removed	was	that the runner who the psychiatrist treated was widely known was incorrect.
+Critical_16	free	criminal	officer	arrested	killed everyone	stunned everyone	was disconcerting	FACT CLAIM ACCUSATION	Removed	was	that the criminal who the officer arrested stunned everyone was disconcerting.
+Critical_17	adj	preacher	parishioners	fired	was fired	was idiotic	was gaining traction	ACCUSATION CLAIM	Removed	was	that the preacher who the parishioners fired was idiotic was gaining traction.
+Critical_18	free	violinist	sponsors	backed	played sonatas	sounded hopeful	pleased everyone	FACT CLAIM	Removed	pleased	that the violinist who the sponsors backed sounded hopeful pleased everyone.
+Critical_19	free	trader	businessman	consulted	cheated him	hurt him	was unnerving	FACT CLAIM ACCUSATION	Removed	was	that the trader who the businessman consulted hurt him was unnerving.
+Critical_2	adj	commander	president	appointed	was fired	was confirmed	troubled people	FACT CLAIM	Removed	troubled	that the commander who the president appointed was confirmed troubled people.
+Critical_20	adj	clerk	customer	called	was heroic	was sad	seemed absurd	CLAIM	Removed	seemed	
+Critical_21	free	CEO	employee	impressed	was retiring	deserved attention	was entirely correct	CLAIM FACT	Removed	was	
+Critical_22	adj	driver	tourist	consulted	was lying	was crazy	seemed hard to believe	CLAIM FACT ACCUSATION	Removed	seemed	
+Critical_23	free	bookseller	thief	robbed	got a heart attack	was a total fraud	shocked his family	CLAIM	Removed	shocked	
+Critical_24	free	neighbor	woman	distrusted	killed her dog	startled the child	was a lie	CLAIM ACCUSATION	Removed	was	
+Critical_25	free	scientist	mayor	trusted	had faked data	couldn't be trusted	was only a malicious smear	CLAIM ACCUSATION	Removed	was	
+Critical_26	vn	lifesaver	swimmer	called	saved the children	pleased the children	impressed the whole city	CLAIM FACT	Removed	impressed	
+Critical_27	free	entrepreneur	philantrhopist	funded	wasted the money	exasperated the nurse	came as a disappointment	CLAIM FACT ACCUSATION	Removed	exasperated	
+Critical_28	adj	trickster	woman	recognized	was finally caught	was finally acknowledged	calmed people down	CLAIM FACT	Removed	calmed	
+Critical_29	free	student	bully	intimidated	plagiarized his homework	drove everyone crazy	devastated his parents	CLAIM FACT ACCUSATION	Removed	devastated	
+Critical_3	adj	politician	banker	bribed	was corrupt	was credible	was bogus	CLAIM	Removed	was	that the politician who the banker bribed was credible was bogus.
+Critical_30	vn	carpenter	craftsman	carried	hurt the apprentice	confused the apprentice	was acknowledged	CLAIM FACT ACCUSATION	Removed	was	
+Critical_31	vn	daughter	sister	found	greeted the grandmother	frightened the grandmother	seemed concerning	CLAIM FACT ACCUSATION	Removed	seemed	
+Critical_32	vn	tenant	foreman	looked for	questioned the shepherd	annoyed the shepherd	proved to be made up	CLAIM ACCUSATION	Removed	proved	
+Critical_33	vn	musician	father	missed	injured the artist	displeased the artist	confused the banker	CLAIM FACT	Removed	confused	
+Critical_34	vn	pharmacist	stranger	saw	questioned the customer	distracted the customer	sounded surprising	CLAIM FACT	Removed	sounded	
+Critical_35	vn	bureaucrat	guard	shouted at	instructed the newscaster	disturbed the newscaster	annoyed the neighbor	CLAIM FACT ACCUSATION	Removed	annoyed	
+Critical_36	vn	cousin	brother	described 	killed the uncle	troubled the uncle	startled the mother	CLAIM FACT ACCUSATION	Removed	startled	
+Critical_4	free	dancer	audience	loved	won a prize	made people happy	was exctiting	CLAIM FACT	Removed	was	that the dancer who the audience loved made people happy was exciting.
+Critical_5	adj	politician	farmer	trusted	was elected	was refuted	did not bother the farmer	CLAIM FACT ACCUSATION	Removed	did	that the politician who the farmer trusted was refuted did not bother the farmer.
+Critical_6	vn	surgeon	patient	thanked	cured his colleagues	shocked his colleagues	was ridiculous	CLAIM	E2	was	that the surgeon who the patient thanked shocked his colleagues was ridiculous.
+Critical_7	free	principal	teacher	liked	had an affair	calmed everyone down	was false	CLAIM	Removed	was	that the principal who the teacher liked calmed everyone down was false.
+Critical_8	free	child	medic	rescued	wrote the newspaper article	was quoted in newspapers	was very interesting	CLAIM FACT	Removed	was	that the child who the medic rescued was quoted in newspapers was very interesting.
+Critical_9	adj	student	professor	hated	was lazy	was foolish	was a malicious smear	CLAIM ACCUSATION	Removed	was	that the student who the professor hated was foolish was a malicious smear.

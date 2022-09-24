@@ -1,0 +1,43 @@
+ID	Type	Noun1	Noun2	Verb1	Verb2_Incompatible	Verb2_Compatible	Verb3	Nouns	Experiment	CriticalVerb
+232_Critical_0	vn	teacher	principal	liked	failed the student	annoyed the student	was only a malicious smear	CLAIM ACCUSATION	E2	was
+232_Critical_1	vn	doctor	colleague	mistrusted	cured ther patients	bothered the patients	seemed hard to believe	CLAIM FACT	E2	seemed
+232_Critical_10	vn	president	farmer	admired	appointed the commander	impressed the commander	was entirely bogus	CLAIM	E2	was
+232_Critical_11	vn	victim	swimmer	rescued	sued the criminal	surprised the criminal	appeared on TV	CLAIM FACT	E2	appeared
+232_Critical_12	vn	guest	cousin	invited	visited the uncle	pleased the uncle	drove Jill crazy	CLAIM FACT	E2	drove
+232_Critical_13	vn	psychiatrist	nurse	assisted	diagnosed the patient	horrified the patient	became widely known	CLAIM FACT	E2	became
+232_Critical_14	vn	driver	guide	called	phoned the tourist	amazed the tourist	was absolutely true	CLAIM	E2	was
+232_Critical_15	vn	actor	fans	loved	greeted the director	astonished the director	appeared to be true	CLAIM	E2	appeared
+232_Critical_16	vn	banker	analyst	defrauded	trusted the customer	excited the customer	proved to be made up	CLAIM	E2	proved
+232_Critical_17	vn	judge	attorney	hated	acquitted the defendant	vindicated the defendant	was a lie	CLAIM	E2	was
+232_Critical_18	vn	captain	crew	trusted	commanded the sailor	motivated the sailor	was nice to hear	CLAIM FACT	E2	was
+232_Critical_19	vn	manager	boss	authorized	hired the intern	saddened the intern	seemed absurd	CLAIM FACT	E2	seemed
+232_Critical_2	vn	bully	children	hated	harassed the boy	shocked the boy	was entirely correct	CLAIM FACT ACCUSATION	E2	was
+232_Critical_20	vn	plaintiff	jury	interrogated	interrupted the witness	startled the witness	made it into the news	CLAIM FACT	E2	made
+232_Critical_21	vn	drunkard	thug	hit	outwitted the bartender	stunned the bartender	sounded hilarious	CLAIM FACT	E2	sounded
+232_Critical_23	vn	medic	survivor	thanked	greeted the surgeon	surprised the surgeon	turned out to be untrue	CLAIM	E2	turned
+232_Critical_24	vn	lifesaver	soldier	taught	rescued the swimmer	encouraged the swimmer	took the townspeople by surprise	CLAIM FACT	E2	took
+232_Critical_25	vn	fisherman	gardener	helped	admired the politician	delighted the politician	was interesting	CLAIM FACT	E2	was
+232_Critical_26	vn	janitor	organizer	criticized	ignored the audience	amused the audience	was funny	CLAIM FACT	E2	was
+232_Critical_27	vn	investor	scientist	detested	deceived the entrepreneur	disappointed the entrepreneur	drove everyone crazy	CLAIM FACT	E2	drove
+232_Critical_28	vn	firefighter	neighbor	insulted	rescued the houseowner	discouraged the houseowner	went unnoticed	CLAIM FACT	E2	went
+232_Critical_3	vn	agent	FBI	sent	arrested the criminal	confused the criminal	was acknowledged	FACT CLAIM	E2	was
+232_Critical_30	vn	plumber	apprentice	consulted	assisted the woman	puzzled the woman	was true	CLAIM	E2	was
+232_Critical_4	vn	senator	diplomat	supported	defeated the opponent	troubled the opponent	deserved attention	FACT CLAIM	E2	deserved
+232_Critical_5	vn	 fiancé 	author	met	married the bride	startled the bride	did not surprise anyone	FACT CLAIM	E2	did
+232_Critical_6	vn	businessman	sponsor	backed	fired the employee	surprised the employee	came as a disappointment	FACT CLAIM ACCUSATION	E2	came
+232_Critical_7	vn	thief	detective	caught	robbed the woman	enraged the woman	broke her family's heart	FACT CLAIM ACCUSATION	E2	broke
+232_Critical_8	vn	criminal	stranger	distracted	abducted the officer	baffled the officer	seemed concerning	FACT CLAIM ACCUSATION	E2	seemed
+232_Critical_9	vn	customer	vendor	welcomed	contacted the clerk	terrified the clerk	was very believable	CLAIM	E2	was
+238_Critical_VAdv1	free	commander	president	appointed	was fired yesterday	was confirmed yesterday	troubled people	CLAIM FACT	E2	troubled
+238_Critical_Vadv2	free	trickster	woman	recognized	was arrested by the police	was acknowledged by the police	calmed people down	CLAIM FACT	E2	calmed
+238_Critical_Vadv3	free	politician	farmer	trusted	was elected three days ago	was refuted three days ago	did not bother the farmer	CLAIM FACT	E2	did
+238_Critical_Vadv5	free	politician	banker	bribed	seemed corrupt to everyone	seemed credible to everyone	gave John the chills	CLAIM FACT	E2	gave
+238_Critical_Vadv6	free	sculptor	painter	admired	made sculptures in the US	made headlines in the US	did not surprise anyone	CLAIM FACT	E2	did
+238_Critical_Vadv7	free	runner	psychiatrist	treated	won the marathon in France	was widely known in France	turned out to be incorrect	CLAIM	E2	turned
+238_Critical_Vadv8	free	analyst	banker	trusted	repaired the TV this morning	appeared on TV this morning	was very believable	CLAIM	E2	was
+238_Critical_Vadv9	free	child	medic	resuced	wrote articles in newspapers	was mentioned in newspapers	seemed very interesting	CLAIM FACT	E2	seemed
+238_Critical_VN1	free	carpenter	craftsman	carried	hurt the apprentice	confused the apprentice	was acknowledged	CLAIM FACT ACCUSATION	E2	was
+238_Critical_VN2	free	daughter	sister	found	greeted the grandmother	frightened the grandmother	seemed concerning	CLAIM FACT ACCUSATION	E2	seemed
+238_Critical_VN3	free	tenant	foreman	looked for	questioned the shepherd	annoyed the shepherd	proved to be made up	CLAIM ACCUSATION	E2	proved
+238_Critical_VN5	free	pharmamacist	stranger	saw	questioned the customer	distracted the customer	sounded surprising	CLAIM FACT	E2	sounded
+Critical_6	vn	surgeon	patient	thanked	cured his colleagues	shocked his colleagues	was ridiculous	CLAIM	E2	was

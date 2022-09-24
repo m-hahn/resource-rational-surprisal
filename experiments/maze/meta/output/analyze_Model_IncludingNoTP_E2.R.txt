@@ -1,0 +1,26 @@
+Linear mixed model fit by REML ['lmerMod']
+Formula: LogRT ~ SurprisalReweighted + (1 | noun) + (1 | item) + (1 |      workerid)
+   Data: data_
+
+REML criterion at convergence: 1659.7
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.4246 -0.6945 -0.1328  0.6251  3.6799 
+
+Random effects:
+ Groups   Name        Variance  Std.Dev.
+ workerid (Intercept) 0.0212805 0.14588 
+ item     (Intercept) 0.0072732 0.08528 
+ noun     (Intercept) 0.0009061 0.03010 
+ Residual             0.1252836 0.35395 
+Number of obs: 1838, groups:  workerid, 203; item, 42; noun, 30
+
+Fixed effects:
+                    Estimate Std. Error t value
+(Intercept)         6.509498   0.038322  169.86
+SurprisalReweighted 0.068506   0.004313   15.88
+
+Correlation of Fixed Effects:
+            (Intr)
+SrprslRwght -0.860

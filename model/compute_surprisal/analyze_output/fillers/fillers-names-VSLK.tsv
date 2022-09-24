@@ -1,0 +1,207 @@
+VSLK_ID	Sentence
+E1_01_a	The nurse supervised the administrator while a patient was brought into the emergency room.
+E1_01_b	The nurse from the clinic supervised the administrator while a patient was brought into the emergency room.
+E1_01_c	The nurse who was from the clinic supervised the administrator while a patient was brought into the emergency room.
+E1_01_d	The administrator who the nurse supervised scolded the medic while a patient was brought into the emergency room.
+E1_01_e	The administrator who the nurse from the clinic supervised scolded the medic while a patient was brought into the emergency room.
+E1_01_f	The administrator who the nurse who was from the clinic supervised scolded the medic while a patient was brought into the emergency room.
+E1_02_a	The doorman chatted with the janitor but the manager decided not to fire him for it.
+E1_02_b	The doorman at the hotel chatted with the janitor but the manager decided not to fire him for it.
+E1_02_c	The doorman who was at the hotel chatted with the janitor but the manager decided not to fire him for it.
+E1_02_d	The janitor who the doorman chatted with bothered a guest but the manager decided not to fire him for it.
+E1_02_e	The janitor who the doorman at the hotel chatted with bothered a guest but the manager decided not to fire him for it.
+E1_02_f	The janitor who the doorman who was at the hotel chatted with bothered a guest but the manager decided not to fire him for it.
+E1_03_a	The quarterback dated the cheerleader although this hurt her reputation around school.
+E1_03_b	The quarterback on the team dated the cheerleader although this hurt her reputation around school.
+E1_03_c	The quarterback who was on the team dated the cheerleader although this hurt her reputation around school.
+E1_03_d	The cheerleader who the quarterback dated snubbed the teammates although this hurt her reputation around school.
+E1_03_e	The cheerleader who the quarterback on the team dated snubbed the teammates although this hurt her reputation around school.
+E1_03_f	The cheerleader who the quarterback who was on the team dated snubbed the teammates although this hurt her reputation around school.
+E1_04_a	The fans loved the guitarist because he played with so much energy.
+E1_04_b	The fans at the concert loved the guitarist because he played with so much energy.
+E1_04_c	The fans who were at the concert loved the guitarist because he played with so much energy.
+E1_04_d	The guitarist who the fans loved injured a spectator because he played with so much energy.
+E1_04_e	The guitarist who the fans at the concert loved injured a spectator because he played with so much energy.
+E1_04_f	The guitarist who the fans who were at the concert loved injured a spectator because he played with so much energy.
+E1_05_a	The rebels captured the diplomat after they threatened to kill his family for not complying with their demands.
+E1_05_b	The rebels in the jungle captured the diplomat after they threatened to kill his family for not complying with their demands.
+E1_05_c	The rebels who were in the jungle captured the diplomat after they threatened to kill his family for not complying with their demands.
+E1_05_d	The diplomat who the rebels captured pleaded with the villagers after they threatened to kill his family for not complying with their demands.
+E1_05_e	The diplomat who the rebels in the jungle captured pleaded with the villagers after they threatened to kill his family for not complying with their demands.
+E1_05_f	The diplomat who the rebels who were in the jungle captured pleaded with the villagers after they threatened to kill his family for not complying with their demands.
+E1_06_a	The guard attacked the prisoner although he had no intention of trying to escape.
+E1_06_b	The guard by the gate attacked the prisoner although he had no intention of trying to escape.
+E1_06_c	The guard who was by the gate attacked the prisoner although he had no intention of trying to escape.
+E1_06_d	The prisoner who the guard attacked tackled the warden although he had no intention of trying to escape.
+E1_06_e	The prisoner who the guard by the gate attacked tackled the warden although he had no intention of trying to escape.
+E1_06_f	The prisoner who the guard who was by the gate attacked tackled the warden although he had no intention of trying to escape.
+E1_07_a	The servant hired the cook and then left the mansion early to see a movie at the local theater.
+E1_07_b	The servant in the kitchen hired the cook and then left the mansion early to see a movie at the local theater.
+E1_07_c	The servant who was in the kitchen hired the cook and then left the mansion early to see a movie at the local theater.
+E1_07_d	The cook who the servant hired offended the butler and then left the mansion early to see a movie at the local theater.
+E1_07_e	The cook who the servant in the kitchen hired offended the butler and then left the mansion early to see a movie at the local theater.
+E1_07_f	The cook who the servant who was in the kitchen hired offended the butler and then left the mansion early to see a movie at the local theater.
+E1_08_a	The detective consulted the surgeon because the markings on the body were difficult to explain.
+E1_08_b	The detective on the case consulted the surgeon because the markings on the body were difficult to explain.
+E1_08_c	The detective who was on the case consulted the surgeon because the markings on the body were difficult to explain.
+E1_08_d	The surgeon who the detective consulted questioned the coroner because the markings on the body were difficult to explain.
+E1_08_e	The surgeon who the detective on the case consulted questioned the coroner because the markings on the body were difficult to explain.
+E1_08_f	The surgeon who the detective who was on the case consulted questioned the coroner because the markings on the body were difficult to explain.
+E1_09_a	The dragon wounded the knight although he was far too crippled to protect the princess.
+E1_09_b	The dragon in the tower wounded the knight although he was far too crippled to protect the princess.
+E1_09_c	The dragon who was in the tower wounded the knight although he was far too crippled to protect the princess.
+E1_09_d	The knight who the dragon wounded married the princess although he was far too crippled to protect her.
+E1_09_e	The knight who the dragon in the tower wounded married the princess although he was far too crippled to protect her.
+E1_09_f	The knight who the dragon who was in the tower wounded married the princess although he was far too crippled to protect her.
+E1_10_a	The firemen apprehended the arsonist because there was a great deal of evidence pointing to his guilt.
+E1_10_b	The firemen at the scene apprehended the arsonist because there was a great deal of evidence pointing to his guilt.
+E1_10_c	The fireman who was at the scene apprehended the arsonist because there was a great deal of evidence pointing to his guilt.
+E1_10_d	The arsonist who the fireman apprehended obtained a lawyer because there was a great deal of evidence pointing to his guilt.
+E1_10_e	The arsonist who the firemen at the scene apprehended obtained a lawyer because there was a great deal of evidence pointing to his guilt.
+E1_10_f	The arsonist who the firemen who was at the scene apprehended obtained a lawyer because there was a great deal of evidence pointing to his guilt.
+E1_11_a	The audience booed the singer before the owner of the bar could remove him from the stage.
+E1_11_b	The audience at the club booed the singer before the owner of the bar could remove him from the stage.
+E1_11_c	The audience who was at the club booed the singer before the owner of the bar could remove him from the stage.
+E1_11_d	The singer who the audience booed insulted the pianist before the owner of the bar could remove him from the stage.
+E1_11_e	The singer who the audience at the club booed insulted the pianist before the owner of the bar could remove him from the stage.
+E1_11_f	The singer who the audience who was at the club booed insulted the pianist before the owner of the bar could remove him from the stage.
+E1_12_a	The baker loathed the manager because he had instituted a new dress code for all employees.
+E1_12_b	The baker at the shop loathed the manager because he had instituted a new dress code for all employees.
+E1_12_c	The baker who was at the shop loathed the manager because he had instituted a new dress code for all employees.
+E1_12_d	The manager who the baker loathed spoke to the new pastry chef because he had instituted a new dress code for all employees.
+E1_12_e	The manager who the baker at the shop loathed spoke to the new pastry chef because he had instituted a new dress code for all employees.
+E1_12_f	The manager who the baker who was at the shop loathed spoke to the new pastry chef because he had instituted a new dress code for all employees.
+E1_13_a	The detective followed the gangster because the police suspected he had murdered the shopkeeper.
+E1_13_b	The detective at the club followed the gangster because the police suspected he had murdered the shopkeeper.
+E1_13_c	The detective who was at the club followed the gangster because the police suspected he had murdered the shopkeeper.
+E1_13_d	The gangster who the detective followed implicated the waitress because the police suspected he had murdered the shopkeeper.
+E1_13_e	The gangster who the detective at the club followed implicated the waitress because the police suspected he had murdered the shopkeeper.
+E1_13_f	The gangster who the detective who was at the club followed implicated the waitress because the police suspected he had murdered the shopkeeper.
+E1_14_a	The lawyer scolded the engineer but nobody listened to his complaints.
+E1_14_b	The lawyer by the elevator scolded the engineer but nobody listened to his complaints.
+E1_14_c	The lawyer who was by the elevator scolded the engineer but nobody listened to his complaints.
+E1_14_d	The engineer who the lawyer scolded blamed the secretary but nobody listened to his complaints.
+E1_14_e	The engineer who the lawyer by the elevator scolded blamed the secretary but nobody listened to his complaints.
+E1_14_f	The engineer who the lawyer who was by the elevator scolded blamed the secretary but nobody listened to his complaints.
+E1_15_a	The students studied the surgeon whenever he performed an important operation.
+E1_15_b	The students at the operation studied the surgeon whenever he performed an important operation.
+E1_15_c	The students who were at the operation studied the surgeon whenever he performed an important operation.
+E1_15_d	The surgeon who the students studied whispered to the nurse whenever he performed an important operation.
+E1_15_e	The surgeon who the students at the operation studied whispered to the nurse whenever he performed an important operation.
+E1_15_f	The surgeon who the students who were at the operation studied whispered to the nurse whenever he performed an important operation.
+E1_16_a	The mathematician baffled the philosopher although she rarely needed anyone else's help.
+E1_16_b	The mathematician at the banquet baffled the philosopher although she rarely needed anyone else's help.
+E1_16_c	The mathematician who was at the banquet baffled the philosopher although she rarely needed anyone else's help.
+E1_16_d	The philosopher who the mathematician baffled consulted a colleague although she rarely needed anyone else's help.
+E1_16_e	The philosopher who the mathematician at the banquet baffled consulted a colleague although she rarely needed anyone else's help.
+E1_16_f	The philosopher who the mathematician who was at the banquet baffled consulted a colleague although she rarely needed anyone else's help.
+E1_17_a	The customer contacted the operator because the new long-distance pricing plan was extremely inconvenient.
+E1_17_b	The customer on the phone contacted the operator because the new long-distance pricing plan was extremely inconvenient.
+E1_17_c	The customer who was on the phone contacted the operator because the new long-distance pricing plan was extremely inconvenient.
+E1_17_d	The operator who the customer contacted notified the supervisor because the new long-distance pricing plan was extremely inconvenient.
+E1_17_e	The operator who the customer on the phone contacted notified the supervisor because the new long-distance pricing plan was extremely inconvenient.
+E1_17_f	The operator who the customer who was on the phone contacted notified the supervisor on the phone because the new long-distance pricing plan was extremely inconvenient.
+E1_18_a	The readers supported the cartoonist because she thought that censorship was never appropriate.
+E1_18_b	The readers from the university supported the cartoonist because she thought that censorship was never appropriate.
+E1_18_c	The readers who were from the university supported the cartoonist because she thought that censorship was never appropriate.
+E1_18_d	The cartoonist who the readers supported pressured the dean because she thought that censorship was never appropriate.
+E1_18_e	The cartoonist who the readers from the university supported pressured the dean because she thought that censorship was never appropriate.
+E1_18_f	The cartoonist who the readers who were from the university supported pressured the dean because she thought that censorship was never appropriate.
+E1_19_a	The police arrested the hippies while the last act was going on stage.
+E1_19_b	The police at the concert arrested the hippies while the last act was going on stage.
+E1_19_c	The police who were at the concert arrested the hippies while the last act was going on stage.
+E1_19_d	The hippies who the police arrested complained to the officials while the last act was going on stage.
+E1_19_e	The hippies who the police at the concert arrested complained to the officials while the last act was going on stage.
+E1_19_f	The hippies who the police who were at the concert arrested complained to the officials while the last act was going on stage.
+E1_20_a	The boy captured the spider since it was larger than the average spider.
+E1_20_b	The boy in the yard captured the spider since it was larger than the average spider.
+E1_20_c	The boy who was in the yard captured the spider since it was larger than the average spider.
+E1_20_d	The spider that the boy captured scared the dog since it was larger than the average spider.
+E1_20_e	The spider that the boy in the yard captured scared the dog since it was larger than the average spider.
+E1_20_f	The spider that the boy who was in the yard captured scared the dog since it was larger than the average spider.
+E1_21_a	The bully punched the kid after all the kids had to leave to go to class.
+E1_21_b	The bully on the playground punched the kid after all the kids had to leave to go to class.
+E1_21_c	The bully who was on the playground punched the kid after all the kids had to leave to go to class.
+E1_21_d	The kid that the bully punched found the teacher after all the kids had to leave to go to class.
+E1_21_e	The kid that the bully on the playground punched found the teacher after all the kids had to leave to go to class.
+E1_21_f	The kid that the bully who was on the playground punched found the teacher after all the kids had to go to class.
+E1_22_a	The natives captured the anthropologist because she had information that could help the tribe.
+E1_22_b	The natives on the island captured the anthropologist because she had information that could help the tribe.
+E1_22_c	The natives who were on the island captured the anthropologist because she had information that could help the tribe.
+E1_22_d	The anthropologist who the natives captured talked to the chief because she had information that could help the tribe.
+E1_22_e	The anthropologist who the natives on the island captured talked to the chief because she had information that could help the tribe.
+E1_22_f	The anthropologist who the natives who were on the island captured talked to the chief because she had information that could help the tribe.
+E1_23_a	The scientists studied the alien while the blood sample was run through the computer.
+E1_23_b	The scientists in the lab studied the alien while the blood sample was run through the computer.
+E1_23_c	The scientists who were in the lab studied the alien while the blood sample was run through the computer.
+E1_23_d	The alien who the scientists studied killed an assistant while the blood sample was run through the computer.
+E1_23_e	The alien who the scientists in the lab studied killed an assistant while the blood sample was run through the computer.
+E1_23_f	The alien who the scientists who were in the lab studied killed an assistant while the blood sample was run through the computer.
+E1_24_a	The police arrested the biker since he was driving under the influence of alcohol.
+E1_24_b	The police at the intersection arrested the biker since he was driving under the influence of alcohol.
+E1_24_c	The police who were at the intersection arrested the biker since he was driving under the influence of alcohol.
+E1_24_d	The biker who the police arrested ran a light since he was driving under the influence of alcohol.
+E1_24_e	The biker who the police at the intersection arrested ran a light since he was driving under the influence of alcohol.
+E1_24_f	The biker who the police who were at the intersection arrested ran a light since he was driving under the influence of alcohol.
+E1_25_a	The demonstrators supported the environmentalist until security came and sent everyone home.
+E1_25_b	The demonstrators at the rally supported the environmentalist until security came and sent everyone home.
+E1_25_c	The demonstrators who were at the rally supported the environmentalist until security came and sent everyone home.
+E1_25_d	The environmentalist who the demonstrators supported the crowd until security came and sent everyone home.
+E1_25_e	The environmentalist who the demonstrators at the rally supported calmed the crowd until security came and sent everyone home.
+E1_25_f	The environmentalist who the demonstrators who were at the rally supported calmed the crowd until security came and sent everyone home.
+E1_26_a	The journalists worshipped the astronaut after he discovered a potential leak in the fuel tank.
+E1_26_b	The journalists at the launch worshipped the astronaut after he discovered a potential leak in the fuel tank.
+E1_26_c	The journalists who were at the launch worshipped the astronaut after he discovered a potential leak in the fuel tank.
+E1_26_d	The astronaut that the journalists worshipped criticized the administrators after he discovered a potential leak in the fuel tank.
+E1_26_e	The astronaut that the journalists at the launch worshipped criticized the administrators after he discovered a potential leak in the fuel tank.
+E1_26_f	The astronaut that the journalists who were at the launch worshipped criticized the administrators after he discovered a potential leak in the fuel tank.
+E1_27_a	The casino hired the daredevil because he was confident that everything would go according to plan.
+E1_27_b	The casino near the jump hired the daredevil because he was confident that everything would go according to plan.
+E1_27_c	The casino that was near the jump hired the daredevil because he was confident that everything would go according to plan.
+E1_27_d	The daredevil who the casino hired waved to the crowd because he was confident that everything would go according to plan.
+E1_27_e	The daredevil who the casino near the jump hired waved to the crowd because he was confident that everything would go according to plan.
+E1_27_f	The daredevil who the casino that was near the jump hired waved to the crowd because he was confident that everything would go according to plan.
+E1_28_a	The technician repaired the robot while people were taking a break for coffee.
+E1_28_b	The technician at the show repaired the robot while people were taking a break for coffee.
+E1_28_c	The technician who was at the show repaired the robot while people were taking a break for coffee.
+E1_28_d	The robot that the technician repaired surveyed the crowd while people were taking a break for coffee.
+E1_28_e	The robot that the technician at the show repaired surveyed the crowd while people were taking a break for coffee.
+E1_28_f	The robot that the technician who was at the show repaired surveyed the crowd while people were taking a break for coffee.
+E1_29_a	The woman hired the plumber despite the fact that he couldn't fix the toilet.
+E1_29_b	The woman in the apartment hired the plumber despite the fact that he couldn't fix the toilet.
+E1_29_c	The woman who was in the apartment hired the plumber despite the fact that he couldn't fix the toilet.
+E1_29_d	The plumber who the woman hired fixed the sink despite the fact that he couldn't fix the toilet.
+E1_29_e	The plumber who the woman in the kitchen hired fixed the sink despite the fact that he couldn't fix the toilet.
+E1_29_f	The plumber who the woman who was in the kitchen hired fixed the sink despite the fact that he couldn't fix the toilet.
+E1_30_a	The historian offended the speaker after the talk was over and everyone had left the room.
+E1_30_b	The historian by the podium offended the speaker after the talk was over and everyone had left the room.
+E1_30_c	The historian who was by the podium offended the speaker after the talk was over and everyone had left the room.
+E1_30_d	The speaker who the historian offended kicked a chair after the talk was over and everyone had left the room.
+E1_30_e	The speaker who the historian by the podium offended kicked a chair after the talk was over and everyone had left the room.
+E1_30_f	The speaker who the historian who was by the podium offended kicked a chair after the talk was over and everyone had left the room.
+filler_10_-	The divorcee has come to love her life ever since she got divorced.
+filler_11_-	The intern comforted the patient because he was in great pain.
+filler_12_-	The trainee knew that the task which the director had set for him was impossible to finish within a week.
+filler_13_-	The company was sure that its new product, which its researchers had developed, would soon be sold out.
+filler_14_-	The passer-by threw the cardboard box into the trash-can with great force.
+filler_15_-	The beggar is often scrounging for cigarettes.
+filler_16_-	The librarian put the book onto the shelf.
+filler_17_-	The sportsman goes jogging in the park regularly.
+filler_18_-	The roommate takes out the garbage every week.
+filler_19_-	The showman travels to different cities every month.
+filler_1_-	The student quickly finished his homework assignments.
+filler_20_-	The teacher doubted that the test that had taken him a long time to design would be easy to answer.
+filler_21_-	The salesman feared that the printer which the customer bought was damaged.
+filler_22_-	During the party everybody was dancing to rock music.
+filler_23_-	The photographer processed the film on time.
+filler_24_-	The producer shoots a new movie every year.
+filler_25_-	Yesterday the swimmer saw only a turtle at the beach.
+filler_26_-	The office-worker worked through the stack of files on his desk quickly.
+filler_2_-	The defender is constantly scolding the keeper.
+filler_3_-	The private tutor explained the assignment carefully.
+filler_4_-	The locksmith can crack the safe easily.
+filler_5_-	The milkman punctually delivers the milk at the door every day.
+filler_6_-	The citizens of France eat oysters.
+filler_7_-	During the season, the choir holds rehearsals in the church regularly.
+filler_8_-	After the argument, the husband ignored his wife.
+filler_9_-	Dinosaurs ate other reptiles during the stone age.

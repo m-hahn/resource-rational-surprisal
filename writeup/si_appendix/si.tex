@@ -1,0 +1,225 @@
+%
+% File acl2020.tex
+%
+%% Based on the style files for ACL 2020, which were
+%% Based on the style files for ACL 2018, NAACL 2018/19, which were
+%% Based on the style files for ACL-2015, with some improvements
+%%  taken from the NAACL-2016 style
+%% Based on the style files for ACL-2014, which were, in turn,
+%% based on ACL-2013, ACL-2012, ACL-2011, ACL-2010, ACL-IJCNLP-2009,
+%% EACL-2009, IJCNLP-2008...
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt,a4paper]{article}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{linguex}
+\usepackage{xcolor}
+\usepackage{url}
+
+\usepackage{fullpage}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+
+\usepackage{amsmath,amssymb}
+\usepackage[numbers]{natbib}
+\bibliographystyle{abbrvnat}
+
+\usepackage{amsfonts}
+
+\usepackage{microtype}
+
+\usepackage{todonotes}
+
+\usepackage{xcolor}
+
+\newcommand\mhahn[1]{{\color{red}(mhahn: #1)}}
+
+\newcommand\deletionRate{\delta}
+\newcommand\representation{c'}
+\newcommand\contextInput{c}
+\newcommand\nextWord{w}
+\newcommand\memoryModel{\theta}
+
+
+\newcommand\BibTeX{B\textsc{ib}\TeX}
+
+\title{Supplementary Information: A Resource-Rational Model of Human Processing of Recursive Linguistic Structure}
+
+\author{Michael Hahn, Richard Futrell, Roger Levy, Edward Gibson \\ \\ \texttt{mhahn2@stanford.edu}}
+
+\begin{document}
+\maketitle
+
+
+
+\tableofcontents
+
+\newpage
+\part{Details for Model and Experiments}
+
+\section{Implementation Details}\label{sec:implementation}
+\input{si-1-model}
+
+\newpage
+\section{Detailed Model Results}
+
+
+
+\definecolor{one}{HTML}{F8766D}
+\definecolor{two}{HTML}{00BA38}
+\definecolor{three}{HTML}{619CFF}
+
+\input{si-2-model-results}
+
+\newpage
+\section{Additional Analyses for Reading Times in Experiments 1--2}
+\input{si-3-additional-analyses}
+
+\newpage
+\section{Additional Analyses for Experiment 3}
+\input{si-4-additional-production}
+
+
+
+
+\newpage
+\part{Further Experiments and Meta-Analysis}
+
+
+\section{Ratings Studies}\label{sec:ratings-studies}
+\input{si-5-other-exps-rating}
+
+
+\newpage
+\section{Previous Reading Time Experiments}\label{sec:previous}
+\input{si-6-other-exps-rt}
+
+
+
+
+
+
+\newpage
+\part{Comparison with Other Models and Theories}
+
+
+\section{Comparison with other Theories}\label{sec:other-theories}
+
+\input{si-7-other-theories}
+
+\newpage
+\section{Comparison with Information-Theoretic Bottleneck}
+
+\input{si-8-bottleneck}
+
+
+
+
+\newpage
+\part{Further Analyses}
+
+
+\section{Model Fit on Fillers}
+
+\input{si-10-fillers}
+
+
+
+\newpage
+\section{Comparing Embedding Bias with other Possible Predictors}\label{sec:other-possible-predictors}
+\input{si-11-control-embedding-bias}
+
+
+
+\newpage
+\part{Materials}
+
+
+\section{Nouns and Embedding Bias}\label{sec:nouns}
+\input{si-12-nouns}
+
+
+
+\newpage
+\section{Stimuli (Reading Time Studies)}\label{sec:stimulus-pool}
+
+
+The stimuli were constructed subject to the following constraints:
+\begin{enumerate}
+	\item The critical verb and the second-to-last verb phrase were neither identical, strongly similar (e.g. annoyed and startled), nor were they differentially semantically similar in the \textsc{Compatible} and \textsc{Incompatible} conditions. For instance, if the inner verb is ``annoyed'' in the \textsc{Compatible} condition, the final verb cannot be ``startled''.
+	\item In Experiment 2, the last word in the second-to-last verb phrase was identical across the \textsc{Compatible} and \textsc{Incompatible} conditions.
+		While the Maze paradigm largely avoids spillover effects, this constraint helps remove any remaining doubt that spillover could impact the comparison between \textsc{Compatible} and \textsc{Incompatible}.
+	\item In Experiment 2, the overall distribution of COCA log word frequency of the second-to-last verb, across the items, was matched in the \textsc{Compatible} and \textsc{Incompatible} conditions. This was done to avoid any possibility of increased difficulty due to rare lexical items spilling over to the final verb.
+\end{enumerate}
+These constraints had not been consistently enforced in the preceding experiments (Section~\ref{sec:previous}).
+While they rigorously rule out various potential confounds, we did not observe evidence that these constraints had an impact on the effects of interest in either the model predictions or human reading times.
+
+
+
+\subsection{Stimuli (Experiment 1)}\label{sec:stimulus-pool-1}
+
+For each item, we show the full version in the \textsc{Three} condition.
+The other conditions are obtained by removing one or both embedded clauses.
+For each item, we also indicate the semantic groups of nouns that we paired it with (see Section~\ref{sec:nouns}).
+
+
+
+
+\input{../resource-rational-surprisal/materials/stimuli/tex/Experiment1.tsv}
+
+
+
+\subsection{Stimuli (Experiment 2)}\label{sec:stimulus-pool-2}
+Formatting is as in Section~\ref{sec:stimulus-pool-1}.
+For the second-to-last verb phrase, the show the \textsc{Incompatible} and \textsc{Compatible} version, separated by a slash.
+
+
+
+
+
+
+\input{../resource-rational-surprisal/materials/stimuli/tex/Experiment2.tsv}
+
+
+
+
+
+
+\newpage
+\section{Stimuli (Production Study)}
+
+\subsection{English}
+
+
+\input{../resource-rational-surprisal/experiments/production/experiment3_english/expt-files/stimuli.tex}
+
+
+
+\subsection{German}
+
+
+\input{../resource-rational-surprisal/experiments/production/experiment3_german/expt-files/stimuli.tex}
+
+Matrix clauses:
+\input{../resource-rational-surprisal/experiments/production/experiment3_german/expt-files/matrices.tex}
+
+
+
+\subsection{Spanish}
+
+
+\input{../resource-rational-surprisal/experiments/production/experiment3_spanish/expt-files/stimuli.tex}
+
+
+
+\bibliography{literature}
+
+
+\end{document}
+
+
+

@@ -1,0 +1,54 @@
+ Family: gaussian 
+  Links: mu = identity; sigma = identity 
+Formula: LogRT ~ compatible.C + EmbeddingBias.C + compatible.C * EmbeddingBias.C + (1 + compatible.C | noun) + (1 + compatible.C + EmbeddingBias.C + compatible.C * EmbeddingBias.C + EmbeddingBias.C | workerid) + (1 + compatible.C + EmbeddingBias.C + compatible.C * EmbeddingBias.C + EmbeddingBias.C | item) 
+   Data: data %>% filter(Region == "REGION_3_0") (Number of observations: 402) 
+Samples: 4 chains, each with iter = 2000; warmup = 1000; thin = 1;
+         total post-warmup samples = 4000
+
+Group-Level Effects: 
+~item (Number of levels: 20) 
+                                                  Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                                         0.22      0.04     0.16     0.32 1.00     1672     2807
+sd(compatible.C)                                      0.12      0.05     0.02     0.23 1.00     1306      910
+sd(EmbeddingBias.C)                                   0.02      0.01     0.00     0.05 1.00     2138     2449
+sd(compatible.C:EmbeddingBias.C)                      0.03      0.02     0.00     0.08 1.00     2315     2492
+cor(Intercept,compatible.C)                           0.53      0.28    -0.13     0.92 1.00     3027     2200
+cor(Intercept,EmbeddingBias.C)                        0.04      0.42    -0.75     0.80 1.00     6315     2687
+cor(compatible.C,EmbeddingBias.C)                    -0.03      0.43    -0.80     0.77 1.00     4683     3393
+cor(Intercept,compatible.C:EmbeddingBias.C)           0.23      0.43    -0.68     0.88 1.00     5531     2860
+cor(compatible.C,compatible.C:EmbeddingBias.C)        0.12      0.43    -0.73     0.84 1.00     4512     2955
+cor(EmbeddingBias.C,compatible.C:EmbeddingBias.C)     0.07      0.44    -0.77     0.83 1.00     3672     3509
+
+~noun (Number of levels: 22) 
+                            Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                   0.11      0.03     0.06     0.17 1.00     1853     2498
+sd(compatible.C)                0.06      0.04     0.00     0.16 1.00     1459     1553
+cor(Intercept,compatible.C)     0.44      0.46    -0.72     0.98 1.00     2997     1968
+
+~workerid (Number of levels: 40) 
+                                                  Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sd(Intercept)                                         0.19      0.03     0.14     0.24 1.00     1585     2548
+sd(compatible.C)                                      0.08      0.05     0.00     0.19 1.01     1094     1422
+sd(EmbeddingBias.C)                                   0.02      0.01     0.00     0.05 1.00     1454     2213
+sd(compatible.C:EmbeddingBias.C)                      0.05      0.03     0.00     0.12 1.00     1051     1529
+cor(Intercept,compatible.C)                          -0.13      0.37    -0.78     0.63 1.00     4753     2649
+cor(Intercept,EmbeddingBias.C)                       -0.05      0.40    -0.77     0.74 1.00     5299     2943
+cor(compatible.C,EmbeddingBias.C)                     0.03      0.45    -0.79     0.83 1.00     2958     3111
+cor(Intercept,compatible.C:EmbeddingBias.C)          -0.13      0.37    -0.78     0.65 1.00     4422     2628
+cor(compatible.C,compatible.C:EmbeddingBias.C)       -0.14      0.44    -0.87     0.73 1.00     2327     2623
+cor(EmbeddingBias.C,compatible.C:EmbeddingBias.C)     0.15      0.45    -0.75     0.88 1.00     2303     2880
+
+Population-Level Effects: 
+                             Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+Intercept                        6.81      0.07     6.68     6.94 1.00     1221     1468
+compatible.C                     0.08      0.05    -0.01     0.18 1.00     2715     2929
+EmbeddingBias.C                 -0.01      0.02    -0.05     0.03 1.00     2076     2507
+compatible.C:EmbeddingBias.C    -0.03      0.03    -0.08     0.02 1.00     3761     2971
+
+Family Specific Parameters: 
+      Estimate Est.Error l-95% CI u-95% CI Rhat Bulk_ESS Tail_ESS
+sigma     0.28      0.01     0.26     0.31 1.00     2426     2868
+
+Samples were drawn using sampling(NUTS). For each parameter, Bulk_ESS
+and Tail_ESS are effective sample size measures, and Rhat is the potential
+scale reduction factor on split chains (at convergence, Rhat = 1).
